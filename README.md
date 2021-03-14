@@ -12,4 +12,5 @@ Search for "Fantasy Plants" and click the install button when it comes up.
 **Method 2:**
 Start Foundry and head to the Add-on Modules tab. Click Install Module.
 Paste the following link into the "Manifest URL" field at the bottom: https://github.com/KyleBishop/FoundryVTT-FantasyPlants/blob/main/fantasy-plants-compendium/module.json
+
 Click Install
