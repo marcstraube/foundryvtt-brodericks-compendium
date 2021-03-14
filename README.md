@@ -15,7 +15,7 @@ A module that includes over 600 fantasy plants from Broderick's Compendium: Plan
 
 Roll tables and plants are included as compendiums. Open up the roll table and select the region type your party is searching in. Results will be added to a "Found Plants" loot actor for distribution to the players.
 
-#Installation#
+# Installation #
 
 **Method 1:**
 * Start Foundry and head to the Add-on Modules tab. 
