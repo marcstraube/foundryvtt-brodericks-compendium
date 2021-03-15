@@ -26,5 +26,5 @@ Roll tables and plants are included as compendiums. Open up the roll table and s
 **Method 2:**
 * Start Foundry and head to the Add-on Modules tab. 
 * Click Install Module.
-* Paste the following link into the "Manifest URL" field at the bottom: https://github.com/KyleBishop/FoundryVTT-FantasyPlants/blob/main/fantasy-plants-compendium/module.json
+* Paste the following link into the "Manifest URL" field at the bottom: https://github.com/KyleBishop/FoundryVTT-FantasyPlants/releases/download/1.0.0/module.json
 * Click Install
