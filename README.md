@@ -31,6 +31,6 @@ Roll tables and plants are included as compendiums. Open up the roll table and s
 
 
 # Suggested Use #
-I currently use this in my campaign to alloy players to forage. If you use the included roll tables for the region(s) they are in, you can select Generate Loot on the table, it will create a new instance of the item on the Actor "Found Plants" in the Actors tab (it will create that loot actor if you don't have it already). 
+I currently use this in my campaign to allow players to forage. If you use the included roll tables for the region(s) they are in, you can select the Generate Loot button on the table, it will create a new instance of the item on the Actor "Found Plants" in the Actors tab (it will create that loot actor if you don't have it already). 
 
 I also have Forien's Unidentified Items add-on and right click the new plant and mystify before letting the players see it/access it. You can save a copy to your items for reference if you want.
