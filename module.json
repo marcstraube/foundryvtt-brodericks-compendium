@@ -1,0 +1,61 @@
+{
+  "name": "brodericks-compendium",
+  "title": "Broderick's Compendium: Plants and Fungi Across the Realm",
+  "description": "A module that includes over 600 fantasy plants from Broderick's Compendium: Plants and Fungi Across the Realm (version 2.0) (Source: https://www.reddit.com/r/DnD/comments/83oupp/brodericks_compendium_plants_and_fungi_across_the/ ). This addon includes rolltables for Arctic, City, Coastal, Desert, Forest, Jungle, Mountain, Ocean, Plains, River, Swamp, and Underdark/Cave regions as per the source material.",
+  "license": "GPL-3.0-only",
+  "readme": "README.md",
+  "authors": [
+    {
+      "name": "Marc Straube",
+      "email": "email@marcstraube.de",
+      "url": "https://github.com/marcstraube"
+    }
+  ],
+  "version": "1.0.0",
+  "minimumCoreVersion": "0.8.2",
+  "compatibleCoreVersion": "0.8.9",
+  "packs": [
+    {
+      "name": "plants",
+      "label": "Broderick's Compendium: Plants",
+      "path": "packs/plants.db",
+      "entity": "Item",
+      "module": "brodericks-compendium"
+    },
+    {
+      "name": "planttables",
+      "label": "Broderick's Compendium: Plant RollTables",
+      "path": "packs/plantrolltables.db",
+      "entity": "RollTable",
+      "module": "brodericks-compendium"
+    }
+  ],
+  "scripts": [
+    "scripts/rarity.js"
+  ],
+  "languages": [
+    {
+      "lang": "de",
+      "name": "Deutsch",
+      "path": "lang/de.json"
+    },
+    {
+      "lang": "en",
+      "name": "English",
+      "path": "lang/en.json"
+    }
+  ],
+  "dependencies": [
+    {
+      "name": "better-rolltables",
+      "manifest": "https://raw.githubusercontent.com/ultrakorne/better-rolltables/master/module.json"
+    },
+    {
+      "name": "lootsheetnpc5e",
+      "manifest": "https://raw.githubusercontent.com/jopeek/fvtt-loot-sheet-npc-5e/master/module.json"
+    }
+  ],
+  "url": "This is auto replaced",
+  "manifest": "This is auto replaced",
+  "download": "This is auto replaced"
+}
