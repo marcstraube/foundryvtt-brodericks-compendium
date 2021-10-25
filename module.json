@@ -8,16 +8,17 @@
     {
       "name": "Marc Straube",
       "email": "email@marcstraube.de",
+      "discord": "durag-c-walker#8327",
       "url": "https://github.com/marcstraube"
     }
   ],
-  "version": "1.0.0",
+  "version": "This is auto replaced",
   "minimumCoreVersion": "0.8.2",
   "compatibleCoreVersion": "0.8.9",
   "packs": [
     {
       "name": "plants",
-      "label": "Broderick's Compendium: Plants",
+      "label": "Broderick's Compendium: Plants and Fungi",
       "path": "packs/plants.db",
       "entity": "Item",
       "module": "brodericks-compendium"
@@ -31,7 +32,7 @@
     }
   ],
   "scripts": [
-    "scripts/rarity.js"
+    "scripts/init.js"
   ],
   "languages": [
     {

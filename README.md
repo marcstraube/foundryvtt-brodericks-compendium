@@ -25,9 +25,12 @@ searching in. Results will be added to a "Found Plants" loot actor for distribut
 
 This module is a fork of the
 wonderful [FoundryVTT-FantasyPlants](https://github.com/KyleBishop/FoundryVTT-FantasyPlants) module by Kyle Bishop,
-which cleans up the CSS classes and inline styles inside the plant descriptions, so that the native font styles of your
-FoundryVTT theme are applied. Furthermore, it adds the biomes to every plant description and some already legendary
-plants get an additional info, if they are "Exceedingly Rare".
+but with the following changes:
+- The CSS classes and inline styles inside the plant descriptions are removed, so that the native font styles of your
+  FoundryVTT theme are applied. 
+- It provides pictures to many of the plants. 
+- Every plant description contains the biomes where to find it.
+- Some already legendary plants get an additional info, if they are "Exceedingly Rare".
 
 This version also adds compatibility for the new rarity setting, which got introduced by the DND5E 1.4.0 system.
 
@@ -45,7 +48,7 @@ This version also adds compatibility for the new rarity setting, which got intro
 * Start Foundry and head to the Add-on Modules tab.
 * Click Install Module.
 * Paste the following link into the "Manifest URL" field at the
-  bottom: https://github.com/marcstraube/foundryvtt-brodericks-compendium/releases/download/1.0.0/module.json
+  bottom: https://github.com/marcstraube/foundryvtt-brodericks-compendium/releases/download/1.1.0/module.json
 * Click Install
 
 ## Suggested Use
@@ -59,5 +62,7 @@ it/access it. You can save a copy to your items for reference if you want.
 
 ## What's to come?
 
-I'd like to add images (only free-to-use) to every plant in the compendium. If you're interested to help, don't hesitate
-to create a pull request!
+- I hope, that someday I am able to add images (only free-to-use) to every plant in the compendium.
+- Add prices to the plants.
+- Add a second compendium with potions and mixtures made from the plants (and their prices).
+If you're interested to help, don't hesitate to create a pull request!
