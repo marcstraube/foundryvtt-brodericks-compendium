@@ -5,7 +5,7 @@ Hooks.once("init", function () {
 Hooks.once('libChangelogsReady', function () {
     libChangelogs.register(
         "brodericks-compendium",
-        "<ul><li>Add first batch of images.</li><li>Relabel the item compendium to &quot;Broderick's Compendium: Plants and Fungi&quot;.</li></ul>",
+        "<ul><li>Add compendium of plant books: &quot;Broderick's Compendium: Books&quot;.</li></ul>",
         "minor"
     );
 });

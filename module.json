@@ -24,6 +24,13 @@
       "module": "brodericks-compendium"
     },
     {
+      "name": "books",
+      "label": "Broderick's Compendium: Books",
+      "path": "packs/books.db",
+      "entity": "Item",
+      "module": "brodericks-compendium"
+    },
+    {
       "name": "planttables",
       "label": "Broderick's Compendium: Plant RollTables",
       "path": "packs/plantrolltables.db",
