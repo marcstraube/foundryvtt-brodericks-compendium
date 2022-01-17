@@ -5,7 +5,11 @@ Hooks.once("init", function () {
 Hooks.once('libChangelogsReady', function () {
     libChangelogs.register(
         "brodericks-compendium",
-        "<ul><li>Add compendium of plant books: &quot;Broderick's Compendium: Books&quot;.</li></ul>",
+        "<ul>" +
+        "<li>Add compendium with plant books sorted by biomes: &quot;Broderick's Compendium: Books&quot;.</li>" +
+        "<li>Update compatibleCoreVersion to FoundryVtt v9.</li>" +
+        "<li>Make &quot;Better Rolltables&quot; and &quot;Loot Sheet NPC 5E&quot; optional.</li>" +
+        "</ul>",
         "minor"
     );
 });

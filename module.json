@@ -14,7 +14,7 @@
   ],
   "version": "This is auto replaced",
   "minimumCoreVersion": "0.8.2",
-  "compatibleCoreVersion": "0.8.9",
+  "compatibleCoreVersion": "9",
   "packs": [
     {
       "name": "plants",
@@ -53,16 +53,7 @@
       "path": "lang/en.json"
     }
   ],
-  "dependencies": [
-    {
-      "name": "better-rolltables",
-      "manifest": "https://raw.githubusercontent.com/ultrakorne/better-rolltables/master/module.json"
-    },
-    {
-      "name": "lootsheetnpc5e",
-      "manifest": "https://raw.githubusercontent.com/jopeek/fvtt-loot-sheet-npc-5e/master/module.json"
-    }
-  ],
+  "dependencies": [],
   "url": "This is auto replaced",
   "manifest": "This is auto replaced",
   "download": "This is auto replaced"
