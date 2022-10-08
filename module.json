@@ -13,14 +13,17 @@
     }
   ],
   "version": "This is auto replaced",
-  "minimumCoreVersion": "0.8.2",
-  "compatibleCoreVersion": "10",
+  "compatibility": {
+    "minimum": "10",
+    "verified": "10",
+    "maximum": "10"
+  },
   "packs": [
     {
       "name": "plants",
       "label": "Broderick's Compendium: Plants and Fungi",
       "path": "packs/plants.db",
-      "entity": "Item",
+      "type": "Item",
       "module": "brodericks-compendium",
       "system": "dnd5e"
     },
@@ -28,7 +31,7 @@
       "name": "books",
       "label": "Broderick's Compendium: Books",
       "path": "packs/books.db",
-      "entity": "Item",
+      "type": "Item",
       "module": "brodericks-compendium",
       "system": "dnd5e"
 
@@ -37,7 +40,7 @@
       "name": "planttables",
       "label": "Broderick's Compendium: Plant RollTables",
       "path": "packs/plantrolltables.db",
-      "entity": "RollTable",
+      "type": "RollTable",
       "module": "brodericks-compendium",
       "system": "dnd5e"
 
@@ -58,7 +61,7 @@
       "path": "lang/en.json"
     }
   ],
-  "dependencies": [],
+  "relationships": {},
   "url": "This is auto replaced",
   "manifest": "This is auto replaced",
   "download": "This is auto replaced"
