@@ -64,5 +64,9 @@
   "relationships": {},
   "url": "This is auto replaced",
   "manifest": "This is auto replaced",
-  "download": "This is auto replaced"
+  "download": "This is auto replaced",
+  "bugs": "https://github.com/marcstraube/foundryvtt-brodericks-compendium/issues",
+  "flags": {
+    "allowBugReporter": true
+  }
 }

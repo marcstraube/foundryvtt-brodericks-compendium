@@ -6,9 +6,7 @@ Hooks.once('libChangelogsReady', function () {
     libChangelogs.register(
         "brodericks-compendium",
         "<ul>" +
-        "<li>Add compendium with plant books sorted by biomes: &quot;Broderick's Compendium: Books&quot;.</li>" +
-        "<li>Update compatibleCoreVersion to FoundryVtt v9.</li>" +
-        "<li>Make &quot;Better Rolltables&quot; and &quot;Loot Sheet NPC 5E&quot; optional.</li>" +
+        "<li>Add support for <a href='https://foundryvtt.com/packages/bug-reporter' target='_blank' style='font-style: bold;'>Bug Reporter</a> module.</li>" +
         "</ul>",
         "minor"
     );
