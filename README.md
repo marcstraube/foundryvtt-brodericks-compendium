@@ -5,8 +5,8 @@
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/marcstraube/foundryvtt-brodericks-compendium?label=Latest%20Release&prefix=v&query=$.version&colorB=red&style=for-the-badge)
 ![Foundry Core Minimal Compatible Version](https://img.shields.io/badge/dynamic/json.svg?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmarcstraube%2Ffoundryvtt-brodericks-compendium%2Fmaster%2Fmodule.json&label=Foundry%20Version&query=$.compatibility.minimum&colorB=orange&style=for-the-badge)
 [![Forge Installs](https://img.shields.io/badge/dynamic/json?label=Forge%20Installs&query=package.installs&suffix=%25&url=https%3A%2F%2Fforge-vtt.com%2Fapi%2Fbazaar%2Fpackage%2Fbrodericks-compendium&colorB=006400&style=for-the-badge)](https://forge-vtt.com/bazaar#package=brodericks-compendium)
-
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/J3J1FVK91)
+[![ko-fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/J3J1FVK91)
+[![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/NerdyByNatureDev)
 
 A module for FoundryVTT that includes over 600 fantasy plants from Broderick's Compendium: Plants and Fungi Across the Realm (version 2.0) (Source: <https://www.reddit.com/r/DnD/comments/83oupp/brodericks_compendium_plants_and_fungi_across_the/>).
 I did not create any of the plants. This addon includes rolltables for the following regions as per the source material:
