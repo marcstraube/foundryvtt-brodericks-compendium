@@ -1,5 +1,7 @@
 # Broderick's Compendium: Plants and Fungi Across the Realm
 
+# USE THIS INSTEAD [https://github.com/p4535992/foundryvtt-compendiums-mix-dnd5e](https://github.com/p4535992/foundryvtt-compendiums-mix-dnd5e)
+
 ![All Releases Download Count](https://img.shields.io/github/downloads/marcstraube/foundryvtt-brodericks-compendium/module.zip?color=2b82fc&label=%20Downloads%20%28all%29&style=for-the-badge)
 ![Latest Release Download Count](https://img.shields.io/github/downloads/marcstraube/foundryvtt-brodericks-compendium/latest/module.zip?label=Downloads%20%28latest%20release%29&style=for-the-badge)
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/marcstraube/foundryvtt-brodericks-compendium?label=Latest%20Release&prefix=v&query=$.version&colorB=red&style=for-the-badge)
