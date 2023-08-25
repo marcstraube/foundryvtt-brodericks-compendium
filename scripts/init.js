@@ -6,8 +6,13 @@ Hooks.once('libChangelogsReady', function () {
     libChangelogs.register(
         "brodericks-compendium",
         "<ul>" +
-        "<li>Add support for <a href='https://foundryvtt.com/packages/bug-reporter' target='_blank' style='font-style: bold;'>Bug Reporter</a> module.</li>" +
+        "<li>Update compatiblity for FoundryVTT v11.</li>" +
+        "<li>Roll formulars in item descriptions are now clickable.</li>" +
+        "<li>Update Plant Roll Tables to include the item images (if one exists).</li>" +
+        "<li>Add missing plants to roll tables and remove duplicates and wrong categorized items.</li>" +
+        "<li>Add new book &quot;Broderick's Compendium: Charms, Potions & Poisons&quot;.</li>" +
+        "<li>Add new item &quot;Nine Herbs Charm&quot;.</li>" +
         "</ul>",
-        "minor"
+        "major"
     );
 });
