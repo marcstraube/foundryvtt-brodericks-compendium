@@ -1,18 +1,18 @@
-Hooks.once("init", function () {
-    CONFIG.DND5E.itemRarity.veryCommon = "very common";
+libChangelogs.register(
+    "brodericks-compendium",
+    "<ul>" +
+    "<li>Big image update: All plants and monsters now use their own image or icon.</li>" +
+    "<li>Fix CR of Marsh Maw monster.</li>" +
+    "<li>Create new compendium for plant and fungi based monsters.</li>" +
+    "<li>Update desriptions of Covadish, Dagmather and Gefnul to give more information on their appearance.</li>" +
+    "<li>Add pre-defined folder structure for compendiums (FoundryVTT >= 11).</li>" +
+    "<li>Add banner images for compendiums (FoundryVTT >= 11)</li>" +
+    "</ul>",
+    "major"
+);
+Hooks.once('libChangelogsReady', function () {
 });
 
-Hooks.once('libChangelogsReady', function () {
-    libChangelogs.register(
-        "brodericks-compendium",
-        "<ul>" +
-        "<li>Update compatiblity for FoundryVTT v11.</li>" +
-        "<li>Roll formulars in item descriptions are now clickable.</li>" +
-        "<li>Update Plant Roll Tables to include the item images (if one exists).</li>" +
-        "<li>Add missing plants to roll tables and remove duplicates and wrong categorized items.</li>" +
-        "<li>Add new book &quot;Broderick's Compendium: Charms, Potions & Poisons&quot;.</li>" +
-        "<li>Add new item &quot;Nine Herbs Charm&quot;.</li>" +
-        "</ul>",
-        "major"
-    );
+Hooks.once("init", function () {
+    CONFIG.DND5E.itemRarity.veryCommon = "very common";
 });

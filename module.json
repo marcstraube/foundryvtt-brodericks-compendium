@@ -1,7 +1,7 @@
 {
   "name": "brodericks-compendium",
   "title": "Broderick's Compendium: Plants and Fungi Across the Realm",
-  "description": "A module that includes over 600 fantasy plants from Broderick's Compendium: Plants and Fungi Across the Realm (version 2.0) (Source: https://www.reddit.com/r/DnD/comments/83oupp/brodericks_compendium_plants_and_fungi_across_the/ ). This addon includes rolltables for Arctic, City, Coastal, Desert, Forest, Jungle, Mountain, Ocean, Plains, River, Swamp, and Underdark/Cave regions as per the source material.",
+  "description": "A module that includes over 600 fantasy plants from Broderick's Compendium: Plants and Fungi Across the Realm (version 2.0) (Source: https://www.reddit.com/r/DnD/comments/83oupp/brodericks_compendium_plants_and_fungi_across_the/ ). This addon includes roll tables for Arctic, City, Coastal, Desert, Forest, Jungle, Mountain, Ocean, Plains, River, Swamp, and Underdark/Cave regions as per the source material.",
   "license": "GPL-3.0-only",
   "library": "false",
   "authors": [
@@ -20,8 +20,16 @@
   },
   "packs": [
     {
+      "name": "monsters",
+      "label": "Monsters (Broderick's Compendium)",
+      "path": "packs/monsters.db",
+      "type": "Actor",
+      "module": "brodericks-compendium",
+      "system": "dnd5e"
+    },
+    {
       "name": "plants",
-      "label": "Broderick's Compendium: Plants and Fungi",
+      "label": "Plants and Fungi (Broderick's Compendium)",
       "path": "packs/plants.db",
       "type": "Item",
       "module": "brodericks-compendium",
@@ -29,7 +37,7 @@
     },
     {
       "name": "books",
-      "label": "Broderick's Compendium: Books",
+      "label": "Books (Broderick's Compendium)",
       "path": "packs/books.db",
       "type": "Item",
       "module": "brodericks-compendium",
@@ -38,7 +46,7 @@
     },
     {
       "name": "planttables",
-      "label": "Broderick's Compendium: Plant RollTables",
+      "label": "Plant RollTables (Broderick's Compendium)",
       "path": "packs/plantrolltables.db",
       "type": "RollTable",
       "module": "brodericks-compendium",
@@ -46,8 +54,38 @@
 
     }
   ],
+  "packFolders": [
+    {
+      "name": "Broderick's Compendium",
+      "color": "#163800",
+      "sorting": "a",
+      "folders": [
+        {
+          "name": "Actors",
+          "sorting": "a",
+          "color": "#265408",
+          "packs": ["monsters"]
+        },
+        {
+          "name": "Items",
+          "sorting": "a",
+          "color": "#265408",
+          "packs": ["plants", "books"]
+        },
+        {
+          "name": "Roll Tables",
+          "sorting": "a",
+          "color": "#265408",
+          "packs": ["planttables"]
+        }
+      ]
+    }
+  ],
   "scripts": [
     "scripts/init.js"
+  ],
+  "styles": [
+    "styles/style.css"
   ],
   "languages": [
     {
