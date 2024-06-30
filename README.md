@@ -62,23 +62,15 @@ has since received a ton of updates:
 
 ## Optional Dependencies
 
-Install [Better Rolltables](https://github.com/ultrakorne/better-rolltables)
-and [Loot Sheet NPC 5E](https://github.com/jopeek/fvtt-loot-sheet-npc-5e) for enhanced functionality.
+Install [Better Rolltables](https://github.com/p4535992/foundryvtt-better-rolltables) for enhanced functionality.
 
 Install [Compendium Themer](https://github.com/p4535992/foundryvtt-compendium-themer) to custom style the compendiums. 
-
-Install [libChangelog](https://github.com/theripper93/libChangelogs) to see a changelog with every module update.
 
 ## Suggested Use
 
 I currently use this in my campaign to allow players to forage. If you use the included roll tables for the region(s)
 they are in, you can select the Generate Loot button on the table, it will create a new instance of the item on the
 Actor "Found Plants" in the Actors tab (it will create that loot actor if you don't have it already).
-
-I also
-have [Forien's Unidentified Items](https://github.com/League-of-Foundry-Developers/foundryvtt-forien-unidentified-items/)
-add-on and right-click the new plant and mystify before letting the players see it/access it. You can save a copy to
-your items for reference if you want.
 
 ## What's to come?
 
