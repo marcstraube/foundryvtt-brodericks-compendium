@@ -1,0 +1,126 @@
+{
+  "name": "Flintmoss",
+  "type": "consumable",
+  "flags": {
+    "betterRolls5e": {
+      "critRange": {
+        "value": null
+      },
+      "critDamage": {
+        "value": ""
+      },
+      "quickDesc": {
+        "value": true,
+        "altValue": true
+      },
+      "quickProperties": {
+        "value": true,
+        "altValue": true
+      },
+      "quickOther": {
+        "value": true,
+        "altValue": true
+      },
+      "quickFlavor": {
+        "value": true,
+        "altValue": true
+      },
+      "quickCharges": {
+        "value": {
+          "quantity": false
+        },
+        "altValue": {
+          "quantity": false
+        }
+      }
+    }
+  },
+  "img": "modules/brodericks-compendium/icons/lichen-moss.svg",
+  "effects": [],
+  "_id": "KWgxE4PPoGBzheaN",
+  "system": {
+    "description": {
+      "value": "<p><em>Biome: Mountains, Rivers</em></p>\n<p>A dark grey moss, dotted with small flecks of rust-brown, Flint Moss is commonly found in area of thermal activity or bright and constant sunlight. The moss requires fire to spread its seeds, and will ignite from even the smallest sparks. A 3\" cube of Flint Moss will burn for 3 to 4 hours and put off flame comparable to a normal sized camp fire. The moss growing on piles of rubble or loose rock is the most dangerous as friction from shifting stones can create enough heat or sparks to ignite patches of the moss, turning what was once a moss-covered mound of debris into a raging inferno. Application of Flintmoss to a bludgeoning weapon and lighting the weapon ablaze will add +3 fire damage to any successful attacks made with the weapon for [[/roll 1d4+1]] hours after application.</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Broderick's Compendium: Plants and Fungi Across the Realm (version 2.0)",
+    "quantity": 1,
+    "weight": {
+      "value": 0,
+      "units": "lb"
+    },
+    "price": 0,
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "rare",
+    "identified": true,
+    "activation": {
+      "type": "",
+      "cost": null,
+      "condition": ""
+    },
+    "duration": {
+      "value": null,
+      "units": ""
+    },
+    "cover": null,
+    "crewed": false,
+    "target": {
+      "value": null,
+      "width": null,
+      "units": "",
+      "type": ""
+    },
+    "range": {
+      "value": null,
+      "long": null,
+      "units": ""
+    },
+    "uses": {
+      "value": null,
+      "max": 0,
+      "per": null,
+      "recovery": "",
+      "autoDestroy": false
+    },
+    "consume": {
+      "type": "",
+      "target": null,
+      "amount": null
+    },
+    "ability": null,
+    "actionType": "",
+    "attackBonus": 0,
+    "chatFlavor": "",
+    "critical": null,
+    "damage": {
+      "parts": [],
+      "versatile": ""
+    },
+    "formula": "",
+    "save": {
+      "ability": "",
+      "dc": null,
+      "scaling": "spell"
+    },
+    "consumableType": "potion",
+    "attuned": false
+  },
+  "ownership": {
+    "default": 0
+  },
+  "folder": null,
+  "sort": 0,
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "2.2.1",
+    "coreVersion": "12.328",
+    "createdTime": null,
+    "modifiedTime": 1700907248250,
+    "lastModifiedBy": "packsbuilder0000",
+    "compendiumSource": null,
+    "duplicateSource": null
+  },
+  "_key": "!items!KWgxE4PPoGBzheaN"
+}

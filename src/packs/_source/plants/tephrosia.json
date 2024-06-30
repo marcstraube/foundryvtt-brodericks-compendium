@@ -1,0 +1,123 @@
+{
+  "_id": "yn7OF1yjgZt5vWs5",
+  "name": "Tephrosia",
+  "type": "consumable",
+  "img": "modules/brodericks-compendium/images/tephrosia.webp",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "betterRolls5e": {
+      "critRange": {
+        "value": null
+      },
+      "critDamage": {
+        "value": ""
+      },
+      "quickDesc": {
+        "value": true,
+        "altValue": true
+      },
+      "quickProperties": {
+        "value": true,
+        "altValue": true
+      },
+      "quickOther": {
+        "value": true,
+        "altValue": true
+      },
+      "quickFlavor": {
+        "value": true,
+        "altValue": true
+      },
+      "quickCharges": {
+        "value": {
+          "quantity": false
+        },
+        "altValue": {
+          "quantity": false
+        }
+      }
+    }
+  },
+  "_stats": {
+    "coreVersion": "12.328",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "system": {
+    "description": {
+      "value": "<p><em>Biome: Forests</em></p>\n<p>Tephrosia consists of a small woody stem, with fern like leaves along its length, and the plant is topped by several small flowers (or in summer, seedpods). Either the flowers or the seeds may be boiled in water and then drunk to calm the recipient. This is very useful when a person is delirious, or otherwise insane. It also has a mild pain-relieving effect and may be given to the slightly wounded. The seedpods are more effective than the flowers and may also be dried. This herb is mildly addictive and should be used with care (DC 11 Cons. Save, addiction causes mild insomnia, turning long rests into short rests).</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Broderick's Compendium: Plants and Fungi Across the Realm (version 2.0)",
+    "quantity": 1,
+    "weight": {
+      "value": 0,
+      "units": "lb"
+    },
+    "price": 0,
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "uncommon",
+    "identified": true,
+    "activation": {
+      "type": "",
+      "cost": null,
+      "condition": ""
+    },
+    "duration": {
+      "value": null,
+      "units": ""
+    },
+    "target": {
+      "value": null,
+      "width": null,
+      "units": "",
+      "type": ""
+    },
+    "range": {
+      "value": null,
+      "long": null,
+      "units": ""
+    },
+    "uses": {
+      "value": null,
+      "max": 0,
+      "per": null,
+      "autoDestroy": false
+    },
+    "consume": {
+      "type": "",
+      "target": null,
+      "amount": null
+    },
+    "ability": null,
+    "actionType": "",
+    "attackBonus": 0,
+    "chatFlavor": "",
+    "critical": null,
+    "damage": {
+      "parts": [],
+      "versatile": ""
+    },
+    "formula": "",
+    "save": {
+      "ability": "",
+      "dc": null,
+      "scaling": "spell"
+    },
+    "consumableType": "potion",
+    "attuned": false
+  },
+  "_key": "!items!yn7OF1yjgZt5vWs5"
+}

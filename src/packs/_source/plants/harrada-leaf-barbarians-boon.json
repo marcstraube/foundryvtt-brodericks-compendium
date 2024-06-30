@@ -1,0 +1,126 @@
+{
+  "_id": "83DoD1p8pbp4ooFY",
+  "name": "Harrada Leaf (Barbarian's Boon)",
+  "type": "consumable",
+  "flags": {
+    "betterRolls5e": {
+      "critRange": {
+        "value": null
+      },
+      "critDamage": {
+        "value": ""
+      },
+      "quickDesc": {
+        "value": true,
+        "altValue": true
+      },
+      "quickProperties": {
+        "value": true,
+        "altValue": true
+      },
+      "quickOther": {
+        "value": true,
+        "altValue": true
+      },
+      "quickFlavor": {
+        "value": true,
+        "altValue": true
+      },
+      "quickCharges": {
+        "value": {
+          "quantity": false
+        },
+        "altValue": {
+          "quantity": false
+        }
+      }
+    }
+  },
+  "img": "modules/brodericks-compendium/icons/pipeweed.svg",
+  "effects": [],
+  "system": {
+    "description": {
+      "value": "<p><em>Biome: Jungles</em></p>\n<p>A green, leafy plant whose leaves are tinged with a deep purple. The leaves are commonly dried and smoked or cultivated and harvested for this purpose by criminal organizations. Although highly addictive, Harrada Leaf is used to grant a huge boon to a person&rsquo;s physical strength at the cost of intelligence and common sense. After consumption, Harrada Leaf will grant a +4 bonus to the Strength skill at the cost of -3 to both Wisdom and Intelligence (not reducing either of these stats to less than zero) for a period of [[/roll 1d4-1]] hours. After this period is up (with the exception of rolling a 1-1) the user will have to make a DC 18 Cons. Save or be poisoned by the drug&rsquo;s after-effects, which will instill a -3 penalty to strength and a -1 penalty to both Wisdom and Intelligence until the next dosage is consumed.</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Broderick's Compendium: Plants and Fungi Across the Realm (version 2.0)",
+    "quantity": 1,
+    "weight": {
+      "value": 0,
+      "units": "lb"
+    },
+    "price": 0,
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "veryRare",
+    "identified": true,
+    "activation": {
+      "type": "",
+      "cost": null,
+      "condition": ""
+    },
+    "duration": {
+      "value": null,
+      "units": ""
+    },
+    "cover": null,
+    "crewed": false,
+    "target": {
+      "value": null,
+      "width": null,
+      "units": "",
+      "type": ""
+    },
+    "range": {
+      "value": null,
+      "long": null,
+      "units": ""
+    },
+    "uses": {
+      "value": null,
+      "max": 0,
+      "per": null,
+      "recovery": "",
+      "autoDestroy": false
+    },
+    "consume": {
+      "type": "",
+      "target": null,
+      "amount": null
+    },
+    "ability": null,
+    "actionType": "",
+    "attackBonus": 0,
+    "chatFlavor": "",
+    "critical": null,
+    "damage": {
+      "parts": [],
+      "versatile": ""
+    },
+    "formula": "",
+    "save": {
+      "ability": "",
+      "dc": null,
+      "scaling": "spell"
+    },
+    "consumableType": "potion",
+    "attuned": false
+  },
+  "ownership": {
+    "default": 0
+  },
+  "folder": null,
+  "sort": 0,
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "2.2.1",
+    "coreVersion": "12.328",
+    "createdTime": null,
+    "modifiedTime": 1700959099849,
+    "lastModifiedBy": "packsbuilder0000",
+    "compendiumSource": null,
+    "duplicateSource": null
+  },
+  "_key": "!items!83DoD1p8pbp4ooFY"
+}

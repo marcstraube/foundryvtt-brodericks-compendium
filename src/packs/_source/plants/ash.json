@@ -1,0 +1,123 @@
+{
+  "_id": "FJ2SlsVxbq3OrUvR",
+  "name": "Ash",
+  "type": "consumable",
+  "img": "modules/brodericks-compendium/images/ash.webp",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "betterRolls5e": {
+      "critRange": {
+        "value": null
+      },
+      "critDamage": {
+        "value": ""
+      },
+      "quickDesc": {
+        "value": true,
+        "altValue": true
+      },
+      "quickProperties": {
+        "value": true,
+        "altValue": true
+      },
+      "quickOther": {
+        "value": true,
+        "altValue": true
+      },
+      "quickFlavor": {
+        "value": true,
+        "altValue": true
+      },
+      "quickCharges": {
+        "value": {
+          "quantity": false
+        },
+        "altValue": {
+          "quantity": false
+        }
+      }
+    }
+  },
+  "_stats": {
+    "coreVersion": "12.328",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "system": {
+    "description": {
+      "value": "<p><em>Biome: Forests</em></p>\n<p>The bark of the ash tree must be stripped from its branches and boiled in clear water for one day. It should then be drunk as a cure for fevers, especially those caused by diseases such as malaria. It does not cure the cause of the fever but merely brings it under control within [[/roll 2d6]] hours. The ash tree is sacred to worshipers of Thor, who use its wood to make spears. The wood of the ash tree may possibly be used as an essential item in the manufacture of magical spears. Ash leaves should be boiled in water and drunk as a cure for poison. The ash tree has ash grey bark, and black buds. Its flowers have no petals. Ash trees are also by tradition used to make stakes for the purposes of killing vampires according to many ancient legends.</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Broderick's Compendium: Plants and Fungi Across the Realm (version 2.0)",
+    "quantity": 1,
+    "weight": {
+      "value": 0,
+      "units": "lb"
+    },
+    "price": 0,
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "common",
+    "identified": true,
+    "activation": {
+      "type": "",
+      "cost": null,
+      "condition": ""
+    },
+    "duration": {
+      "value": null,
+      "units": ""
+    },
+    "target": {
+      "value": null,
+      "width": null,
+      "units": "",
+      "type": ""
+    },
+    "range": {
+      "value": null,
+      "long": null,
+      "units": ""
+    },
+    "uses": {
+      "value": null,
+      "max": 0,
+      "per": null,
+      "autoDestroy": false
+    },
+    "consume": {
+      "type": "",
+      "target": null,
+      "amount": null
+    },
+    "ability": null,
+    "actionType": "",
+    "attackBonus": 0,
+    "chatFlavor": "",
+    "critical": null,
+    "damage": {
+      "parts": [],
+      "versatile": ""
+    },
+    "formula": "",
+    "save": {
+      "ability": "",
+      "dc": null,
+      "scaling": "spell"
+    },
+    "consumableType": "potion",
+    "attuned": false
+  },
+  "_key": "!items!FJ2SlsVxbq3OrUvR"
+}

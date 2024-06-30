@@ -1,0 +1,126 @@
+{
+  "name": "Fordamna",
+  "type": "consumable",
+  "flags": {
+    "betterRolls5e": {
+      "critRange": {
+        "value": null
+      },
+      "critDamage": {
+        "value": ""
+      },
+      "quickDesc": {
+        "value": true,
+        "altValue": true
+      },
+      "quickProperties": {
+        "value": true,
+        "altValue": true
+      },
+      "quickOther": {
+        "value": true,
+        "altValue": true
+      },
+      "quickFlavor": {
+        "value": true,
+        "altValue": true
+      },
+      "quickCharges": {
+        "value": {
+          "quantity": false
+        },
+        "altValue": {
+          "quantity": false
+        }
+      }
+    }
+  },
+  "img": "modules/brodericks-compendium/icons/mushroom.svg",
+  "effects": [],
+  "_id": "6PzBKkP9NAb5KHFe",
+  "system": {
+    "description": {
+      "value": "<p><em>Biome: Underdark & Caves<br><span style=\"color:#f00;\">Exceedingly Rare</span></em></p>\n<p>Found in only one place, a small fungus/plant hybrid bush sprouted after a Lich poisoned the earth which necrotic magic. This abomination of nature is immune to most types of physical damage and grows back in the same place 17 years after its destruction. Whenever the fordammar grows back in this manner, it begins to fruit a medium-sized, hard, black berry with a spiky outer shell. When these berries are consumed, it will cause instantaneous, incredibly painful and irreversible death. Nothing can be done to resurrect a character that dies in this manner.</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Broderick's Compendium: Plants and Fungi Across the Realm (version 2.0)",
+    "quantity": 1,
+    "weight": {
+      "value": 0,
+      "units": "lb"
+    },
+    "price": 0,
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "legendary",
+    "identified": true,
+    "activation": {
+      "type": "",
+      "cost": null,
+      "condition": ""
+    },
+    "duration": {
+      "value": null,
+      "units": ""
+    },
+    "cover": null,
+    "crewed": false,
+    "target": {
+      "value": null,
+      "width": null,
+      "units": "",
+      "type": ""
+    },
+    "range": {
+      "value": null,
+      "long": null,
+      "units": ""
+    },
+    "uses": {
+      "value": null,
+      "max": 0,
+      "per": null,
+      "recovery": "",
+      "autoDestroy": false
+    },
+    "consume": {
+      "type": "",
+      "target": null,
+      "amount": null
+    },
+    "ability": null,
+    "actionType": "",
+    "attackBonus": 0,
+    "chatFlavor": "",
+    "critical": null,
+    "damage": {
+      "parts": [],
+      "versatile": ""
+    },
+    "formula": "",
+    "save": {
+      "ability": "",
+      "dc": null,
+      "scaling": "spell"
+    },
+    "consumableType": "potion",
+    "attuned": false
+  },
+  "ownership": {
+    "default": 0
+  },
+  "folder": null,
+  "sort": 0,
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "2.2.1",
+    "coreVersion": "12.328",
+    "createdTime": null,
+    "modifiedTime": 1698243440531,
+    "lastModifiedBy": "packsbuilder0000",
+    "compendiumSource": null,
+    "duplicateSource": null
+  },
+  "_key": "!items!6PzBKkP9NAb5KHFe"
+}

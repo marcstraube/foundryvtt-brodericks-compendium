@@ -1,0 +1,126 @@
+{
+  "name": "Pondstone Tree",
+  "type": "consumable",
+  "flags": {
+    "betterRolls5e": {
+      "critRange": {
+        "value": null
+      },
+      "critDamage": {
+        "value": ""
+      },
+      "quickDesc": {
+        "value": true,
+        "altValue": true
+      },
+      "quickProperties": {
+        "value": true,
+        "altValue": true
+      },
+      "quickOther": {
+        "value": true,
+        "altValue": true
+      },
+      "quickFlavor": {
+        "value": true,
+        "altValue": true
+      },
+      "quickCharges": {
+        "value": {
+          "quantity": false
+        },
+        "altValue": {
+          "quantity": false
+        }
+      }
+    }
+  },
+  "img": "modules/brodericks-compendium/icons/tree.svg",
+  "effects": [],
+  "_id": "YPT0DdzDQC6zqYHM",
+  "system": {
+    "description": {
+      "value": "<p><em>Biome: Jungles, Swamps</em></p>\n<p>A towering willow relative that grows in tropical and near-tropical swamps, pondstone wood is often used for its flexibility while freshly cut to construct simple boats and canoes. In addition, the reduction of the wood over a low flame will cause a collection of sap on the ends of the wood. This sap can then be collected, further distilled, and consumed as a tincture that induces mild hallucinogenic effects, including the capability to see one&rsquo;s own body from a third person point of view. It is argued among enthusiasts about whether you truly do see yourself in third person or whether the hallucinations are just a reconstruction of your surroundings using artificially heightened senses. There are no known negative side effects to pondstone sap consumption, and the recreational use of pondstone sap is referred to as Sap Goggling.</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Broderick's Compendium: Plants and Fungi Across the Realm (version 2.0)",
+    "quantity": 1,
+    "weight": {
+      "value": 0,
+      "units": "lb"
+    },
+    "price": 0,
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "uncommon",
+    "identified": true,
+    "activation": {
+      "type": "",
+      "cost": null,
+      "condition": ""
+    },
+    "duration": {
+      "value": null,
+      "units": ""
+    },
+    "cover": null,
+    "crewed": false,
+    "target": {
+      "value": null,
+      "width": null,
+      "units": "",
+      "type": ""
+    },
+    "range": {
+      "value": null,
+      "long": null,
+      "units": ""
+    },
+    "uses": {
+      "value": null,
+      "max": 0,
+      "per": null,
+      "recovery": "",
+      "autoDestroy": false
+    },
+    "consume": {
+      "type": "",
+      "target": null,
+      "amount": null
+    },
+    "ability": null,
+    "actionType": "",
+    "attackBonus": 0,
+    "chatFlavor": "",
+    "critical": null,
+    "damage": {
+      "parts": [],
+      "versatile": ""
+    },
+    "formula": "",
+    "save": {
+      "ability": "",
+      "dc": null,
+      "scaling": "spell"
+    },
+    "consumableType": "potion",
+    "attuned": false
+  },
+  "ownership": {
+    "default": 0
+  },
+  "folder": null,
+  "sort": 0,
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "2.2.1",
+    "coreVersion": "12.328",
+    "createdTime": null,
+    "modifiedTime": 1698239499924,
+    "lastModifiedBy": "packsbuilder0000",
+    "compendiumSource": null,
+    "duplicateSource": null
+  },
+  "_key": "!items!YPT0DdzDQC6zqYHM"
+}

@@ -1,0 +1,126 @@
+{
+  "name": "Stirge Traps",
+  "type": "consumable",
+  "flags": {
+    "betterRolls5e": {
+      "critRange": {
+        "value": null
+      },
+      "critDamage": {
+        "value": ""
+      },
+      "quickDesc": {
+        "value": true,
+        "altValue": true
+      },
+      "quickProperties": {
+        "value": true,
+        "altValue": true
+      },
+      "quickOther": {
+        "value": true,
+        "altValue": true
+      },
+      "quickFlavor": {
+        "value": true,
+        "altValue": true
+      },
+      "quickCharges": {
+        "value": {
+          "quantity": false
+        },
+        "altValue": {
+          "quantity": false
+        }
+      }
+    }
+  },
+  "img": "modules/brodericks-compendium/icons/venus-flytrap.svg",
+  "effects": [],
+  "_id": "Bt7C371sgtw3PTbZ",
+  "system": {
+    "description": {
+      "value": "<p><em>Biome: Plains, Swamps</em></p>\n<p>These short plants grow several wide leaves covered in fine hairs, and a single large bell-shaped flower. The flower exudes a sticky sap that is deep red in hue, nearly the color of fresh blood, and also has a coppery aroma. The smell and coloration of the sap is intended to attract predators that prey on blood, such as stirge and giant mosquitos. While smaller insects are trapped by the sticky sap, the leaves are also covered in fine hairs, and when they are touched they curl up, trapping larger prey. Some farmers plant the flowers around the edges of their livestock pens, to keep stirge predation to a minimum, and in more urban areas pots of the sap are left out to trap mosquitos and other airborne pests. The plants are too small to effect people in the same manner.</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Broderick's Compendium: Plants and Fungi Across the Realm (version 2.0)",
+    "quantity": 1,
+    "weight": {
+      "value": 0,
+      "units": "lb"
+    },
+    "price": 0,
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "veryCommon",
+    "identified": true,
+    "activation": {
+      "type": "",
+      "cost": null,
+      "condition": ""
+    },
+    "duration": {
+      "value": null,
+      "units": ""
+    },
+    "cover": null,
+    "crewed": false,
+    "target": {
+      "value": null,
+      "width": null,
+      "units": "",
+      "type": ""
+    },
+    "range": {
+      "value": null,
+      "long": null,
+      "units": ""
+    },
+    "uses": {
+      "value": null,
+      "max": 0,
+      "per": null,
+      "recovery": "",
+      "autoDestroy": false
+    },
+    "consume": {
+      "type": "",
+      "target": null,
+      "amount": null
+    },
+    "ability": null,
+    "actionType": "",
+    "attackBonus": 0,
+    "chatFlavor": "",
+    "critical": null,
+    "damage": {
+      "parts": [],
+      "versatile": ""
+    },
+    "formula": "",
+    "save": {
+      "ability": "",
+      "dc": null,
+      "scaling": "spell"
+    },
+    "consumableType": "potion",
+    "attuned": false
+  },
+  "ownership": {
+    "default": 0
+  },
+  "folder": null,
+  "sort": 0,
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "2.2.1",
+    "coreVersion": "12.328",
+    "createdTime": null,
+    "modifiedTime": 1701016502962,
+    "lastModifiedBy": "packsbuilder0000",
+    "compendiumSource": null,
+    "duplicateSource": null
+  },
+  "_key": "!items!Bt7C371sgtw3PTbZ"
+}

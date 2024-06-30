@@ -1,13 +1,3 @@
-Hooks.once('libChangelogsReady', function () {
-    libChangelogs.register(
-        "brodericks-compendium",
-        "<ul>" +
-        "<li>Add integration with <a href='https://github.com/p4535992/foundryvtt-compendium-themer' target='_blank'>Compendium Themer</a> (FoundryVTT >= 11)" +
-        "</ul>",
-        "minor"
-    );
-});
-
 Hooks.once("init", function () {
     CONFIG.DND5E.itemRarity.veryCommon = "very common";
 });
@@ -15,7 +5,7 @@ Hooks.once("init", function () {
 const MODULE_ID = "brodericks-compendium";
 
 Hooks.once("ready", async () => {
-    if(game.modules.get("compendium-themer")?.active) {
+    if (game.modules.get("compendium-themer")?.active) {
         game.modules.get("compendium-themer").api.addModule(MODULE_ID, [
             {
                 dataPack: `${MODULE_ID}.monsters`,

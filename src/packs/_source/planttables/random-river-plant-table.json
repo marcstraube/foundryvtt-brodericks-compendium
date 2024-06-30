@@ -1,0 +1,894 @@
+{
+  "name": "Random River Plant Table",
+  "flags": {
+    "better-rolltables": {
+      "tags": "",
+      "table-type": "loot",
+      "table-currency-string": "",
+      "loot-amount-key": "1",
+      "loot-actor-name": "Found Plants"
+    }
+  },
+  "img": "icons/svg/d20-grey.svg",
+  "description": "Random list of plants to pull from for foraging and for potential use with alchemy. Can include special types of wood for carpentry as well.",
+  "results": [
+    {
+      "_id": "kwdMYO0WQn7WyyZC",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": ""
+          }
+        }
+      },
+      "type": "pack",
+      "text": "Air Plant",
+      "img": "icons/svg/mystery-man.svg",
+      "weight": 45,
+      "range": [
+        1,
+        45
+      ],
+      "drawn": false,
+      "documentCollection": "brodericks-compendium.plants",
+      "documentId": "oejciMthUKbBW8C3",
+      "_key": "!tables.results!yLxziflRLKXF4yid.kwdMYO0WQn7WyyZC"
+    },
+    {
+      "_id": "Cee5vhecj4hXNhzA",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": ""
+          }
+        }
+      },
+      "type": "pack",
+      "text": "Arfandas",
+      "img": "icons/svg/mystery-man.svg",
+      "weight": 63,
+      "range": [
+        46,
+        108
+      ],
+      "drawn": false,
+      "documentCollection": "brodericks-compendium.plants",
+      "documentId": "wtP59VE44vbLLOt0",
+      "_key": "!tables.results!yLxziflRLKXF4yid.Cee5vhecj4hXNhzA"
+    },
+    {
+      "_id": "Bab0YsqCrIHTTr7u",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": ""
+          }
+        }
+      },
+      "type": "pack",
+      "text": "Arpusar",
+      "img": "icons/svg/mystery-man.svg",
+      "weight": 63,
+      "range": [
+        109,
+        171
+      ],
+      "drawn": false,
+      "documentCollection": "brodericks-compendium.plants",
+      "documentId": "6f5wDz5yyJGXRs3E",
+      "_key": "!tables.results!yLxziflRLKXF4yid.Bab0YsqCrIHTTr7u"
+    },
+    {
+      "_id": "sVGnJTwM1ygY7bgy",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": ""
+          }
+        }
+      },
+      "type": "pack",
+      "text": "Attanar",
+      "img": "icons/svg/mystery-man.svg",
+      "weight": 63,
+      "range": [
+        172,
+        234
+      ],
+      "drawn": false,
+      "documentCollection": "brodericks-compendium.plants",
+      "documentId": "FeprIrHa3eeCGrjh",
+      "_key": "!tables.results!yLxziflRLKXF4yid.sVGnJTwM1ygY7bgy"
+    },
+    {
+      "_id": "y1RdouA0w0hKuO5K",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": ""
+          }
+        }
+      },
+      "type": "pack",
+      "text": "Belramba",
+      "img": "icons/svg/mystery-man.svg",
+      "weight": 63,
+      "range": [
+        235,
+        297
+      ],
+      "drawn": false,
+      "documentCollection": "brodericks-compendium.plants",
+      "documentId": "4yG60NoOnM0EEmay",
+      "_key": "!tables.results!yLxziflRLKXF4yid.y1RdouA0w0hKuO5K"
+    },
+    {
+      "_id": "Y0238WUHXcWHhPzt",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": ""
+          }
+        }
+      },
+      "type": "pack",
+      "text": "Calamus",
+      "img": "modules/brodericks-compendium/images/calamus.webp",
+      "weight": 64,
+      "range": [
+        298,
+        361
+      ],
+      "drawn": false,
+      "documentCollection": "brodericks-compendium.plants",
+      "documentId": "4giFDyi9Ax0ztm1T",
+      "_key": "!tables.results!yLxziflRLKXF4yid.Y0238WUHXcWHhPzt"
+    },
+    {
+      "_id": "UbjTu1WzGk5e2Ttx",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": ""
+          }
+        }
+      },
+      "type": "pack",
+      "text": "Cat's Tail",
+      "img": "modules/brodericks-compendium/images/cats-tail.webp",
+      "weight": 63,
+      "range": [
+        362,
+        424
+      ],
+      "drawn": false,
+      "documentCollection": "brodericks-compendium.plants",
+      "documentId": "qhIrjaoq7KWRDrky",
+      "_key": "!tables.results!yLxziflRLKXF4yid.UbjTu1WzGk5e2Ttx"
+    },
+    {
+      "_id": "cgiYmJHJc3R5c1k5",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": ""
+          }
+        }
+      },
+      "type": "pack",
+      "text": "Colewort",
+      "img": "icons/svg/mystery-man.svg",
+      "weight": 64,
+      "range": [
+        425,
+        488
+      ],
+      "drawn": false,
+      "documentCollection": "brodericks-compendium.plants",
+      "documentId": "AoOanaDzOf779pxu",
+      "_key": "!tables.results!yLxziflRLKXF4yid.cgiYmJHJc3R5c1k5"
+    },
+    {
+      "_id": "Ez0lVRLETBh8CcwV",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": ""
+          }
+        }
+      },
+      "type": "pack",
+      "text": "Dahkra (Dognap)",
+      "img": "icons/svg/mystery-man.svg",
+      "weight": 64,
+      "range": [
+        489,
+        552
+      ],
+      "drawn": false,
+      "documentCollection": "brodericks-compendium.plants",
+      "documentId": "h7RKj24kkdp178R5",
+      "_key": "!tables.results!yLxziflRLKXF4yid.Ez0lVRLETBh8CcwV"
+    },
+    {
+      "_id": "D2QTCxQALhhH1tHA",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": ""
+          }
+        }
+      },
+      "type": "pack",
+      "text": "Darkroot",
+      "img": "icons/svg/mystery-man.svg",
+      "weight": 8,
+      "range": [
+        553,
+        560
+      ],
+      "drawn": false,
+      "documentCollection": "brodericks-compendium.plants",
+      "documentId": "n8IAWz9c4mujeHgj",
+      "_key": "!tables.results!yLxziflRLKXF4yid.D2QTCxQALhhH1tHA"
+    },
+    {
+      "_id": "uPVNGMT3vKrtaOJ4",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": ""
+          }
+        }
+      },
+      "type": "pack",
+      "text": "Dragonwort",
+      "img": "modules/brodericks-compendium/images/dragonwort.webp",
+      "weight": 64,
+      "range": [
+        561,
+        624
+      ],
+      "drawn": false,
+      "documentCollection": "brodericks-compendium.plants",
+      "documentId": "CLg3FAY7HNb1UvcT",
+      "_key": "!tables.results!yLxziflRLKXF4yid.uPVNGMT3vKrtaOJ4"
+    },
+    {
+      "_id": "ptyESgf2yXtCw8Vo",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": ""
+          }
+        }
+      },
+      "type": "pack",
+      "text": "Edram",
+      "img": "icons/svg/mystery-man.svg",
+      "weight": 45,
+      "range": [
+        625,
+        669
+      ],
+      "drawn": false,
+      "documentCollection": "brodericks-compendium.plants",
+      "documentId": "z4PF69BtAIDJK1nR",
+      "_key": "!tables.results!yLxziflRLKXF4yid.ptyESgf2yXtCw8Vo"
+    },
+    {
+      "_id": "e0GBLofiDrplCwQw",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": ""
+          }
+        }
+      },
+      "type": "pack",
+      "text": "Elven Willow",
+      "img": "icons/svg/mystery-man.svg",
+      "weight": 63,
+      "range": [
+        670,
+        732
+      ],
+      "drawn": false,
+      "documentCollection": "brodericks-compendium.plants",
+      "documentId": "WFzL0eaOwz2VIbCH",
+      "_key": "!tables.results!yLxziflRLKXF4yid.e0GBLofiDrplCwQw"
+    },
+    {
+      "_id": "NNyYwF7kKyJQujmm",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": ""
+          }
+        }
+      },
+      "type": "pack",
+      "text": "Ember Root",
+      "img": "icons/svg/mystery-man.svg",
+      "weight": 64,
+      "range": [
+        733,
+        796
+      ],
+      "drawn": false,
+      "documentCollection": "brodericks-compendium.plants",
+      "documentId": "s8XqwuB7GDwj0URk",
+      "_key": "!tables.results!yLxziflRLKXF4yid.NNyYwF7kKyJQujmm"
+    },
+    {
+      "_id": "cyTjVPn9FOGo11n1",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": ""
+          }
+        }
+      },
+      "type": "pack",
+      "text": "Entangle Weed",
+      "img": "icons/svg/mystery-man.svg",
+      "weight": 8,
+      "range": [
+        797,
+        804
+      ],
+      "drawn": false,
+      "documentCollection": "brodericks-compendium.plants",
+      "documentId": "4opU0udnysyPYz8C",
+      "_key": "!tables.results!yLxziflRLKXF4yid.cyTjVPn9FOGo11n1"
+    },
+    {
+      "_id": "WxcPuF7TEEm7CENK",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": ""
+          }
+        }
+      },
+      "type": "pack",
+      "text": "Fjor'da",
+      "img": "icons/svg/mystery-man.svg",
+      "weight": 45,
+      "range": [
+        805,
+        849
+      ],
+      "drawn": false,
+      "documentCollection": "brodericks-compendium.plants",
+      "documentId": "FimD5sXa7M0Dr4qK",
+      "_key": "!tables.results!yLxziflRLKXF4yid.WxcPuF7TEEm7CENK"
+    },
+    {
+      "_id": "GQNRfsmlu0HXDPW5",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": ""
+          }
+        }
+      },
+      "type": "pack",
+      "text": "Flintmoss",
+      "img": "icons/svg/mystery-man.svg",
+      "weight": 8,
+      "range": [
+        850,
+        857
+      ],
+      "drawn": false,
+      "documentCollection": "brodericks-compendium.plants",
+      "documentId": "KWgxE4PPoGBzheaN",
+      "_key": "!tables.results!yLxziflRLKXF4yid.GQNRfsmlu0HXDPW5"
+    },
+    {
+      "_id": "QXrKGxcArjORVgn4",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": ""
+          }
+        }
+      },
+      "type": "pack",
+      "text": "Harfy",
+      "img": "icons/svg/mystery-man.svg",
+      "weight": 63,
+      "range": [
+        858,
+        920
+      ],
+      "drawn": false,
+      "documentCollection": "brodericks-compendium.plants",
+      "documentId": "JusDFG1XdmoK35AE",
+      "_key": "!tables.results!yLxziflRLKXF4yid.QXrKGxcArjORVgn4"
+    },
+    {
+      "_id": "FwYNglq1JebBreBs",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": ""
+          }
+        }
+      },
+      "type": "pack",
+      "text": "Horehound",
+      "img": "modules/brodericks-compendium/images/horehound.webp",
+      "weight": 63,
+      "range": [
+        921,
+        983
+      ],
+      "drawn": false,
+      "documentCollection": "brodericks-compendium.plants",
+      "documentId": "OnpciygzlnykTM6E",
+      "_key": "!tables.results!yLxziflRLKXF4yid.FwYNglq1JebBreBs"
+    },
+    {
+      "_id": "uptldxjVkWJR8Xn1",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": ""
+          }
+        }
+      },
+      "type": "pack",
+      "text": "Lakeleaf",
+      "img": "icons/svg/mystery-man.svg",
+      "weight": 45,
+      "range": [
+        984,
+        1028
+      ],
+      "drawn": false,
+      "documentCollection": "brodericks-compendium.plants",
+      "documentId": "nzcRvnrOMfy12qvO",
+      "_key": "!tables.results!yLxziflRLKXF4yid.uptldxjVkWJR8Xn1"
+    },
+    {
+      "_id": "AVsX28f8EhITYhcC",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": ""
+          }
+        }
+      },
+      "type": "pack",
+      "text": "Lashar",
+      "img": "icons/svg/mystery-man.svg",
+      "weight": 64,
+      "range": [
+        1029,
+        1092
+      ],
+      "drawn": false,
+      "documentCollection": "brodericks-compendium.plants",
+      "documentId": "4ygVmza1lvqQooan",
+      "_key": "!tables.results!yLxziflRLKXF4yid.AVsX28f8EhITYhcC"
+    },
+    {
+      "_id": "FJAerwzyMvO7Xqhw",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": ""
+          }
+        }
+      },
+      "type": "pack",
+      "text": "Lizuara",
+      "img": "icons/svg/mystery-man.svg",
+      "weight": 3,
+      "range": [
+        1093,
+        1095
+      ],
+      "drawn": false,
+      "documentCollection": "brodericks-compendium.plants",
+      "documentId": "JvQJmITdrwyLNo0f",
+      "_key": "!tables.results!yLxziflRLKXF4yid.FJAerwzyMvO7Xqhw"
+    },
+    {
+      "_id": "llg7x4FN9VyG1UmF",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": ""
+          }
+        }
+      },
+      "type": "pack",
+      "text": "Lungwort",
+      "img": "modules/brodericks-compendium/images/lungwort.webp",
+      "weight": 63,
+      "range": [
+        1096,
+        1158
+      ],
+      "drawn": false,
+      "documentCollection": "brodericks-compendium.plants",
+      "documentId": "VOa8127RhD2VqVZx",
+      "_key": "!tables.results!yLxziflRLKXF4yid.llg7x4FN9VyG1UmF"
+    },
+    {
+      "_id": "FUxqn4IiZQoDDLJ4",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": ""
+          }
+        }
+      },
+      "type": "pack",
+      "text": "Marshmallow",
+      "img": "modules/brodericks-compendium/images/marshmallow.webp",
+      "weight": 63,
+      "range": [
+        1159,
+        1221
+      ],
+      "drawn": false,
+      "documentCollection": "brodericks-compendium.plants",
+      "documentId": "OqWcfSMuXq82Pekp",
+      "_key": "!tables.results!yLxziflRLKXF4yid.FUxqn4IiZQoDDLJ4"
+    },
+    {
+      "_id": "yk8XlweEm5XY85yL",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": ""
+          }
+        }
+      },
+      "type": "pack",
+      "text": "Maruera",
+      "img": "icons/svg/mystery-man.svg",
+      "weight": 8,
+      "range": [
+        1222,
+        1229
+      ],
+      "drawn": false,
+      "documentCollection": "brodericks-compendium.plants",
+      "documentId": "F4ZnwGYWjxv3dYGV",
+      "_key": "!tables.results!yLxziflRLKXF4yid.yk8XlweEm5XY85yL"
+    },
+    {
+      "_id": "rcPE5mtGc0aUBQwB",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": ""
+          }
+        }
+      },
+      "type": "pack",
+      "text": "Melander",
+      "img": "icons/svg/mystery-man.svg",
+      "weight": 8,
+      "range": [
+        1230,
+        1237
+      ],
+      "drawn": false,
+      "documentCollection": "brodericks-compendium.plants",
+      "documentId": "gl4aohFdGiL20krY",
+      "_key": "!tables.results!yLxziflRLKXF4yid.rcPE5mtGc0aUBQwB"
+    },
+    {
+      "_id": "KTJI8gWliOgp6OsY",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": ""
+          }
+        }
+      },
+      "type": "pack",
+      "text": "Nahre Lotus",
+      "img": "modules/brodericks-compendium/images/nahre-lotus.webp",
+      "weight": 10,
+      "range": [
+        1238,
+        1247
+      ],
+      "drawn": false,
+      "documentCollection": "brodericks-compendium.plants",
+      "documentId": "BGg7S0kyJlvR6spQ",
+      "_key": "!tables.results!yLxziflRLKXF4yid.KTJI8gWliOgp6OsY"
+    },
+    {
+      "type": "pack",
+      "weight": 63,
+      "range": [
+        1248,
+        1310
+      ],
+      "drawn": false,
+      "documentCollection": "brodericks-compendium.plants",
+      "_id": "v6OrGxK1sRPSj5IJ",
+      "text": "Nettle",
+      "img": "modules/brodericks-compendium/images/nettle.webp",
+      "documentId": "tGrjPSpAYjf38s09",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": ""
+          }
+        }
+      },
+      "_key": "!tables.results!yLxziflRLKXF4yid.v6OrGxK1sRPSj5IJ"
+    },
+    {
+      "_id": "qIyECrmJC49bJemc",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": ""
+          }
+        }
+      },
+      "type": "pack",
+      "text": "Olus Veritis",
+      "img": "icons/svg/mystery-man.svg",
+      "weight": 10,
+      "range": [
+        1311,
+        1320
+      ],
+      "drawn": false,
+      "documentCollection": "brodericks-compendium.plants",
+      "documentId": "LcD9Ow9YKTliyvMW",
+      "_key": "!tables.results!yLxziflRLKXF4yid.qIyECrmJC49bJemc"
+    },
+    {
+      "_id": "xUCVwKaQcx2LX1pF",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": ""
+          }
+        }
+      },
+      "type": "pack",
+      "text": "Orevine",
+      "img": "icons/svg/mystery-man.svg",
+      "weight": 8,
+      "range": [
+        1321,
+        1328
+      ],
+      "drawn": false,
+      "documentCollection": "brodericks-compendium.plants",
+      "documentId": "F2mT99BndrMbY01E",
+      "_key": "!tables.results!yLxziflRLKXF4yid.xUCVwKaQcx2LX1pF"
+    },
+    {
+      "_id": "AtWCwv8eaXDhSpC0",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": ""
+          }
+        }
+      },
+      "type": "pack",
+      "text": "Palma Eldath",
+      "img": "icons/svg/mystery-man.svg",
+      "weight": 64,
+      "range": [
+        1329,
+        1392
+      ],
+      "drawn": false,
+      "documentCollection": "brodericks-compendium.plants",
+      "documentId": "gN77ZmwSihSNMB0H",
+      "_key": "!tables.results!yLxziflRLKXF4yid.AtWCwv8eaXDhSpC0"
+    },
+    {
+      "_id": "8Utgramb7tpx8dMt",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": ""
+          }
+        }
+      },
+      "type": "pack",
+      "text": "Panaeolo",
+      "img": "icons/svg/mystery-man.svg",
+      "weight": 8,
+      "range": [
+        1393,
+        1400
+      ],
+      "drawn": false,
+      "documentCollection": "brodericks-compendium.plants",
+      "documentId": "BW5PrVDiFBbs2OOP",
+      "_key": "!tables.results!yLxziflRLKXF4yid.8Utgramb7tpx8dMt"
+    },
+    {
+      "_id": "b0vGWX3uZyKEyber",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": ""
+          }
+        }
+      },
+      "type": "pack",
+      "text": "Pennyroyal",
+      "img": "modules/brodericks-compendium/images/pennyroyal.webp",
+      "weight": 8,
+      "range": [
+        1401,
+        1408
+      ],
+      "drawn": false,
+      "documentCollection": "brodericks-compendium.plants",
+      "documentId": "iQJ2nvP7UGsEQunA",
+      "_key": "!tables.results!yLxziflRLKXF4yid.b0vGWX3uZyKEyber"
+    },
+    {
+      "type": "pack",
+      "weight": 3,
+      "range": [
+        1409,
+        1411
+      ],
+      "drawn": false,
+      "documentCollection": "brodericks-compendium.plants",
+      "_id": "uwSzAQNaVJwmGqOA",
+      "text": "Sadaq's Bedwort",
+      "img": "icons/svg/mystery-man.svg",
+      "documentId": "JhbnDW1xkGOFZczh",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": ""
+          }
+        }
+      },
+      "_key": "!tables.results!yLxziflRLKXF4yid.uwSzAQNaVJwmGqOA"
+    },
+    {
+      "_id": "fV8haof0AzfEeDLQ",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": ""
+          }
+        }
+      },
+      "type": "pack",
+      "text": "Sweet Arcane",
+      "img": "icons/svg/mystery-man.svg",
+      "weight": 10,
+      "range": [
+        1412,
+        1421
+      ],
+      "drawn": false,
+      "documentCollection": "brodericks-compendium.plants",
+      "documentId": "0aFd5KlPKPz8lR3D",
+      "_key": "!tables.results!yLxziflRLKXF4yid.fV8haof0AzfEeDLQ"
+    },
+    {
+      "_id": "abFxoJRDB4Gm1w5V",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": ""
+          }
+        }
+      },
+      "type": "pack",
+      "text": "Sweet Trefoile",
+      "img": "icons/svg/mystery-man.svg",
+      "weight": 8,
+      "range": [
+        1422,
+        1429
+      ],
+      "drawn": false,
+      "documentCollection": "brodericks-compendium.plants",
+      "documentId": "8BQSJHKgXT4cO7w8",
+      "_key": "!tables.results!yLxziflRLKXF4yid.abFxoJRDB4Gm1w5V"
+    },
+    {
+      "_id": "b52ohQOWRkSv7rLP",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": ""
+          }
+        }
+      },
+      "type": "pack",
+      "text": "Tereeka Root",
+      "img": "icons/svg/mystery-man.svg",
+      "weight": 8,
+      "range": [
+        1430,
+        1437
+      ],
+      "drawn": false,
+      "documentCollection": "brodericks-compendium.plants",
+      "documentId": "RvewWr8TQMnbGgko",
+      "_key": "!tables.results!yLxziflRLKXF4yid.b52ohQOWRkSv7rLP"
+    },
+    {
+      "_id": "ehbKiDYGJAcYeomJ",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": ""
+          }
+        }
+      },
+      "type": "pack",
+      "text": "Watercress",
+      "img": "modules/brodericks-compendium/images/watercress.webp",
+      "weight": 63,
+      "range": [
+        1438,
+        1500
+      ],
+      "drawn": false,
+      "documentCollection": "brodericks-compendium.plants",
+      "documentId": "VpB0wmdSeJTLZOSB",
+      "_key": "!tables.results!yLxziflRLKXF4yid.ehbKiDYGJAcYeomJ"
+    },
+    {
+      "type": "pack",
+      "weight": 10,
+      "range": [
+        1501,
+        1510
+      ],
+      "drawn": false,
+      "documentCollection": "brodericks-compendium.plants",
+      "_id": "x3SCGs6rAqBgpqPb",
+      "text": "Yuzine",
+      "img": "icons/svg/mystery-man.svg",
+      "documentId": "oCjnElcmzIbS1mwb",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": ""
+          }
+        }
+      },
+      "_key": "!tables.results!yLxziflRLKXF4yid.x3SCGs6rAqBgpqPb"
+    }
+  ],
+  "formula": "1d1510",
+  "replacement": true,
+  "displayRoll": true,
+  "_id": "yLxziflRLKXF4yid",
+  "ownership": {
+    "default": 0
+  },
+  "folder": null,
+  "sort": 0,
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "2.2.1",
+    "coreVersion": "12.328",
+    "createdTime": 1686058478093,
+    "modifiedTime": 1692975928356,
+    "lastModifiedBy": "packsbuilder0000",
+    "compendiumSource": null,
+    "duplicateSource": null
+  },
+  "_key": "!tables!yLxziflRLKXF4yid"
+}

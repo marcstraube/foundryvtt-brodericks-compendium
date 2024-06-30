@@ -1,0 +1,126 @@
+{
+  "name": "Firethorn",
+  "type": "consumable",
+  "flags": {
+    "betterRolls5e": {
+      "critRange": {
+        "value": null
+      },
+      "critDamage": {
+        "value": ""
+      },
+      "quickDesc": {
+        "value": true,
+        "altValue": true
+      },
+      "quickProperties": {
+        "value": true,
+        "altValue": true
+      },
+      "quickOther": {
+        "value": true,
+        "altValue": true
+      },
+      "quickFlavor": {
+        "value": true,
+        "altValue": true
+      },
+      "quickCharges": {
+        "value": {
+          "quantity": false
+        },
+        "altValue": {
+          "quantity": false
+        }
+      }
+    }
+  },
+  "img": "modules/brodericks-compendium/icons/flower.svg",
+  "effects": [],
+  "_id": "HD0WdeYCi75mDXXk",
+  "system": {
+    "description": {
+      "value": "<p><em>Biome: Coastal</em></p>\n<p>Often called the Sea Rose, this flower exists almost entirely on the Island of the Firethorns in the northern Sorlorn Sea. The flower grows in such numbers that it gives the lower areas of the island a reddish hue. At night the island faintly glows from a distance due to the natural glowing property of the flowers, and many that transverse the Great Sea know of the island&rsquo;s distant glow. The island is generally uninhabited, with the exception of the fishing village of Safe Cove and the city of Hawa, because the Firethorns are so poisonous (DC 15 Cons. Save vs. poisoned while standing within 45 feet of the flowers and their pollen; on a failed save take [[/roll 4d8]] poison damage and be poisoned for [[/roll 1d6]] hours, on a successful save take half as much damage without being poisoned). Inhabitants of both settlements are well aware of the toxicity of the flowers, and often give them a wide berth.</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Broderick's Compendium: Plants and Fungi Across the Realm (version 2.0)",
+    "quantity": 1,
+    "weight": {
+      "value": 0,
+      "units": "lb"
+    },
+    "price": 0,
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "rare",
+    "identified": true,
+    "activation": {
+      "type": "",
+      "cost": null,
+      "condition": ""
+    },
+    "duration": {
+      "value": null,
+      "units": ""
+    },
+    "cover": null,
+    "crewed": false,
+    "target": {
+      "value": null,
+      "width": null,
+      "units": "",
+      "type": ""
+    },
+    "range": {
+      "value": null,
+      "long": null,
+      "units": ""
+    },
+    "uses": {
+      "value": null,
+      "max": 0,
+      "per": null,
+      "recovery": "",
+      "autoDestroy": false
+    },
+    "consume": {
+      "type": "",
+      "target": null,
+      "amount": null
+    },
+    "ability": null,
+    "actionType": "",
+    "attackBonus": 0,
+    "chatFlavor": "",
+    "critical": null,
+    "damage": {
+      "parts": [],
+      "versatile": ""
+    },
+    "formula": "",
+    "save": {
+      "ability": "",
+      "dc": null,
+      "scaling": "spell"
+    },
+    "consumableType": "potion",
+    "attuned": false
+  },
+  "ownership": {
+    "default": 0
+  },
+  "folder": null,
+  "sort": 0,
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "2.2.1",
+    "coreVersion": "12.328",
+    "createdTime": null,
+    "modifiedTime": 1698243497353,
+    "lastModifiedBy": "packsbuilder0000",
+    "compendiumSource": null,
+    "duplicateSource": null
+  },
+  "_key": "!items!HD0WdeYCi75mDXXk"
+}

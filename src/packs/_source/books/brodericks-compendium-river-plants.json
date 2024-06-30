@@ -1,0 +1,45 @@
+{
+  "_id": "xLk8pl8tcrSDi24k",
+  "name": "Broderick's Compendium: River Plants",
+  "type": "loot",
+  "img": "icons/sundries/books/book-worn-brown.webp",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "_stats": {
+    "coreVersion": "12.328",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "system": {
+    "description": {
+      "value": "<p>@Compendium[brodericks-compendium.plants.oejciMthUKbBW8C3]{Air Plant}</p>\n<p>@Compendium[brodericks-compendium.plants.wtP59VE44vbLLOt0]{Arfandas}</p>\n<p>@Compendium[brodericks-compendium.plants.6f5wDz5yyJGXRs3E]{Arpusar}</p>\n<p>@Compendium[brodericks-compendium.plants.FeprIrHa3eeCGrjh]{Attanar}</p>\n<p>@Compendium[brodericks-compendium.plants.4yG60NoOnM0EEmay]{Belramba}</p>\n<p>@Compendium[brodericks-compendium.plants.4giFDyi9Ax0ztm1T]{Calamus}</p>\n<p>@Compendium[brodericks-compendium.plants.qhIrjaoq7KWRDrky]{Cat's Tail}</p>\n<p>@Compendium[brodericks-compendium.plants.AoOanaDzOf779pxu]{Colewort}</p>\n<p>@Compendium[brodericks-compendium.plants.h7RKj24kkdp178R5]{Dahkra (Dognap)}</p>\n<p>@Compendium[brodericks-compendium.plants.n8IAWz9c4mujeHgj]{Darkroot}</p>\n<p>@Compendium[brodericks-compendium.plants.CLg3FAY7HNb1UvcT]{Dragonwort}</p>\n<p>@Compendium[brodericks-compendium.plants.z4PF69BtAIDJK1nR]{Edram}</p>\n<p>@Compendium[brodericks-compendium.plants.WFzL0eaOwz2VIbCH]{Elven Willow}</p>\n<p>@Compendium[brodericks-compendium.plants.s8XqwuB7GDwj0URk]{Ember Root}</p>\n<p>@Compendium[brodericks-compendium.plants.4opU0udnysyPYz8C]{Entangle Weed}</p>\n<p>@Compendium[brodericks-compendium.plants.FimD5sXa7M0Dr4qK]{Fjor'da}</p>\n<p>@Compendium[brodericks-compendium.plants.KWgxE4PPoGBzheaN]{Flintmoss}</p>\n<p>@Compendium[brodericks-compendium.plants.JusDFG1XdmoK35AE]{Harfy}</p>\n<p>@Compendium[brodericks-compendium.plants.OnpciygzlnykTM6E]{Horehound}</p>\n<p>@Compendium[brodericks-compendium.plants.nzcRvnrOMfy12qvO]{Lakeleaf}</p>\n<p>@Compendium[brodericks-compendium.plants.4ygVmza1lvqQooan]{Lashar}</p>\n<p>@Compendium[brodericks-compendium.plants.JvQJmITdrwyLNo0f]{Lizuara}</p>\n<p>@Compendium[brodericks-compendium.plants.VOa8127RhD2VqVZx]{Lungwort}</p>\n<p>@Compendium[brodericks-compendium.plants.OqWcfSMuXq82Pekp]{Marshmallow}</p>\n<p>@Compendium[brodericks-compendium.plants.F4ZnwGYWjxv3dYGV]{Maruera}</p>\n<p>@Compendium[brodericks-compendium.plants.gl4aohFdGiL20krY]{Melander}</p>\n<p>@Compendium[brodericks-compendium.plants.BGg7S0kyJlvR6spQ]{Nahre Lotus}</p>\n<p>@Compendium[brodericks-compendium.plants.tGrjPSpAYjf38s09]{Nettle}</p>\n<p>@Compendium[brodericks-compendium.plants.LcD9Ow9YKTliyvMW]{Olus Veritis}</p>\n<p>@Compendium[brodericks-compendium.plants.F2mT99BndrMbY01E]{Orevine}</p>\n<p>@Compendium[brodericks-compendium.plants.gN77ZmwSihSNMB0H]{Palma Eldath}</p>\n<p>@Compendium[brodericks-compendium.plants.BW5PrVDiFBbs2OOP]{Panaeolo}</p>\n<p>@Compendium[brodericks-compendium.plants.iQJ2nvP7UGsEQunA]{Pennyroyal}</p>\n<p>@Compendium[brodericks-compendium.plants.JhbnDW1xkGOFZczh]{Sadaq's Bedwort}</p>\n<p>@Compendium[brodericks-compendium.plants.0aFd5KlPKPz8lR3D]{Sweet Arcane}</p>\n<p>@Compendium[brodericks-compendium.plants.8BQSJHKgXT4cO7w8]{Sweet Trefoile}</p>\n<p>@Compendium[brodericks-compendium.plants.RvewWr8TQMnbGgko]{Tereeka Root}</p>\n<p>@Compendium[brodericks-compendium.plants.VpB0wmdSeJTLZOSB]{Watercress}</p>\n<p>@Compendium[brodericks-compendium.plants.oCjnElcmzIbS1mwb]{Yuzine}</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Broderick's Compendium: Plants and Fungi Across the Realm (version 2.0)",
+    "quantity": 1,
+    "weight": null,
+    "price": null,
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "common",
+    "identified": true,
+    "damage": {
+      "parts": []
+    },
+    "details": {
+      "description": "<p>A book might contain poetry, historical accounts, information pertaining to a particular field of lore, diagrams and notes on gnomish contraptions, or just about anything else that can be represented using text or pictures. A book of spells is a @Compendium[dnd5e.items.LBajgahniRJbAgDr]{Spellbook}.</p>"
+    }
+  },
+  "_key": "!items!xLk8pl8tcrSDi24k"
+}

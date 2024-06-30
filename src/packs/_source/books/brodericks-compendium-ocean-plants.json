@@ -1,0 +1,45 @@
+{
+  "_id": "MjU4JV4mSjwWf3b8",
+  "name": "Broderick's Compendium: Ocean Plants",
+  "type": "loot",
+  "img": "icons/sundries/books/book-worn-brown.webp",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": {
+      "value": "<p>@Compendium[brodericks-compendium.plants.0g2zpx50JjHSZ5bB]{Adamant Algae}</p><p>@Compendium[brodericks-compendium.plants.5zhTmHOEVHuPllO7]{Dratiddel}</p><p>@Compendium[brodericks-compendium.plants.4opU0udnysyPYz8C]{Entangle Weed}</p><p>@Compendium[brodericks-compendium.plants.OxplJDEI1pC4TJYQ]{Gylvir}</p><p>@Compendium[brodericks-compendium.plants.v3JzzrF1xfi1sswp]{Sand Vine}</p><p>@Compendium[brodericks-compendium.plants.uHMuP9L5iw7y1kRV]{Tangara Kelp}</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Broderick's Compendium: Plants and Fungi Across the Realm (version 2.0)",
+    "quantity": 1,
+    "weight": null,
+    "price": null,
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "common",
+    "identified": true,
+    "damage": {
+      "parts": []
+    },
+    "details": {
+      "description": "<p>A book might contain poetry, historical accounts, information pertaining to a particular field of lore, diagrams and notes on gnomish contraptions, or just about anything else that can be represented using text or pictures. A book of spells is a @Compendium[dnd5e.items.LBajgahniRJbAgDr]{Spellbook}.</p>"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "2.2.1",
+    "coreVersion": "12.328",
+    "createdTime": null,
+    "modifiedTime": 1686092607185,
+    "lastModifiedBy": "packsbuilder0000",
+    "compendiumSource": "Compendium.dnd5e.items.RMi9efrW9ouHVLI2",
+    "duplicateSource": null
+  },
+  "_key": "!items!MjU4JV4mSjwWf3b8"
+}

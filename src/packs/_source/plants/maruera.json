@@ -1,0 +1,126 @@
+{
+  "name": "Maruera",
+  "type": "consumable",
+  "flags": {
+    "betterRolls5e": {
+      "critRange": {
+        "value": null
+      },
+      "critDamage": {
+        "value": ""
+      },
+      "quickDesc": {
+        "value": true,
+        "altValue": true
+      },
+      "quickProperties": {
+        "value": true,
+        "altValue": true
+      },
+      "quickOther": {
+        "value": true,
+        "altValue": true
+      },
+      "quickFlavor": {
+        "value": true,
+        "altValue": true
+      },
+      "quickCharges": {
+        "value": {
+          "quantity": false
+        },
+        "altValue": {
+          "quantity": false
+        }
+      }
+    }
+  },
+  "img": "modules/brodericks-compendium/icons/tree.svg",
+  "effects": [],
+  "_id": "F4ZnwGYWjxv3dYGV",
+  "system": {
+    "description": {
+      "value": "<p><em>Biome: Forests, Rivers</em></p>\n<p>In appearance this small tree looks much like any other excpt in minature. It can be identified by its vivid green leaves. These leaves when chewed produce large amounts of oxygen from the carbon dioxide already in the persons breath. One leaf may be chewed for up to ten minutes, before its properties are exhausted. The leaves are often boiled down to an essential oil, and the resultant infusion added to starchy natural substances to produce a gum. A piece of this gum will allow the recipient to survive without oxygen for [[/roll 2d4]] x 10 minutes, provided they are conscious and able to chew. The herbs main use is in allowing the recipient to survive in oxygen poor or free environments such as underground. When a tree is found it will normally have [[/roll 5d10]] leaves. Taking too many leaves can harm the tree. The tree has a chance of dying equal to the percentage of the leaves taken. For example, if 30% of the leaves are taken the tree has a 30% chance of dying, if 50% are taken it has a 50% chance of dying. The leaves are also said to have a calming effect when chewed (DM&rsquo;s discretion).</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Broderick's Compendium: Plants and Fungi Across the Realm (version 2.0)",
+    "quantity": 1,
+    "weight": {
+      "value": 0,
+      "units": "lb"
+    },
+    "price": 0,
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "rare",
+    "identified": true,
+    "activation": {
+      "type": "",
+      "cost": null,
+      "condition": ""
+    },
+    "duration": {
+      "value": null,
+      "units": ""
+    },
+    "cover": null,
+    "crewed": false,
+    "target": {
+      "value": null,
+      "width": null,
+      "units": "",
+      "type": ""
+    },
+    "range": {
+      "value": null,
+      "long": null,
+      "units": ""
+    },
+    "uses": {
+      "value": null,
+      "max": 0,
+      "per": null,
+      "recovery": "",
+      "autoDestroy": false
+    },
+    "consume": {
+      "type": "",
+      "target": null,
+      "amount": null
+    },
+    "ability": null,
+    "actionType": "",
+    "attackBonus": 0,
+    "chatFlavor": "",
+    "critical": null,
+    "damage": {
+      "parts": [],
+      "versatile": ""
+    },
+    "formula": "",
+    "save": {
+      "ability": "",
+      "dc": null,
+      "scaling": "spell"
+    },
+    "consumableType": "potion",
+    "attuned": false
+  },
+  "ownership": {
+    "default": 0
+  },
+  "folder": null,
+  "sort": 0,
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "2.2.1",
+    "coreVersion": "12.328",
+    "createdTime": null,
+    "modifiedTime": 1698242645688,
+    "lastModifiedBy": "packsbuilder0000",
+    "compendiumSource": null,
+    "duplicateSource": null
+  },
+  "_key": "!items!F4ZnwGYWjxv3dYGV"
+}

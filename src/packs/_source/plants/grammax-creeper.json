@@ -1,0 +1,126 @@
+{
+  "name": "Grammax Creeper",
+  "type": "consumable",
+  "flags": {
+    "betterRolls5e": {
+      "critRange": {
+        "value": null
+      },
+      "critDamage": {
+        "value": ""
+      },
+      "quickDesc": {
+        "value": true,
+        "altValue": true
+      },
+      "quickProperties": {
+        "value": true,
+        "altValue": true
+      },
+      "quickOther": {
+        "value": true,
+        "altValue": true
+      },
+      "quickFlavor": {
+        "value": true,
+        "altValue": true
+      },
+      "quickCharges": {
+        "value": {
+          "quantity": false
+        },
+        "altValue": {
+          "quantity": false
+        }
+      }
+    }
+  },
+  "img": "modules/brodericks-compendium/icons/slime.svg",
+  "effects": [],
+  "_id": "Fwzb8xHof57XXTFB",
+  "system": {
+    "description": {
+      "value": "<p><em>Biome: Underdark & Caves</em></p>\n<p>A flesh colored slime mold, the Grammax Creeper slowly spreads through the Underdark, digesting any organic material in its path. The mold moves slowly enough that even people sleeping in its path have no fear of being overwhelmed, although corpses that lay in the same place for days will be overcome. The Grammax also floats on water, often spreading across the surface of underground puddles and stagnant lakes, hiding the actual depths. The Grammax reacts rapidly to the presence of flame or high heat, quickly shrinking away while expelling any trapped gas. This action of the escaping gas makes an odd shrieking sound that is akin to the sound a screaming child makes. While it is a barely palatable prospect, the mold can actually be consumed as a source of food for those lost and desperate enough (at the cost of a level of exhaustion when consumed by any race except for goblinoids). Oddly, goblins seem to enjoy the taste of the mold, and often scrape it up as a renewable food source.</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Broderick's Compendium: Plants and Fungi Across the Realm (version 2.0)",
+    "quantity": 1,
+    "weight": {
+      "value": 0,
+      "units": "lb"
+    },
+    "price": 0,
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "common",
+    "identified": true,
+    "activation": {
+      "type": "",
+      "cost": null,
+      "condition": ""
+    },
+    "duration": {
+      "value": null,
+      "units": ""
+    },
+    "cover": null,
+    "crewed": false,
+    "target": {
+      "value": null,
+      "width": null,
+      "units": "",
+      "type": ""
+    },
+    "range": {
+      "value": null,
+      "long": null,
+      "units": ""
+    },
+    "uses": {
+      "value": null,
+      "max": 0,
+      "per": null,
+      "recovery": "",
+      "autoDestroy": false
+    },
+    "consume": {
+      "type": "",
+      "target": null,
+      "amount": null
+    },
+    "ability": null,
+    "actionType": "",
+    "attackBonus": 0,
+    "chatFlavor": "",
+    "critical": null,
+    "damage": {
+      "parts": [],
+      "versatile": ""
+    },
+    "formula": "",
+    "save": {
+      "ability": "",
+      "dc": null,
+      "scaling": "spell"
+    },
+    "consumableType": "potion",
+    "attuned": false
+  },
+  "ownership": {
+    "default": 0
+  },
+  "folder": null,
+  "sort": 0,
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "2.2.1",
+    "coreVersion": "12.328",
+    "createdTime": null,
+    "modifiedTime": 1698243723067,
+    "lastModifiedBy": "packsbuilder0000",
+    "compendiumSource": null,
+    "duplicateSource": null
+  },
+  "_key": "!items!Fwzb8xHof57XXTFB"
+}

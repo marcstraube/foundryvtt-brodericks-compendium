@@ -1,0 +1,126 @@
+{
+  "name": "Silver Tassel Toadstool",
+  "type": "consumable",
+  "flags": {
+    "betterRolls5e": {
+      "critRange": {
+        "value": null
+      },
+      "critDamage": {
+        "value": ""
+      },
+      "quickDesc": {
+        "value": true,
+        "altValue": true
+      },
+      "quickProperties": {
+        "value": true,
+        "altValue": true
+      },
+      "quickOther": {
+        "value": true,
+        "altValue": true
+      },
+      "quickFlavor": {
+        "value": true,
+        "altValue": true
+      },
+      "quickCharges": {
+        "value": {
+          "quantity": false
+        },
+        "altValue": {
+          "quantity": false
+        }
+      }
+    }
+  },
+  "img": "modules/brodericks-compendium/icons/mushroom.svg",
+  "effects": [],
+  "_id": "1NiTbxriMZircYXv",
+  "system": {
+    "description": {
+      "value": "<p><em>Biome: Underdark & Caves</em></p>\n<p>Growing deep within damp caves, Silver Tassel Toadstool is a slightly fluorescent shelf toadstool that has small structures resembling tassels hanging from its edge. These tassels are actually the fungi&rsquo;s reproductive organs, and the spores from these structures can be harvested and mixed with oil to create an ingested poison called Pale Tincture. This milky liquid is the primary choice of cruel manipulators that often use it to coerce favors out of unwilling acquaintances. The poison is introduced unknowingly, and slowly chips away at the victim's vitality, always threatening a slow and painful death. The promise of a cure is enough to make most people do things that they would otherwise avoid. A creature subjected to this poison must succeed on a DC 16 Constitution saving throw vs poison or take 3 (1d6) poison damage and become poisoned. The poisoned creature must repeat the saving throw every 8 hours, taking 3 (1d6) poison damage on a failed save. Until this poison ends, the damage the poison deals can&rsquo;t be healed by any means. After seven successful saving throws, the effect ends and the creature can heal normally, and only a greater restoration spell can end this poison outside of the cure or making the successful saving throws. The cure can be made by harvesting the toadstool&rsquo;s spores and combining these with alcohol that is then exposed to at least 15 points of radiant damage, which is enough to mutate the poisonous compounds in the spores.</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Broderick's Compendium: Plants and Fungi Across the Realm (version 2.0)",
+    "quantity": 1,
+    "weight": {
+      "value": 0,
+      "units": "lb"
+    },
+    "price": 0,
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "veryRare",
+    "identified": true,
+    "activation": {
+      "type": "",
+      "cost": null,
+      "condition": ""
+    },
+    "duration": {
+      "value": null,
+      "units": ""
+    },
+    "cover": null,
+    "crewed": false,
+    "target": {
+      "value": null,
+      "width": null,
+      "units": "",
+      "type": ""
+    },
+    "range": {
+      "value": null,
+      "long": null,
+      "units": ""
+    },
+    "uses": {
+      "value": null,
+      "max": 0,
+      "per": null,
+      "recovery": "",
+      "autoDestroy": false
+    },
+    "consume": {
+      "type": "",
+      "target": null,
+      "amount": null
+    },
+    "ability": null,
+    "actionType": "",
+    "attackBonus": 0,
+    "chatFlavor": "",
+    "critical": null,
+    "damage": {
+      "parts": [],
+      "versatile": ""
+    },
+    "formula": "",
+    "save": {
+      "ability": "",
+      "dc": null,
+      "scaling": "spell"
+    },
+    "consumableType": "potion",
+    "attuned": false
+  },
+  "ownership": {
+    "default": 0
+  },
+  "folder": null,
+  "sort": 0,
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "2.2.1",
+    "coreVersion": "12.328",
+    "createdTime": null,
+    "modifiedTime": 1700853417118,
+    "lastModifiedBy": "packsbuilder0000",
+    "compendiumSource": null,
+    "duplicateSource": null
+  },
+  "_key": "!items!1NiTbxriMZircYXv"
+}

@@ -1,0 +1,123 @@
+{
+  "_id": "OqiTQjGO4ZyxYdIw",
+  "name": "Latimer Orchid",
+  "type": "consumable",
+  "img": "modules/brodericks-compendium/images/latimer-orchid.webp",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "betterRolls5e": {
+      "critRange": {
+        "value": null
+      },
+      "critDamage": {
+        "value": ""
+      },
+      "quickDesc": {
+        "value": true,
+        "altValue": true
+      },
+      "quickProperties": {
+        "value": true,
+        "altValue": true
+      },
+      "quickOther": {
+        "value": true,
+        "altValue": true
+      },
+      "quickFlavor": {
+        "value": true,
+        "altValue": true
+      },
+      "quickCharges": {
+        "value": {
+          "quantity": false
+        },
+        "altValue": {
+          "quantity": false
+        }
+      }
+    }
+  },
+  "_stats": {
+    "coreVersion": "12.328",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "system": {
+    "description": {
+      "value": "<p><em>Biome: Plains</em></p>\n<p>A yellow-orange orchid flower commonly farmed and sold illegally. The pollen of the flower can be turns into a sticky, rich-smelling powder that can be applied to the gums and tongue. When consumed in this way, it brings about a mild hallucinatory state for 4 hours, wherein the recipient's capacity for visualization and imagination are increased. The powder is used recreationally by many, including by those of an artistic bent, but it is members of the Illusion school of magic who benefit most from its effects. Due to the greater precision and depth of imagination produced, all illusions created by one under the influence of the yellow powder gain a boon to their typical effects, be it increased save DC&rsquo;s, increased damage, or increased defensive properties. The yellow powder is not addictive, but it can lead to a detrimental state of internalization and paranoia. Any session where a character uses the yellow powder, he must make a Wisdom check on [[/roll 1d20]]. A roll of above their Wisdom score results in an episode of paranoia some time during the session (at the DM's discretion).</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Broderick's Compendium: Plants and Fungi Across the Realm (version 2.0)",
+    "quantity": 1,
+    "weight": {
+      "value": 0,
+      "units": "lb"
+    },
+    "price": 0,
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "veryRare",
+    "identified": true,
+    "activation": {
+      "type": "",
+      "cost": null,
+      "condition": ""
+    },
+    "duration": {
+      "value": null,
+      "units": ""
+    },
+    "target": {
+      "value": null,
+      "width": null,
+      "units": "",
+      "type": ""
+    },
+    "range": {
+      "value": null,
+      "long": null,
+      "units": ""
+    },
+    "uses": {
+      "value": null,
+      "max": 0,
+      "per": null,
+      "autoDestroy": false
+    },
+    "consume": {
+      "type": "",
+      "target": null,
+      "amount": null
+    },
+    "ability": null,
+    "actionType": "",
+    "attackBonus": 0,
+    "chatFlavor": "",
+    "critical": null,
+    "damage": {
+      "parts": [],
+      "versatile": ""
+    },
+    "formula": "",
+    "save": {
+      "ability": "",
+      "dc": null,
+      "scaling": "spell"
+    },
+    "consumableType": "potion",
+    "attuned": false
+  },
+  "_key": "!items!OqiTQjGO4ZyxYdIw"
+}

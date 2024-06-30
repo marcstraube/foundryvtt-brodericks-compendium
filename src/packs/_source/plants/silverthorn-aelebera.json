@@ -1,0 +1,123 @@
+{
+  "_id": "Wjo1dLgm8yZAyKQT",
+  "name": "Silverthorn (Aelebera)",
+  "type": "consumable",
+  "img": "modules/brodericks-compendium/images/silverthorn.webp",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "betterRolls5e": {
+      "critRange": {
+        "value": null
+      },
+      "critDamage": {
+        "value": ""
+      },
+      "quickDesc": {
+        "value": true,
+        "altValue": true
+      },
+      "quickProperties": {
+        "value": true,
+        "altValue": true
+      },
+      "quickOther": {
+        "value": true,
+        "altValue": true
+      },
+      "quickFlavor": {
+        "value": true,
+        "altValue": true
+      },
+      "quickCharges": {
+        "value": {
+          "quantity": false
+        },
+        "altValue": {
+          "quantity": false
+        }
+      }
+    }
+  },
+  "_stats": {
+    "coreVersion": "12.328",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "system": {
+    "description": {
+      "value": "<p><em>Biome: Mountains</em></p>\n<p>Silverthorn is a small thorny plant, white in color with red berries and silver thorns. This herb can function either as a poison or as an antidote to itself. It is found only by one specific lake located high in the mountains. For use as a poison the thorns must be crushed and boiled in oil over the course of a night, at which point, the resultant mixture may be smeared on the end of a weapon. When the weapon pierces its target, the poison will take effect killing the victim within [[/roll 2d6]] hours. There is no save and no cure, except for the antidote outlined below. Not even the most powerful magic can cure this poison. The only cure for this poison is also made from the Silverthorn plant. The berries must be boiled in absolutely pure water, prepared in a pure silver vessel, and the resultant mixture stored in an adamantine vial until use. The liquid must be placed on the dying victims lips, where within [[/roll 1d20]] minutes, they will recover from the poisoning.</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Broderick's Compendium: Plants and Fungi Across the Realm (version 2.0)",
+    "quantity": 1,
+    "weight": {
+      "value": 0,
+      "units": "lb"
+    },
+    "price": 0,
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "veryRare",
+    "identified": true,
+    "activation": {
+      "type": "",
+      "cost": null,
+      "condition": ""
+    },
+    "duration": {
+      "value": null,
+      "units": ""
+    },
+    "target": {
+      "value": null,
+      "width": null,
+      "units": "",
+      "type": ""
+    },
+    "range": {
+      "value": null,
+      "long": null,
+      "units": ""
+    },
+    "uses": {
+      "value": null,
+      "max": 0,
+      "per": null,
+      "autoDestroy": false
+    },
+    "consume": {
+      "type": "",
+      "target": null,
+      "amount": null
+    },
+    "ability": null,
+    "actionType": "",
+    "attackBonus": 0,
+    "chatFlavor": "",
+    "critical": null,
+    "damage": {
+      "parts": [],
+      "versatile": ""
+    },
+    "formula": "",
+    "save": {
+      "ability": "",
+      "dc": null,
+      "scaling": "spell"
+    },
+    "consumableType": "potion",
+    "attuned": false
+  },
+  "_key": "!items!Wjo1dLgm8yZAyKQT"
+}

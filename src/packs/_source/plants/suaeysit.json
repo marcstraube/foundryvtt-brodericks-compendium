@@ -1,0 +1,126 @@
+{
+  "name": "Suaeysit",
+  "type": "consumable",
+  "flags": {
+    "betterRolls5e": {
+      "critRange": {
+        "value": null
+      },
+      "critDamage": {
+        "value": ""
+      },
+      "quickDesc": {
+        "value": true,
+        "altValue": true
+      },
+      "quickProperties": {
+        "value": true,
+        "altValue": true
+      },
+      "quickOther": {
+        "value": true,
+        "altValue": true
+      },
+      "quickFlavor": {
+        "value": true,
+        "altValue": true
+      },
+      "quickCharges": {
+        "value": {
+          "quantity": false
+        },
+        "altValue": {
+          "quantity": false
+        }
+      }
+    }
+  },
+  "img": "modules/brodericks-compendium/icons/mushroom.svg",
+  "effects": [],
+  "_id": "PvQxyyi5dGTMf5Zk",
+  "system": {
+    "description": {
+      "value": "<p><em>Biome: Forests</em></p>\n<p>A dark black mushroom with greyish markings along the undersides, this fungus grows in shadowed forests in cool to cold climes. Suaeysit mushrooms can be eaten directly or dried and ground into tinctures or otherwise prepared. The mushrooms give the imbiber a rush of energy, clearing the mind and raising the spirits. However, they are highly addictive, and care must be taken when preparing and prescribing dosages. Often used to counteract shock in emergency situations. (Temporarily adds +1 to all stats &ndash; no top limit to natural statistics, but it does not add to magically enhanced statistics &ndash; and saving throws, and relieves effects of fatigue. This effect lasts for [[/roll 1d4]] hours, after which the user operates at -1 to all statistics and saving throws, and feels even more fatigued for [[/roll 2d6]] hours. The negative effects of \"coming down\" can, of course, be counteracted by taking more the drug, with resultant addictive effects of gut-wrenching pain and 5 poison damage per day.)</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Broderick's Compendium: Plants and Fungi Across the Realm (version 2.0)",
+    "quantity": 1,
+    "weight": {
+      "value": 0,
+      "units": "lb"
+    },
+    "price": 0,
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "legendary",
+    "identified": true,
+    "activation": {
+      "type": "",
+      "cost": null,
+      "condition": ""
+    },
+    "duration": {
+      "value": null,
+      "units": ""
+    },
+    "cover": null,
+    "crewed": false,
+    "target": {
+      "value": null,
+      "width": null,
+      "units": "",
+      "type": ""
+    },
+    "range": {
+      "value": null,
+      "long": null,
+      "units": ""
+    },
+    "uses": {
+      "value": null,
+      "max": 0,
+      "per": null,
+      "recovery": "",
+      "autoDestroy": false
+    },
+    "consume": {
+      "type": "",
+      "target": null,
+      "amount": null
+    },
+    "ability": null,
+    "actionType": "",
+    "attackBonus": 0,
+    "chatFlavor": "",
+    "critical": null,
+    "damage": {
+      "parts": [],
+      "versatile": ""
+    },
+    "formula": "",
+    "save": {
+      "ability": "",
+      "dc": null,
+      "scaling": "spell"
+    },
+    "consumableType": "potion",
+    "attuned": false
+  },
+  "ownership": {
+    "default": 0
+  },
+  "folder": null,
+  "sort": 0,
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "2.2.1",
+    "coreVersion": "12.328",
+    "createdTime": null,
+    "modifiedTime": 1700852833400,
+    "lastModifiedBy": "packsbuilder0000",
+    "compendiumSource": null,
+    "duplicateSource": null
+  },
+  "_key": "!items!PvQxyyi5dGTMf5Zk"
+}

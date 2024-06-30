@@ -1,0 +1,168 @@
+{
+  "_id": "ORaFEtqRmGcEJ2sJ",
+  "name": "Random Ocean Plant Table",
+  "flags": {
+    "better-rolltables": {
+      "tags": "",
+      "table-type": "loot",
+      "table-currency-string": "",
+      "loot-amount-key": "2",
+      "loot-actor-name": "Found Plants"
+    }
+  },
+  "img": "icons/svg/d20-grey.svg",
+  "description": "Random list of plants to pull from for foraging and for potential use with alchemy. Can include special types of wood for carpentry as well.",
+  "results": [
+    {
+      "_id": "9fAmpCxO2NbJ73bD",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": ""
+          }
+        }
+      },
+      "type": "pack",
+      "text": "Adamant Algae",
+      "img": "icons/svg/mystery-man.svg",
+      "weight": 6,
+      "range": [
+        1,
+        6
+      ],
+      "drawn": false,
+      "documentCollection": "brodericks-compendium.plants",
+      "documentId": "0g2zpx50JjHSZ5bB",
+      "_key": "!tables.results!ORaFEtqRmGcEJ2sJ.9fAmpCxO2NbJ73bD"
+    },
+    {
+      "_id": "4b5MXcc9lfjuWZdm",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": ""
+          }
+        }
+      },
+      "type": "pack",
+      "text": "Dratiddel",
+      "img": "icons/svg/mystery-man.svg",
+      "weight": 1,
+      "range": [
+        7,
+        7
+      ],
+      "drawn": false,
+      "documentCollection": "brodericks-compendium.plants",
+      "documentId": "5zhTmHOEVHuPllO7",
+      "_key": "!tables.results!ORaFEtqRmGcEJ2sJ.4b5MXcc9lfjuWZdm"
+    },
+    {
+      "_id": "UGNIRSbdPMT7ladC",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": ""
+          }
+        }
+      },
+      "type": "pack",
+      "text": "Entangle Weed",
+      "img": "icons/svg/mystery-man.svg",
+      "weight": 6,
+      "range": [
+        8,
+        13
+      ],
+      "drawn": false,
+      "documentCollection": "brodericks-compendium.plants",
+      "documentId": "4opU0udnysyPYz8C",
+      "_key": "!tables.results!ORaFEtqRmGcEJ2sJ.UGNIRSbdPMT7ladC"
+    },
+    {
+      "_id": "MRbYjrJZejkBNN9n",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": ""
+          }
+        }
+      },
+      "type": "pack",
+      "text": "Gylvir",
+      "img": "icons/svg/mystery-man.svg",
+      "weight": 6,
+      "range": [
+        14,
+        19
+      ],
+      "drawn": false,
+      "documentCollection": "brodericks-compendium.plants",
+      "documentId": "OxplJDEI1pC4TJYQ",
+      "_key": "!tables.results!ORaFEtqRmGcEJ2sJ.MRbYjrJZejkBNN9n"
+    },
+    {
+      "_id": "c8rSTT548PJyIYdQ",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": ""
+          }
+        }
+      },
+      "type": "pack",
+      "text": "Sand Vine",
+      "img": "icons/svg/mystery-man.svg",
+      "weight": 30,
+      "range": [
+        20,
+        49
+      ],
+      "drawn": false,
+      "documentCollection": "brodericks-compendium.plants",
+      "documentId": "v3JzzrF1xfi1sswp",
+      "_key": "!tables.results!ORaFEtqRmGcEJ2sJ.c8rSTT548PJyIYdQ"
+    },
+    {
+      "type": "pack",
+      "weight": 200,
+      "range": [
+        50,
+        249
+      ],
+      "drawn": false,
+      "documentCollection": "brodericks-compendium.plants",
+      "_id": "Kv9rhn8evQCb0fws",
+      "text": "Tangara Kelp",
+      "img": "modules/brodericks-compendium/images/tangara-kelp.webp",
+      "documentId": "uHMuP9L5iw7y1kRV",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": ""
+          }
+        }
+      },
+      "_key": "!tables.results!ORaFEtqRmGcEJ2sJ.Kv9rhn8evQCb0fws"
+    }
+  ],
+  "formula": "1d249",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0
+  },
+  "folder": null,
+  "sort": 0,
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "2.2.1",
+    "coreVersion": "12.328",
+    "createdTime": 1686058478064,
+    "modifiedTime": 1692975911418,
+    "lastModifiedBy": "packsbuilder0000",
+    "compendiumSource": null,
+    "duplicateSource": null
+  },
+  "_key": "!tables!ORaFEtqRmGcEJ2sJ"
+}

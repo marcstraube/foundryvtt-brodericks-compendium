@@ -1,0 +1,126 @@
+{
+  "_id": "Ba9ZXdvkdoX4uWog",
+  "name": "Dainaberry (Sleepberry)",
+  "type": "consumable",
+  "flags": {
+    "betterRolls5e": {
+      "critRange": {
+        "value": null
+      },
+      "critDamage": {
+        "value": ""
+      },
+      "quickDesc": {
+        "value": true,
+        "altValue": true
+      },
+      "quickProperties": {
+        "value": true,
+        "altValue": true
+      },
+      "quickOther": {
+        "value": true,
+        "altValue": true
+      },
+      "quickFlavor": {
+        "value": true,
+        "altValue": true
+      },
+      "quickCharges": {
+        "value": {
+          "quantity": false
+        },
+        "altValue": {
+          "quantity": false
+        }
+      }
+    }
+  },
+  "img": "modules/brodericks-compendium/icons/vines.svg",
+  "effects": [],
+  "system": {
+    "description": {
+      "value": "<p><em>Biome: Forests</em></p>\n<p>The Dainabush is a creeping, thorny vine, much like a bramble. Vines are about 5 mm thick, with 2 mm long thorns and are reddish brown, darkening to black, with leaves dark green in colour. The vines flower in early summer, with light blue, bell shaped flowers. In autumn, it carries dark blue or purple berries, which are fleshy, almost crunchy rather than juicy. The berries are slightly sweet and quite tasty, but have a strong effect on mammals: those who eat them fall asleep. The berries have this effect on mammals only (with half effects on half-mammals like half-elves and the like), but a single berry is enough to bring down any man sized or smaller mammal, and given enough berries, even the greatest mammal will fall asleep. There is no saving throw, although the sleep caused is quite normal, and a sleeping creature can simply be awakened. Although the berries can simply be eaten to cause the effect, it is also possible to dry them carefully and grind them into powder. This powder is weaker (DC 14 cons. save vs poison to avoid) but will keep for a much longer time. The powder can be added to any food or drink, but has a very sweet taste.</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Broderick's Compendium: Plants and Fungi Across the Realm (version 2.0)",
+    "quantity": 1,
+    "weight": {
+      "value": 0,
+      "units": "lb"
+    },
+    "price": 0,
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "common",
+    "identified": true,
+    "activation": {
+      "type": "",
+      "cost": null,
+      "condition": ""
+    },
+    "duration": {
+      "value": null,
+      "units": ""
+    },
+    "cover": null,
+    "crewed": false,
+    "target": {
+      "value": null,
+      "width": null,
+      "units": "",
+      "type": ""
+    },
+    "range": {
+      "value": null,
+      "long": null,
+      "units": ""
+    },
+    "uses": {
+      "value": null,
+      "max": 0,
+      "per": null,
+      "recovery": "",
+      "autoDestroy": false
+    },
+    "consume": {
+      "type": "",
+      "target": null,
+      "amount": null
+    },
+    "ability": null,
+    "actionType": "",
+    "attackBonus": 0,
+    "chatFlavor": "",
+    "critical": null,
+    "damage": {
+      "parts": [],
+      "versatile": ""
+    },
+    "formula": "",
+    "save": {
+      "ability": "",
+      "dc": null,
+      "scaling": "spell"
+    },
+    "consumableType": "potion",
+    "attuned": false
+  },
+  "ownership": {
+    "default": 0
+  },
+  "folder": null,
+  "sort": 0,
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "2.2.1",
+    "coreVersion": "12.328",
+    "createdTime": null,
+    "modifiedTime": 1700859548772,
+    "lastModifiedBy": "packsbuilder0000",
+    "compendiumSource": null,
+    "duplicateSource": null
+  },
+  "_key": "!items!Ba9ZXdvkdoX4uWog"
+}

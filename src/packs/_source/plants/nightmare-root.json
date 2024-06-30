@@ -1,0 +1,126 @@
+{
+  "name": "Nightmare Root",
+  "type": "consumable",
+  "flags": {
+    "betterRolls5e": {
+      "critRange": {
+        "value": null
+      },
+      "critDamage": {
+        "value": ""
+      },
+      "quickDesc": {
+        "value": true,
+        "altValue": true
+      },
+      "quickProperties": {
+        "value": true,
+        "altValue": true
+      },
+      "quickOther": {
+        "value": true,
+        "altValue": true
+      },
+      "quickFlavor": {
+        "value": true,
+        "altValue": true
+      },
+      "quickCharges": {
+        "value": {
+          "quantity": false
+        },
+        "altValue": {
+          "quantity": false
+        }
+      }
+    }
+  },
+  "img": "modules/brodericks-compendium/icons/root.svg",
+  "effects": [],
+  "_id": "IHZGhfjAtQ4V3EYM",
+  "system": {
+    "description": {
+      "value": "<p><em>Biome: Underdark & Caves</em></p>\n<p>Nightmare Root is a woody, tuberous plant that grows in deep Underdark locations, sprouting up from even lower places in the abyss. The root can be ground into a fine paste that, although tasteless and without odor, adds the texture of very fine sand to a dish it is added to. Those that consume nightmare root often find themselves plagued by haunting dreams upon falling asleep. A creature subjected to this poison must make a DC 19 Constitution saving throw vs poison. On a failed save, the creature's sleep is haunted with a combination of their greatest fears and everything they've ever done wrong. After these fears are presented, the strong willed and wise can overcome the surface horror of these dreams and attempt a DC 20 Wisdom Save vs fear. If this save is failed, the affected creature cannot benefit from long rests, and therefore gains a point of exhaustion at the beginning of the next day. The poison leaves the creature's system 24 hours after ingestion.</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Broderick's Compendium: Plants and Fungi Across the Realm (version 2.0)",
+    "quantity": 1,
+    "weight": {
+      "value": 0,
+      "units": "lb"
+    },
+    "price": 0,
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "common",
+    "identified": true,
+    "activation": {
+      "type": "",
+      "cost": null,
+      "condition": ""
+    },
+    "duration": {
+      "value": null,
+      "units": ""
+    },
+    "cover": null,
+    "crewed": false,
+    "target": {
+      "value": null,
+      "width": null,
+      "units": "",
+      "type": ""
+    },
+    "range": {
+      "value": null,
+      "long": null,
+      "units": ""
+    },
+    "uses": {
+      "value": null,
+      "max": 0,
+      "per": null,
+      "recovery": "",
+      "autoDestroy": false
+    },
+    "consume": {
+      "type": "",
+      "target": null,
+      "amount": null
+    },
+    "ability": "",
+    "actionType": "",
+    "attackBonus": 0,
+    "chatFlavor": "",
+    "critical": null,
+    "damage": {
+      "parts": [],
+      "versatile": ""
+    },
+    "formula": "",
+    "save": {
+      "ability": "",
+      "dc": null,
+      "scaling": "spell"
+    },
+    "consumableType": "potion",
+    "attuned": false
+  },
+  "ownership": {
+    "default": 0
+  },
+  "folder": null,
+  "sort": 0,
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "2.2.1",
+    "coreVersion": "12.328",
+    "createdTime": null,
+    "modifiedTime": 1700862291424,
+    "lastModifiedBy": "packsbuilder0000",
+    "compendiumSource": null,
+    "duplicateSource": null
+  },
+  "_key": "!items!IHZGhfjAtQ4V3EYM"
+}

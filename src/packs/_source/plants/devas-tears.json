@@ -1,0 +1,126 @@
+{
+  "name": "Deva's Tears",
+  "type": "consumable",
+  "flags": {
+    "betterRolls5e": {
+      "critRange": {
+        "value": null
+      },
+      "critDamage": {
+        "value": ""
+      },
+      "quickDesc": {
+        "value": true,
+        "altValue": true
+      },
+      "quickProperties": {
+        "value": true,
+        "altValue": true
+      },
+      "quickOther": {
+        "value": true,
+        "altValue": true
+      },
+      "quickFlavor": {
+        "value": true,
+        "altValue": true
+      },
+      "quickCharges": {
+        "value": {
+          "quantity": false
+        },
+        "altValue": {
+          "quantity": false
+        }
+      }
+    }
+  },
+  "img": "modules/brodericks-compendium/icons/flower.svg",
+  "effects": [],
+  "_id": "4mtshpl7ZgrbPVoE",
+  "system": {
+    "description": {
+      "value": "<p><em>Biome: Forests, Plains</em></p>\n<p>A light blue flower that grows on a long rigid stalk covered in small leaves, the plant is often found in small clearings in wooded areas. From the flowers a thick sparkling sap is secreted once the plant reaches sexual maturity. Bees are often attracted to the sap, which contains miniscule seeds. Many people seek out the sap of the plant, as it provides some minor restorative aid (Heals for [[/roll 1d4+1]] hit points if consumed within 3 rounds of injury). A person may gain the benefit of drinking Tears a single time per day, and any additional ingestion requires the drinker to make a Constitution save or fall unconscious for [[/roll 2d4+1]] hours. This save is a DC 5, and increases by 1 each time the drinker has imbibed Deva Tears over the course of a day. Up to 20 (roll [[/roll 1d20]] to determine) servings of tears can be extracted from one mature plant before it dries up.</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Broderick's Compendium: Plants and Fungi Across the Realm (version 2.0)",
+    "quantity": 1,
+    "weight": {
+      "value": 0,
+      "units": "lb"
+    },
+    "price": 0,
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "common",
+    "identified": true,
+    "activation": {
+      "type": "",
+      "cost": null,
+      "condition": ""
+    },
+    "duration": {
+      "value": null,
+      "units": ""
+    },
+    "cover": null,
+    "crewed": false,
+    "target": {
+      "value": null,
+      "width": null,
+      "units": "",
+      "type": ""
+    },
+    "range": {
+      "value": null,
+      "long": null,
+      "units": ""
+    },
+    "uses": {
+      "value": null,
+      "max": 0,
+      "per": null,
+      "recovery": "",
+      "autoDestroy": false
+    },
+    "consume": {
+      "type": "",
+      "target": null,
+      "amount": null
+    },
+    "ability": null,
+    "actionType": "",
+    "attackBonus": 0,
+    "chatFlavor": "",
+    "critical": null,
+    "damage": {
+      "parts": [],
+      "versatile": ""
+    },
+    "formula": "",
+    "save": {
+      "ability": "",
+      "dc": null,
+      "scaling": "spell"
+    },
+    "consumableType": "potion",
+    "attuned": false
+  },
+  "ownership": {
+    "default": 0
+  },
+  "folder": null,
+  "sort": 0,
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "2.2.1",
+    "coreVersion": "12.328",
+    "createdTime": null,
+    "modifiedTime": 1700892684494,
+    "lastModifiedBy": "packsbuilder0000",
+    "compendiumSource": null,
+    "duplicateSource": null
+  },
+  "_key": "!items!4mtshpl7ZgrbPVoE"
+}

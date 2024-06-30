@@ -1,0 +1,126 @@
+{
+  "name": "Lizuara",
+  "type": "consumable",
+  "flags": {
+    "betterRolls5e": {
+      "critRange": {
+        "value": null
+      },
+      "critDamage": {
+        "value": ""
+      },
+      "quickDesc": {
+        "value": true,
+        "altValue": true
+      },
+      "quickProperties": {
+        "value": true,
+        "altValue": true
+      },
+      "quickOther": {
+        "value": true,
+        "altValue": true
+      },
+      "quickFlavor": {
+        "value": true,
+        "altValue": true
+      },
+      "quickCharges": {
+        "value": {
+          "quantity": false
+        },
+        "altValue": {
+          "quantity": false
+        }
+      }
+    }
+  },
+  "img": "modules/brodericks-compendium/icons/grass.svg",
+  "effects": [],
+  "_id": "JvQJmITdrwyLNo0f",
+  "system": {
+    "description": {
+      "value": "<p><em>Biome: Rivers</em></p>\n<p>Found only growing underwater in freshwater at least 30 feet deep, Lizuara is a translucent green grass that seems to curl and uncurl on its own. This water plant, when combined with Stygian Pumpkin, can be turned into an ointment called Neverdeath that, when applied to the forehead of a recently dead creature, will bring the character back from the dead up to 7 days from its death. If the resurrection ritual is completed improperly, the character becomes an undead. After successful application of the ointment, the character being treated must make 3 death saving throws unbeknownst to the rest of the party:</p>\n<ul>\n<li>3 successes or 2 successes and 1 failure will return to character to full health, fully living.</li>\n<li>2 failures and 1 success will return the character to conscious undeath, returning the player as a revenant.</li>\n<li>3 failures will return the character as a full undead, with the helpful intervention of an evil deity of death, returning the character as a Death Knight with no control over their actions. The Death Knight will attempt to fight, but can also be turned back to the ally as a revenant state if the ointment is applied once more and the Death Knight fails a DC 16 Cons. Save.</li>\n</ul>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Broderick's Compendium: Plants and Fungi Across the Realm (version 2.0)",
+    "quantity": 1,
+    "weight": {
+      "value": 0,
+      "units": "lb"
+    },
+    "price": 0,
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "legendary",
+    "identified": true,
+    "activation": {
+      "type": "",
+      "cost": null,
+      "condition": ""
+    },
+    "duration": {
+      "value": null,
+      "units": ""
+    },
+    "cover": null,
+    "crewed": false,
+    "target": {
+      "value": null,
+      "width": null,
+      "units": "",
+      "type": ""
+    },
+    "range": {
+      "value": null,
+      "long": null,
+      "units": ""
+    },
+    "uses": {
+      "value": null,
+      "max": 0,
+      "per": null,
+      "recovery": "",
+      "autoDestroy": false
+    },
+    "consume": {
+      "type": "",
+      "target": null,
+      "amount": null
+    },
+    "ability": null,
+    "actionType": "",
+    "attackBonus": 0,
+    "chatFlavor": "",
+    "critical": null,
+    "damage": {
+      "parts": [],
+      "versatile": ""
+    },
+    "formula": "",
+    "save": {
+      "ability": "",
+      "dc": null,
+      "scaling": "spell"
+    },
+    "consumableType": "potion",
+    "attuned": false
+  },
+  "ownership": {
+    "default": 0
+  },
+  "folder": null,
+  "sort": 0,
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "2.2.1",
+    "coreVersion": "12.328",
+    "createdTime": null,
+    "modifiedTime": 1698242784631,
+    "lastModifiedBy": "packsbuilder0000",
+    "compendiumSource": null,
+    "duplicateSource": null
+  },
+  "_key": "!items!JvQJmITdrwyLNo0f"
+}
