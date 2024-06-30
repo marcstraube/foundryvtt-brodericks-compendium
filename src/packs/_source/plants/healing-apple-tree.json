@@ -2,7 +2,7 @@
   "_id": "nZnpoJSKz13g2EYR",
   "name": "Healing Apple Tree",
   "type": "consumable",
-  "img": "modules/brodericks-compendium/images/healing-apple-tree.webp",
+  "img": "modules/brodericks-compendium/assets/images/healing-apple-tree.webp",
   "effects": [],
   "folder": null,
   "sort": 0,

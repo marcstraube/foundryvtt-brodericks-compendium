@@ -133,7 +133,7 @@
       "documentCollection": "brodericks-compendium.plants",
       "_id": "sGQEsu0fbLqZSk5q",
       "text": "Bee Balm",
-      "img": "modules/brodericks-compendium/images/bee-balm.webp",
+      "img": "modules/brodericks-compendium/assets/images/bee-balm.webp",
       "documentId": "OSBBvb8thudY2Agj",
       "flags": {
         "better-rolltables": {
@@ -155,7 +155,7 @@
       },
       "type": "pack",
       "text": "Bija Tree",
-      "img": "modules/brodericks-compendium/images/bija-tree.webp",
+      "img": "modules/brodericks-compendium/assets/images/bija-tree.webp",
       "weight": 7,
       "range": [
         166,
@@ -529,7 +529,7 @@
       },
       "type": "pack",
       "text": "Halcyon Crocus",
-      "img": "modules/brodericks-compendium/images/halcyon-crocus.webp",
+      "img": "modules/brodericks-compendium/assets/images/halcyon-crocus.webp",
       "weight": 1,
       "range": [
         607,
@@ -551,7 +551,7 @@
       },
       "type": "pack",
       "text": "Hare's Ear",
-      "img": "modules/brodericks-compendium/images/hares-ear.webp",
+      "img": "modules/brodericks-compendium/assets/images/hares-ear.webp",
       "weight": 46,
       "range": [
         608,
@@ -727,7 +727,7 @@
       "documentCollection": "brodericks-compendium.plants",
       "_id": "Jv13Skc7XE0w4iuP",
       "text": "Mistletoe",
-      "img": "modules/brodericks-compendium/images/mistletoe.webp",
+      "img": "modules/brodericks-compendium/assets/images/mistletoe.webp",
       "documentId": "rwwvrARMjha4KR3r",
       "flags": {
         "better-rolltables": {
@@ -749,7 +749,7 @@
       },
       "type": "pack",
       "text": "Obaddis Leaf",
-      "img": "modules/brodericks-compendium/images/obaddis-leaf.webp",
+      "img": "modules/brodericks-compendium/assets/images/obaddis-leaf.webp",
       "weight": 7,
       "range": [
         796,
@@ -837,7 +837,7 @@
       },
       "type": "pack",
       "text": "Scented Mayweed",
-      "img": "modules/brodericks-compendium/images/scented-mayweed.webp",
+      "img": "modules/brodericks-compendium/assets/images/scented-mayweed.webp",
       "weight": 50,
       "range": [
         824,
@@ -969,7 +969,7 @@
       },
       "type": "pack",
       "text": "Thistledown",
-      "img": "modules/brodericks-compendium/images/thistledown.webp",
+      "img": "modules/brodericks-compendium/assets/images/thistledown.webp",
       "weight": 3,
       "range": [
         995,

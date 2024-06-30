@@ -23,7 +23,7 @@
       "documentCollection": "brodericks-compendium.plants",
       "_id": "Jtp2Sefv1SMqN2Du",
       "text": "Alchemilla (Lady's Mantle)",
-      "img": "modules/brodericks-compendium/images/alchemilla.webp",
+      "img": "modules/brodericks-compendium/assets/images/alchemilla.webp",
       "documentId": "t6KKEpRvztqjR4J9",
       "flags": {
         "better-rolltables": {
@@ -45,7 +45,7 @@
       },
       "type": "pack",
       "text": "Aloe",
-      "img": "modules/brodericks-compendium/images/aloe.webp",
+      "img": "modules/brodericks-compendium/assets/images/aloe.webp",
       "weight": 29,
       "range": [
         44,
@@ -67,7 +67,7 @@
       },
       "type": "pack",
       "text": "Basil",
-      "img": "modules/brodericks-compendium/images/basil.webp",
+      "img": "modules/brodericks-compendium/assets/images/basil.webp",
       "weight": 29,
       "range": [
         73,
@@ -89,7 +89,7 @@
       "documentCollection": "brodericks-compendium.plants",
       "_id": "mwgnZjRRhadjQiY9",
       "text": "Bodhi Tree (Sacred Fig)",
-      "img": "modules/brodericks-compendium/images/bodhi-tree.webp",
+      "img": "modules/brodericks-compendium/assets/images/bodhi-tree.webp",
       "documentId": "V8wANGhTYerUamC4",
       "flags": {
         "better-rolltables": {
@@ -111,7 +111,7 @@
       "documentCollection": "brodericks-compendium.plants",
       "_id": "xiGEtZ4w1fsDa3D8",
       "text": "Crab-Apple",
-      "img": "modules/brodericks-compendium/images/crab-apple.webp",
+      "img": "modules/brodericks-compendium/assets/images/crab-apple.webp",
       "documentId": "jlkux7HRTqw3RV0G",
       "flags": {
         "better-rolltables": {
@@ -133,7 +133,7 @@
       },
       "type": "pack",
       "text": "Dwarf Hops",
-      "img": "modules/brodericks-compendium/images/dwarf-hops.webp",
+      "img": "modules/brodericks-compendium/assets/images/dwarf-hops.webp",
       "weight": 29,
       "range": [
         141,
@@ -155,7 +155,7 @@
       "documentCollection": "brodericks-compendium.plants",
       "_id": "8kHEKc3AFIwnK1Z1",
       "text": "Foxglove",
-      "img": "modules/brodericks-compendium/images/foxglove.webp",
+      "img": "modules/brodericks-compendium/assets/images/foxglove.webp",
       "documentId": "x4AK3JNhQRW2fmJP",
       "flags": {
         "better-rolltables": {
@@ -177,7 +177,7 @@
       },
       "type": "pack",
       "text": "Gardenflax",
-      "img": "modules/brodericks-compendium/images/gardenflax.webp",
+      "img": "modules/brodericks-compendium/assets/images/gardenflax.webp",
       "weight": 8,
       "range": [
         199,
@@ -309,7 +309,7 @@
       },
       "type": "pack",
       "text": "Juniper",
-      "img": "modules/brodericks-compendium/images/juniper.webp",
+      "img": "modules/brodericks-compendium/assets/images/juniper.webp",
       "weight": 29,
       "range": [
         381,
@@ -331,7 +331,7 @@
       "documentCollection": "brodericks-compendium.plants",
       "_id": "sRP5cnM2mBgRtGd0",
       "text": "Linden Tree",
-      "img": "modules/brodericks-compendium/images/linden-tree.webp",
+      "img": "modules/brodericks-compendium/assets/images/linden-tree.webp",
       "documentId": "BEVNc9nbsgc0pBth",
       "flags": {
         "better-rolltables": {
@@ -397,7 +397,7 @@
       },
       "type": "pack",
       "text": "Lumina Cap",
-      "img": "modules/brodericks-compendium/images/lumina-cap.webp",
+      "img": "modules/brodericks-compendium/assets/images/lumina-cap.webp",
       "weight": 10,
       "range": [
         511,
@@ -419,7 +419,7 @@
       },
       "type": "pack",
       "text": "Marjoram",
-      "img": "modules/brodericks-compendium/images/marjoram.webp",
+      "img": "modules/brodericks-compendium/assets/images/marjoram.webp",
       "weight": 29,
       "range": [
         521,
@@ -529,7 +529,7 @@
       },
       "type": "pack",
       "text": "Peony",
-      "img": "modules/brodericks-compendium/images/peony.webp",
+      "img": "modules/brodericks-compendium/assets/images/peony.webp",
       "weight": 43,
       "range": [
         660,
@@ -551,7 +551,7 @@
       },
       "type": "pack",
       "text": "Periwinkle",
-      "img": "modules/brodericks-compendium/images/periwinkle.webp",
+      "img": "modules/brodericks-compendium/assets/images/periwinkle.webp",
       "weight": 29,
       "range": [
         703,
@@ -573,7 +573,7 @@
       "documentCollection": "brodericks-compendium.plants",
       "_id": "5tOLseutoEehtcVW",
       "text": "Psyllium (Plantain Weed)",
-      "img": "modules/brodericks-compendium/images/psyllium.webp",
+      "img": "modules/brodericks-compendium/assets/images/psyllium.webp",
       "documentId": "0Z1wChZT06d0EyoG",
       "flags": {
         "better-rolltables": {
@@ -595,7 +595,7 @@
       },
       "type": "pack",
       "text": "Purple Pipeweed",
-      "img": "modules/brodericks-compendium/images/purple-pipeweed.webp",
+      "img": "modules/brodericks-compendium/assets/images/purple-pipeweed.webp",
       "weight": 30,
       "range": [
         761,
@@ -683,7 +683,7 @@
       },
       "type": "pack",
       "text": "Scholar's Dream",
-      "img": "modules/brodericks-compendium/images/scholars-dream.webp",
+      "img": "modules/brodericks-compendium/assets/images/scholars-dream.webp",
       "weight": 10,
       "range": [
         839,
@@ -705,7 +705,7 @@
       },
       "type": "pack",
       "text": "Strawberry",
-      "img": "modules/brodericks-compendium/images/strawberry.webp",
+      "img": "modules/brodericks-compendium/assets/images/strawberry.webp",
       "weight": 29,
       "range": [
         849,
@@ -727,7 +727,7 @@
       "documentCollection": "brodericks-compendium.plants",
       "_id": "Q5XkJuhBAkMHrjZ7",
       "text": "Tansy",
-      "img": "modules/brodericks-compendium/images/tansy.webp",
+      "img": "modules/brodericks-compendium/assets/images/tansy.webp",
       "documentId": "LXo3358JFgipi07g",
       "flags": {
         "better-rolltables": {
@@ -749,7 +749,7 @@
       },
       "type": "pack",
       "text": "Thyme",
-      "img": "modules/brodericks-compendium/images/thyme.webp",
+      "img": "modules/brodericks-compendium/assets/images/thyme.webp",
       "weight": 29,
       "range": [
         907,

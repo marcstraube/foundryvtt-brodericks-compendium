@@ -1,7 +1,7 @@
 {
   "name": "Marsh Maw",
   "type": "npc",
-  "img": "modules/brodericks-compendium/icons/carnivorous-plant.svg",
+  "img": "modules/brodericks-compendium/assets/icons/carnivorous-plant.svg",
   "system": {
     "abilities": {
       "str": {
@@ -387,7 +387,7 @@
     "displayName": 0,
     "actorLink": false,
     "texture": {
-      "src": "modules/brodericks-compendium/icons/carnivorous-plant.svg",
+      "src": "modules/brodericks-compendium/assets/icons/carnivorous-plant.svg",
       "scaleX": 1,
       "scaleY": 1,
       "offsetX": 0,

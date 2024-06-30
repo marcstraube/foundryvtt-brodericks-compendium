@@ -2,7 +2,7 @@
   "_id": "qhIrjaoq7KWRDrky",
   "name": "Cat's Tail",
   "type": "consumable",
-  "img": "modules/brodericks-compendium/images/cats-tail.webp",
+  "img": "modules/brodericks-compendium/assets/images/cats-tail.webp",
   "effects": [],
   "folder": null,
   "sort": 0,

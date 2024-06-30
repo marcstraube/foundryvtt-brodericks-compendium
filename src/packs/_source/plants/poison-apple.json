@@ -2,7 +2,7 @@
   "_id": "L9lI63bE4plzGjvz",
   "name": "Poison Apple",
   "type": "consumable",
-  "img": "modules/brodericks-compendium/images/poison-apple.webp",
+  "img": "modules/brodericks-compendium/assets/images/poison-apple.webp",
   "effects": [],
   "folder": null,
   "sort": 0,

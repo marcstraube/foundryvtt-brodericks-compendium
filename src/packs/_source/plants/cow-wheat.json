@@ -2,7 +2,7 @@
   "_id": "oOaP7ITfdTTwX60M",
   "name": "Cow-Wheat",
   "type": "consumable",
-  "img": "modules/brodericks-compendium/images/cow-wheat.webp",
+  "img": "modules/brodericks-compendium/assets/images/cow-wheat.webp",
   "effects": [],
   "folder": null,
   "sort": 0,

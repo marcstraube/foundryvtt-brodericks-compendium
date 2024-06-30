@@ -23,7 +23,7 @@
       },
       "type": "pack",
       "text": "Abyssal Blackgrass",
-      "img": "modules/brodericks-compendium/images/abyssal-blackgrass.webp",
+      "img": "modules/brodericks-compendium/assets/images/abyssal-blackgrass.webp",
       "weight": 13,
       "range": [
         1,
@@ -45,7 +45,7 @@
       },
       "type": "pack",
       "text": "Amanita",
-      "img": "modules/brodericks-compendium/images/amanita.webp",
+      "img": "modules/brodericks-compendium/assets/images/amanita.webp",
       "weight": 13,
       "range": [
         14,
@@ -133,7 +133,7 @@
       },
       "type": "pack",
       "text": "Bluecap",
-      "img": "modules/brodericks-compendium/images/bluecap.webp",
+      "img": "modules/brodericks-compendium/assets/images/bluecap.webp",
       "weight": 333,
       "range": [
         92,
@@ -177,7 +177,7 @@
       "documentCollection": "brodericks-compendium.plants",
       "_id": "gx4nDdZ1I3QsA0fO",
       "text": "Brawler's Blackcorn",
-      "img": "modules/brodericks-compendium/images/blackcorn.webp",
+      "img": "modules/brodericks-compendium/assets/images/blackcorn.webp",
       "documentId": "JMBK5FYuSwU9tsQJ",
       "flags": {
         "better-rolltables": {
@@ -903,7 +903,7 @@
       },
       "type": "pack",
       "text": "Lumina Cap",
-      "img": "modules/brodericks-compendium/images/lumina-cap.webp",
+      "img": "modules/brodericks-compendium/assets/images/lumina-cap.webp",
       "weight": 6,
       "range": [
         1341,
@@ -1255,7 +1255,7 @@
       },
       "type": "pack",
       "text": "Sunflower of Pelor",
-      "img": "modules/brodericks-compendium/images/sunflower-of-pelor.webp",
+      "img": "modules/brodericks-compendium/assets/images/sunflower-of-pelor.webp",
       "weight": 46,
       "range": [
         1491,

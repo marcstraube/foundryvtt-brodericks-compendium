@@ -45,7 +45,7 @@
       },
       "type": "pack",
       "text": "Angelica",
-      "img": "modules/brodericks-compendium/images/angelica.webp",
+      "img": "modules/brodericks-compendium/assets/images/angelica.webp",
       "weight": 179,
       "range": [
         80,
@@ -111,7 +111,7 @@
       },
       "type": "pack",
       "text": "Arnica",
-      "img": "modules/brodericks-compendium/images/arnica.webp",
+      "img": "modules/brodericks-compendium/assets/images/arnica.webp",
       "weight": 179,
       "range": [
         384,
@@ -155,7 +155,7 @@
       },
       "type": "pack",
       "text": "Base Mullein",
-      "img": "modules/brodericks-compendium/images/base-mullein.webp",
+      "img": "modules/brodericks-compendium/assets/images/base-mullein.webp",
       "weight": 179,
       "range": [
         609,
@@ -177,7 +177,7 @@
       },
       "type": "pack",
       "text": "Basil",
-      "img": "modules/brodericks-compendium/images/basil.webp",
+      "img": "modules/brodericks-compendium/assets/images/basil.webp",
       "weight": 179,
       "range": [
         788,
@@ -243,7 +243,7 @@
       },
       "type": "pack",
       "text": "Blackberry",
-      "img": "modules/brodericks-compendium/images/blackberry.webp",
+      "img": "modules/brodericks-compendium/assets/images/blackberry.webp",
       "weight": 179,
       "range": [
         1027,
@@ -463,7 +463,7 @@
       },
       "type": "pack",
       "text": "Dathlil",
-      "img": "modules/brodericks-compendium/images/dathlil.webp",
+      "img": "modules/brodericks-compendium/assets/images/dathlil.webp",
       "weight": 179,
       "range": [
         1874,
@@ -507,7 +507,7 @@
       },
       "type": "pack",
       "text": "Devil's Crown",
-      "img": "modules/brodericks-compendium/images/devils-crown.webp",
+      "img": "modules/brodericks-compendium/assets/images/devils-crown.webp",
       "weight": 21,
       "range": [
         2067,
@@ -573,7 +573,7 @@
       },
       "type": "pack",
       "text": "Dwarf Mallow",
-      "img": "modules/brodericks-compendium/images/dwarf-mallow.webp",
+      "img": "modules/brodericks-compendium/assets/images/dwarf-mallow.webp",
       "weight": 46,
       "range": [
         2213,
@@ -683,7 +683,7 @@
       },
       "type": "pack",
       "text": "Ephedra",
-      "img": "modules/brodericks-compendium/images/ephedra.webp",
+      "img": "modules/brodericks-compendium/assets/images/ephedra.webp",
       "weight": 21,
       "range": [
         2419,
@@ -1013,7 +1013,7 @@
       },
       "type": "pack",
       "text": "Lesser Centaury",
-      "img": "modules/brodericks-compendium/images/lesser-centaury.webp",
+      "img": "modules/brodericks-compendium/assets/images/lesser-centaury.webp",
       "weight": 79,
       "range": [
         3000,
@@ -1035,7 +1035,7 @@
       "documentCollection": "brodericks-compendium.plants",
       "_id": "SpDCop7iJxdoiSgi",
       "text": "Midnight Coneflower",
-      "img": "modules/brodericks-compendium/images/midnight-coneflower.webp",
+      "img": "modules/brodericks-compendium/assets/images/midnight-coneflower.webp",
       "documentId": "XZmhCqm2xLCGFOtN",
       "flags": {
         "better-rolltables": {
@@ -1145,7 +1145,7 @@
       },
       "type": "pack",
       "text": "Mountain Garlic",
-      "img": "modules/brodericks-compendium/images/mountain-garlic.webp",
+      "img": "modules/brodericks-compendium/assets/images/mountain-garlic.webp",
       "weight": 79,
       "range": [
         3399,
@@ -1343,7 +1343,7 @@
       },
       "type": "pack",
       "text": "Serapia's Turbith",
-      "img": "modules/brodericks-compendium/images/serapias-turbith.webp",
+      "img": "modules/brodericks-compendium/assets/images/serapias-turbith.webp",
       "weight": 1,
       "range": [
         3715,
@@ -1387,7 +1387,7 @@
       },
       "type": "pack",
       "text": "Shepherd's Purse",
-      "img": "modules/brodericks-compendium/images/sheperds-purse.webp",
+      "img": "modules/brodericks-compendium/assets/images/sheperds-purse.webp",
       "weight": 46,
       "range": [
         3737,
@@ -1431,7 +1431,7 @@
       },
       "type": "pack",
       "text": "Silverthorn (Aelebera)",
-      "img": "modules/brodericks-compendium/images/silverthorn.webp",
+      "img": "modules/brodericks-compendium/assets/images/silverthorn.webp",
       "weight": 14,
       "range": [
         3804,
@@ -1519,7 +1519,7 @@
       },
       "type": "pack",
       "text": "Spring Adonis",
-      "img": "modules/brodericks-compendium/images/spring-adonis.webp",
+      "img": "modules/brodericks-compendium/assets/images/spring-adonis.webp",
       "weight": 79,
       "range": [
         3854,
@@ -1541,7 +1541,7 @@
       },
       "type": "pack",
       "text": "Strawberry",
-      "img": "modules/brodericks-compendium/images/strawberry.webp",
+      "img": "modules/brodericks-compendium/assets/images/strawberry.webp",
       "weight": 179,
       "range": [
         3933,

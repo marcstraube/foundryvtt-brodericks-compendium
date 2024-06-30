@@ -23,7 +23,7 @@
       "documentCollection": "brodericks-compendium.plants",
       "_id": "I4Vc60NrwJpNvAtX",
       "text": "Acacia Tree",
-      "img": "modules/brodericks-compendium/images/acacia-tree.webp",
+      "img": "modules/brodericks-compendium/assets/images/acacia-tree.webp",
       "documentId": "AqQr95iAxX14aHZ0",
       "flags": {
         "better-rolltables": {
@@ -155,7 +155,7 @@
       "documentCollection": "brodericks-compendium.plants",
       "_id": "cjpYb1GTkFz8rQdI",
       "text": "Ashwaganda Root",
-      "img": "modules/brodericks-compendium/images/ashwaganda-root.webp",
+      "img": "modules/brodericks-compendium/assets/images/ashwaganda-root.webp",
       "documentId": "xLNtvpsOx9I1bFfa",
       "flags": {
         "better-rolltables": {
@@ -287,7 +287,7 @@
       "documentCollection": "brodericks-compendium.plants",
       "_id": "ltUMF5xsxK52FULy",
       "text": "Bodhi Tree (Sacred Fig)",
-      "img": "modules/brodericks-compendium/images/bodhi-tree.webp",
+      "img": "modules/brodericks-compendium/assets/images/bodhi-tree.webp",
       "documentId": "V8wANGhTYerUamC4",
       "flags": {
         "better-rolltables": {
@@ -419,7 +419,7 @@
       },
       "type": "pack",
       "text": "Calamus",
-      "img": "modules/brodericks-compendium/images/calamus.webp",
+      "img": "modules/brodericks-compendium/assets/images/calamus.webp",
       "weight": 40,
       "range": [
         517,
@@ -485,7 +485,7 @@
       },
       "type": "pack",
       "text": "Chervil",
-      "img": "modules/brodericks-compendium/images/chervil.webp",
+      "img": "modules/brodericks-compendium/assets/images/chervil.webp",
       "weight": 40,
       "range": [
         779,
@@ -595,7 +595,7 @@
       "documentCollection": "brodericks-compendium.plants",
       "_id": "SDZVDkDCPKB62Qmr",
       "text": "Damiana",
-      "img": "modules/brodericks-compendium/images/damiana.webp",
+      "img": "modules/brodericks-compendium/assets/images/damiana.webp",
       "documentId": "JKDcPxKoSn0kB1Pd",
       "flags": {
         "better-rolltables": {
@@ -639,7 +639,7 @@
       },
       "type": "pack",
       "text": "Deadly Nightshade",
-      "img": "modules/brodericks-compendium/images/deadly-nightshade.webp",
+      "img": "modules/brodericks-compendium/assets/images/deadly-nightshade.webp",
       "weight": 18,
       "range": [
         904,
@@ -771,7 +771,7 @@
       },
       "type": "pack",
       "text": "Dog Rose",
-      "img": "modules/brodericks-compendium/images/dog-rose.webp",
+      "img": "modules/brodericks-compendium/assets/images/dog-rose.webp",
       "weight": 111,
       "range": [
         993,
@@ -947,7 +947,7 @@
       },
       "type": "pack",
       "text": "Fiend's Ivy",
-      "img": "modules/brodericks-compendium/images/fiends-ivy.webp",
+      "img": "modules/brodericks-compendium/assets/images/fiends-ivy.webp",
       "weight": 40,
       "range": [
         1196,
@@ -1013,7 +1013,7 @@
       },
       "type": "pack",
       "text": "Floure-du-luce (Blue Flag)",
-      "img": "modules/brodericks-compendium/images/floure-du-luce.webp",
+      "img": "modules/brodericks-compendium/assets/images/floure-du-luce.webp",
       "weight": 111,
       "range": [
         1255,
@@ -1101,7 +1101,7 @@
       },
       "type": "pack",
       "text": "Gardenflax",
-      "img": "modules/brodericks-compendium/images/gardenflax.webp",
+      "img": "modules/brodericks-compendium/assets/images/gardenflax.webp",
       "weight": 6,
       "range": [
         1497,
@@ -1167,7 +1167,7 @@
       },
       "type": "pack",
       "text": "Golden Lungwort",
-      "img": "modules/brodericks-compendium/images/golden-lungwort.webp",
+      "img": "modules/brodericks-compendium/assets/images/golden-lungwort.webp",
       "weight": 18,
       "range": [
         1517,
@@ -1189,7 +1189,7 @@
       "documentCollection": "brodericks-compendium.plants",
       "_id": "auCsJevkcxtv2ME3",
       "text": "Gotu Kola (Tiger's Calm)",
-      "img": "modules/brodericks-compendium/images/gotu-kola.webp",
+      "img": "modules/brodericks-compendium/assets/images/gotu-kola.webp",
       "documentId": "yDpp743F6CaJbdoQ",
       "flags": {
         "better-rolltables": {
@@ -1299,7 +1299,7 @@
       },
       "type": "pack",
       "text": "Healing Apple Tree",
-      "img": "modules/brodericks-compendium/images/healing-apple-tree.webp",
+      "img": "modules/brodericks-compendium/assets/images/healing-apple-tree.webp",
       "weight": 40,
       "range": [
         1607,
@@ -1321,7 +1321,7 @@
       },
       "type": "pack",
       "text": "Hidden Hibiscus",
-      "img": "modules/brodericks-compendium/images/hidden-hibiscus.webp",
+      "img": "modules/brodericks-compendium/assets/images/hidden-hibiscus.webp",
       "weight": 6,
       "range": [
         1647,
@@ -1343,7 +1343,7 @@
       },
       "type": "pack",
       "text": "Hiljirat Pepper",
-      "img": "modules/brodericks-compendium/images/hiljirat-pepper.webp",
+      "img": "modules/brodericks-compendium/assets/images/hiljirat-pepper.webp",
       "weight": 18,
       "range": [
         1653,
@@ -1431,7 +1431,7 @@
       },
       "type": "pack",
       "text": "Jalap",
-      "img": "modules/brodericks-compendium/images/jalap.webp",
+      "img": "modules/brodericks-compendium/assets/images/jalap.webp",
       "weight": 111,
       "range": [
         1769,
@@ -1585,7 +1585,7 @@
       },
       "type": "pack",
       "text": "Land Caltrops",
-      "img": "modules/brodericks-compendium/images/land-caltrops.webp",
+      "img": "modules/brodericks-compendium/assets/images/land-caltrops.webp",
       "weight": 111,
       "range": [
         2196,
@@ -1607,7 +1607,7 @@
       },
       "type": "pack",
       "text": "Leopard's Bane",
-      "img": "modules/brodericks-compendium/images/leopards-bane.webp",
+      "img": "modules/brodericks-compendium/assets/images/leopards-bane.webp",
       "weight": 111,
       "range": [
         2307,
@@ -1651,7 +1651,7 @@
       },
       "type": "pack",
       "text": "Mandrake",
-      "img": "modules/brodericks-compendium/images/mandrake.webp",
+      "img": "modules/brodericks-compendium/assets/images/mandrake.webp",
       "weight": 7,
       "range": [
         2436,
@@ -1827,7 +1827,7 @@
       },
       "type": "pack",
       "text": "Poison Apple",
-      "img": "modules/brodericks-compendium/images/poison-apple.webp",
+      "img": "modules/brodericks-compendium/assets/images/poison-apple.webp",
       "weight": 18,
       "range": [
         2628,
@@ -2025,7 +2025,7 @@
       },
       "type": "pack",
       "text": "Ribwort Plantain",
-      "img": "modules/brodericks-compendium/images/ribwort-plaintain.webp",
+      "img": "modules/brodericks-compendium/assets/images/ribwort-plaintain.webp",
       "weight": 111,
       "range": [
         2965,
@@ -2179,7 +2179,7 @@
       },
       "type": "pack",
       "text": "Shadbush",
-      "img": "modules/brodericks-compendium/images/shadbush.webp",
+      "img": "modules/brodericks-compendium/assets/images/shadbush.webp",
       "weight": 111,
       "range": [
         3132,
@@ -2311,7 +2311,7 @@
       },
       "type": "pack",
       "text": "Spiderbush",
-      "img": "modules/brodericks-compendium/images/spiderbush.webp",
+      "img": "modules/brodericks-compendium/assets/images/spiderbush.webp",
       "weight": 7,
       "range": [
         3350,
@@ -2465,7 +2465,7 @@
       },
       "type": "pack",
       "text": "Tamarind",
-      "img": "modules/brodericks-compendium/images/tamarind.webp",
+      "img": "modules/brodericks-compendium/assets/images/tamarind.webp",
       "weight": 111,
       "range": [
         3436,
@@ -2487,7 +2487,7 @@
       },
       "type": "pack",
       "text": "Tamariske (Blacktear)",
-      "img": "modules/brodericks-compendium/images/tamariske.webp",
+      "img": "modules/brodericks-compendium/assets/images/tamariske.webp",
       "weight": 18,
       "range": [
         3547,
@@ -2817,7 +2817,7 @@
       },
       "type": "pack",
       "text": "Woodrose",
-      "img": "modules/brodericks-compendium/images/woodrose.webp",
+      "img": "modules/brodericks-compendium/assets/images/woodrose.webp",
       "weight": 7,
       "range": [
         3924,
@@ -2839,7 +2839,7 @@
       },
       "type": "pack",
       "text": "Wormwood",
-      "img": "modules/brodericks-compendium/images/wormwood.webp",
+      "img": "modules/brodericks-compendium/assets/images/wormwood.webp",
       "weight": 7,
       "range": [
         3931,

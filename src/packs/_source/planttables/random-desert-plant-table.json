@@ -67,7 +67,7 @@
       },
       "type": "pack",
       "text": "Aloe",
-      "img": "modules/brodericks-compendium/images/aloe.webp",
+      "img": "modules/brodericks-compendium/assets/images/aloe.webp",
       "weight": 56,
       "range": [
         7,
@@ -353,7 +353,7 @@
       },
       "type": "pack",
       "text": "Dathlil",
-      "img": "modules/brodericks-compendium/images/dathlil.webp",
+      "img": "modules/brodericks-compendium/assets/images/dathlil.webp",
       "weight": 56,
       "range": [
         416,
@@ -463,7 +463,7 @@
       },
       "type": "pack",
       "text": "Ephedra",
-      "img": "modules/brodericks-compendium/images/ephedra.webp",
+      "img": "modules/brodericks-compendium/assets/images/ephedra.webp",
       "weight": 7,
       "range": [
         502,
@@ -793,7 +793,7 @@
       },
       "type": "pack",
       "text": "Powdered Desert Milk (Wolves' Milk)",
-      "img": "modules/brodericks-compendium/images/powdered-desert-milk.webp",
+      "img": "modules/brodericks-compendium/assets/images/powdered-desert-milk.webp",
       "weight": 9,
       "range": [
         746,
@@ -837,7 +837,7 @@
       },
       "type": "pack",
       "text": "Sandberry Bush",
-      "img": "modules/brodericks-compendium/images/sandberry-bush.webp",
+      "img": "modules/brodericks-compendium/assets/images/sandberry-bush.webp",
       "weight": 56,
       "range": [
         758,

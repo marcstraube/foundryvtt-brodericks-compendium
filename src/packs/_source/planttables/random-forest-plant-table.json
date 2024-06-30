@@ -89,7 +89,7 @@
       },
       "type": "pack",
       "text": "All-Heale (Attorlaðe)",
-      "img": "modules/brodericks-compendium/images/all-heale.webp",
+      "img": "modules/brodericks-compendium/assets/images/all-heale.webp",
       "weight": 48,
       "range": [
         58,
@@ -221,7 +221,7 @@
       },
       "type": "pack",
       "text": "Asarabacca",
-      "img": "modules/brodericks-compendium/images/asarabacca.webp",
+      "img": "modules/brodericks-compendium/assets/images/asarabacca.webp",
       "weight": 15,
       "range": [
         237,
@@ -243,7 +243,7 @@
       },
       "type": "pack",
       "text": "Ash",
-      "img": "modules/brodericks-compendium/images/ash.webp",
+      "img": "modules/brodericks-compendium/assets/images/ash.webp",
       "weight": 27,
       "range": [
         252,
@@ -309,7 +309,7 @@
       "documentCollection": "brodericks-compendium.plants",
       "_id": "orWMq50RPIHGD4Nc",
       "text": "Aspen Tree",
-      "img": "modules/brodericks-compendium/images/aspen-tree.webp",
+      "img": "modules/brodericks-compendium/assets/images/aspen-tree.webp",
       "documentId": "q01bD1uOFJt6rY91",
       "flags": {
         "better-rolltables": {
@@ -353,7 +353,7 @@
       "documentCollection": "brodericks-compendium.plants",
       "_id": "9DP8C0L0Fbgg1vSX",
       "text": "Astragalus Root",
-      "img": "modules/brodericks-compendium/images/astragalus-root.webp",
+      "img": "modules/brodericks-compendium/assets/images/astragalus-root.webp",
       "documentId": "KoDfF3Alh5wPePzb",
       "flags": {
         "better-rolltables": {
@@ -375,7 +375,7 @@
       "documentCollection": "brodericks-compendium.plants",
       "_id": "huRYPQnKYTarIStj",
       "text": "Autumn Skullcap",
-      "img": "modules/brodericks-compendium/images/autumn-skullcap.webp",
+      "img": "modules/brodericks-compendium/assets/images/autumn-skullcap.webp",
       "documentId": "oxhQhmVbUlYLXvyt",
       "flags": {
         "better-rolltables": {
@@ -419,7 +419,7 @@
       },
       "type": "pack",
       "text": "Barberry",
-      "img": "modules/brodericks-compendium/images/barberry.webp",
+      "img": "modules/brodericks-compendium/assets/images/barberry.webp",
       "weight": 48,
       "range": [
         404,
@@ -463,7 +463,7 @@
       },
       "type": "pack",
       "text": "Basil",
-      "img": "modules/brodericks-compendium/images/basil.webp",
+      "img": "modules/brodericks-compendium/assets/images/basil.webp",
       "weight": 48,
       "range": [
         467,
@@ -485,7 +485,7 @@
       },
       "type": "pack",
       "text": "Bija Tree",
-      "img": "modules/brodericks-compendium/images/bija-tree.webp",
+      "img": "modules/brodericks-compendium/assets/images/bija-tree.webp",
       "weight": 7,
       "range": [
         515,
@@ -507,7 +507,7 @@
       },
       "type": "pack",
       "text": "Bilberry",
-      "img": "modules/brodericks-compendium/images/bilberry.webp",
+      "img": "modules/brodericks-compendium/assets/images/bilberry.webp",
       "weight": 5,
       "range": [
         522,
@@ -551,7 +551,7 @@
       },
       "type": "pack",
       "text": "Blackberry",
-      "img": "modules/brodericks-compendium/images/blackberry.webp",
+      "img": "modules/brodericks-compendium/assets/images/blackberry.webp",
       "weight": 48,
       "range": [
         554,
@@ -793,7 +793,7 @@
       },
       "type": "pack",
       "text": "Chervil",
-      "img": "modules/brodericks-compendium/images/chervil.webp",
+      "img": "modules/brodericks-compendium/assets/images/chervil.webp",
       "weight": 27,
       "range": [
         848,
@@ -815,7 +815,7 @@
       },
       "type": "pack",
       "text": "Cinquefort",
-      "img": "modules/brodericks-compendium/images/cinquefort.webp",
+      "img": "modules/brodericks-compendium/assets/images/cinquefort.webp",
       "weight": 15,
       "range": [
         875,
@@ -903,7 +903,7 @@
       },
       "type": "pack",
       "text": "Cow-Wheat",
-      "img": "modules/brodericks-compendium/images/cow-wheat.webp",
+      "img": "modules/brodericks-compendium/assets/images/cow-wheat.webp",
       "weight": 48,
       "range": [
         939,
@@ -925,7 +925,7 @@
       "documentCollection": "brodericks-compendium.plants",
       "_id": "KmuNCGADh3jOXrCJ",
       "text": "Crab-Apple",
-      "img": "modules/brodericks-compendium/images/crab-apple.webp",
+      "img": "modules/brodericks-compendium/assets/images/crab-apple.webp",
       "documentId": "jlkux7HRTqw3RV0G",
       "flags": {
         "better-rolltables": {
@@ -969,7 +969,7 @@
       "documentCollection": "brodericks-compendium.plants",
       "_id": "ZO8p84NUc47gQgIt",
       "text": "Cubeb",
-      "img": "modules/brodericks-compendium/images/cubeb.webp",
+      "img": "modules/brodericks-compendium/assets/images/cubeb.webp",
       "documentId": "viXrvVcOIutUSslE",
       "flags": {
         "better-rolltables": {
@@ -1167,7 +1167,7 @@
       },
       "type": "pack",
       "text": "Dittany",
-      "img": "modules/brodericks-compendium/images/dittany.webp",
+      "img": "modules/brodericks-compendium/assets/images/dittany.webp",
       "weight": 48,
       "range": [
         1231,
@@ -1189,7 +1189,7 @@
       },
       "type": "pack",
       "text": "Dog Rose",
-      "img": "modules/brodericks-compendium/images/dog-rose.webp",
+      "img": "modules/brodericks-compendium/assets/images/dog-rose.webp",
       "weight": 48,
       "range": [
         1279,
@@ -1255,7 +1255,7 @@
       },
       "type": "pack",
       "text": "Dwarf Hops",
-      "img": "modules/brodericks-compendium/images/dwarf-hops.webp",
+      "img": "modules/brodericks-compendium/assets/images/dwarf-hops.webp",
       "weight": 48,
       "range": [
         1369,
@@ -1321,7 +1321,7 @@
       "documentCollection": "brodericks-compendium.plants",
       "_id": "Wtq31trQLUdiWPw9",
       "text": "Elder Tree",
-      "img": "modules/brodericks-compendium/images/elder-tree.webp",
+      "img": "modules/brodericks-compendium/assets/images/elder-tree.webp",
       "documentId": "mKPlkEuAxF8VF8cQ",
       "flags": {
         "better-rolltables": {
@@ -1343,7 +1343,7 @@
       "documentCollection": "brodericks-compendium.plants",
       "_id": "zc9DNQNkGTN69acf",
       "text": "Elm",
-      "img": "modules/brodericks-compendium/images/elm.webp",
+      "img": "modules/brodericks-compendium/assets/images/elm.webp",
       "documentId": "OepXkg7Ve5cEt5vv",
       "flags": {
         "better-rolltables": {
@@ -1387,7 +1387,7 @@
       },
       "type": "pack",
       "text": "Elvish Galingale",
-      "img": "modules/brodericks-compendium/images/elvish-galingale.webp",
+      "img": "modules/brodericks-compendium/assets/images/elvish-galingale.webp",
       "weight": 48,
       "range": [
         1573,
@@ -1519,7 +1519,7 @@
       "documentCollection": "brodericks-compendium.plants",
       "_id": "6aumMCO61cZbyErq",
       "text": "Foxglove",
-      "img": "modules/brodericks-compendium/images/foxglove.webp",
+      "img": "modules/brodericks-compendium/assets/images/foxglove.webp",
       "documentId": "x4AK3JNhQRW2fmJP",
       "flags": {
         "better-rolltables": {
@@ -1541,7 +1541,7 @@
       "documentCollection": "brodericks-compendium.plants",
       "_id": "Izceh1jtIK3qTign",
       "text": "Fuiyáru",
-      "img": "modules/brodericks-compendium/images/fuiyaru.webp",
+      "img": "modules/brodericks-compendium/assets/images/fuiyaru.webp",
       "documentId": "Jw5uQHA34335DO0c",
       "flags": {
         "better-rolltables": {
@@ -1607,7 +1607,7 @@
       },
       "type": "pack",
       "text": "Gardenflax",
-      "img": "modules/brodericks-compendium/images/gardenflax.webp",
+      "img": "modules/brodericks-compendium/assets/images/gardenflax.webp",
       "weight": 5,
       "range": [
         1777,
@@ -1629,7 +1629,7 @@
       },
       "type": "pack",
       "text": "Goat's Rue",
-      "img": "modules/brodericks-compendium/images/goat-rue.webp",
+      "img": "modules/brodericks-compendium/assets/images/goat-rue.webp",
       "weight": 48,
       "range": [
         1782,
@@ -1673,7 +1673,7 @@
       },
       "type": "pack",
       "text": "Golden Crown",
-      "img": "modules/brodericks-compendium/images/golden-crown.webp",
+      "img": "modules/brodericks-compendium/assets/images/golden-crown.webp",
       "weight": 48,
       "range": [
         1878,
@@ -1695,7 +1695,7 @@
       },
       "type": "pack",
       "text": "Golden Lungwort",
-      "img": "modules/brodericks-compendium/images/golden-lungwort.webp",
+      "img": "modules/brodericks-compendium/assets/images/golden-lungwort.webp",
       "weight": 15,
       "range": [
         1926,
@@ -1893,7 +1893,7 @@
       },
       "type": "pack",
       "text": "Hawkweed",
-      "img": "modules/brodericks-compendium/images/hawkweed.webp",
+      "img": "modules/brodericks-compendium/assets/images/hawkweed.webp",
       "weight": 15,
       "range": [
         2040,
@@ -1915,7 +1915,7 @@
       },
       "type": "pack",
       "text": "Healing Apple Tree",
-      "img": "modules/brodericks-compendium/images/healing-apple-tree.webp",
+      "img": "modules/brodericks-compendium/assets/images/healing-apple-tree.webp",
       "weight": 27,
       "range": [
         2055,
@@ -1937,7 +1937,7 @@
       },
       "type": "pack",
       "text": "Hidden Hibiscus",
-      "img": "modules/brodericks-compendium/images/hidden-hibiscus.webp",
+      "img": "modules/brodericks-compendium/assets/images/hidden-hibiscus.webp",
       "weight": 5,
       "range": [
         2082,
@@ -1981,7 +1981,7 @@
       },
       "type": "pack",
       "text": "Hiljirat Pepper",
-      "img": "modules/brodericks-compendium/images/hiljirat-pepper.webp",
+      "img": "modules/brodericks-compendium/assets/images/hiljirat-pepper.webp",
       "weight": 15,
       "range": [
         2114,
@@ -2091,7 +2091,7 @@
       },
       "type": "pack",
       "text": "Juniper",
-      "img": "modules/brodericks-compendium/images/juniper.webp",
+      "img": "modules/brodericks-compendium/assets/images/juniper.webp",
       "weight": 48,
       "range": [
         2173,
@@ -2179,7 +2179,7 @@
       "documentCollection": "brodericks-compendium.plants",
       "_id": "1gG0coTeuVMZwI8A",
       "text": "King's Pear",
-      "img": "modules/brodericks-compendium/images/kings-pear.webp",
+      "img": "modules/brodericks-compendium/assets/images/kings-pear.webp",
       "documentId": "Axp3gGoHfzRaMqQu",
       "flags": {
         "better-rolltables": {
@@ -2311,7 +2311,7 @@
       },
       "type": "pack",
       "text": "Leopard's Bane",
-      "img": "modules/brodericks-compendium/images/leopards-bane.webp",
+      "img": "modules/brodericks-compendium/assets/images/leopards-bane.webp",
       "weight": 48,
       "range": [
         2400,
@@ -2333,7 +2333,7 @@
       "documentCollection": "brodericks-compendium.plants",
       "_id": "qmTFJIJeCgSfLFVt",
       "text": "Linden Tree",
-      "img": "modules/brodericks-compendium/images/linden-tree.webp",
+      "img": "modules/brodericks-compendium/assets/images/linden-tree.webp",
       "documentId": "BEVNc9nbsgc0pBth",
       "flags": {
         "better-rolltables": {
@@ -2399,7 +2399,7 @@
       },
       "type": "pack",
       "text": "Locust Needle",
-      "img": "modules/brodericks-compendium/images/locust-needle.webp",
+      "img": "modules/brodericks-compendium/assets/images/locust-needle.webp",
       "weight": 48,
       "range": [
         2516,
@@ -2487,7 +2487,7 @@
       "documentCollection": "brodericks-compendium.plants",
       "_id": "BgRv0Y1FiMzkLlHx",
       "text": "Maitake Mushroom",
-      "img": "modules/brodericks-compendium/images/maitake-mushroom.webp",
+      "img": "modules/brodericks-compendium/assets/images/maitake-mushroom.webp",
       "documentId": "UEEP2RB4GjQVI4Q0",
       "flags": {
         "better-rolltables": {
@@ -2531,7 +2531,7 @@
       },
       "type": "pack",
       "text": "Marigold",
-      "img": "modules/brodericks-compendium/images/marigold.webp",
+      "img": "modules/brodericks-compendium/assets/images/marigold.webp",
       "weight": 48,
       "range": [
         2644,
@@ -2597,7 +2597,7 @@
       "documentCollection": "brodericks-compendium.plants",
       "_id": "t3shqA9vVwP7IlM2",
       "text": "Mistletoe",
-      "img": "modules/brodericks-compendium/images/mistletoe.webp",
+      "img": "modules/brodericks-compendium/assets/images/mistletoe.webp",
       "documentId": "rwwvrARMjha4KR3r",
       "flags": {
         "better-rolltables": {
@@ -2619,7 +2619,7 @@
       },
       "type": "pack",
       "text": "Myrthis",
-      "img": "modules/brodericks-compendium/images/myrthis.webp",
+      "img": "modules/brodericks-compendium/assets/images/myrthis.webp",
       "weight": 27,
       "range": [
         2754,
@@ -2707,7 +2707,7 @@
       },
       "type": "pack",
       "text": "Pennyroyal",
-      "img": "modules/brodericks-compendium/images/pennyroyal.webp",
+      "img": "modules/brodericks-compendium/assets/images/pennyroyal.webp",
       "weight": 7,
       "range": [
         2861,
@@ -2883,7 +2883,7 @@
       "documentCollection": "brodericks-compendium.plants",
       "_id": "doR3p7QaWWBT9brs",
       "text": "Rowan Tree",
-      "img": "modules/brodericks-compendium/images/rowan-tree.webp",
+      "img": "modules/brodericks-compendium/assets/images/rowan-tree.webp",
       "documentId": "KKCFoRPtzBzwZzDL",
       "flags": {
         "better-rolltables": {
@@ -2971,7 +2971,7 @@
       "documentCollection": "brodericks-compendium.plants",
       "_id": "ME6ccmqY4914Lb1y",
       "text": "Sanicle",
-      "img": "modules/brodericks-compendium/images/sanicle.webp",
+      "img": "modules/brodericks-compendium/assets/images/sanicle.webp",
       "documentId": "2p9TS1lsXNt7lUjx",
       "flags": {
         "better-rolltables": {
@@ -3015,7 +3015,7 @@
       },
       "type": "pack",
       "text": "Shadbush",
-      "img": "modules/brodericks-compendium/images/shadbush.webp",
+      "img": "modules/brodericks-compendium/assets/images/shadbush.webp",
       "weight": 48,
       "range": [
         3128,
@@ -3125,7 +3125,7 @@
       "documentCollection": "brodericks-compendium.plants",
       "_id": "qei8BSo37I6b6Iuu",
       "text": "Spelleater Ivy",
-      "img": "modules/brodericks-compendium/images/spelleater-ivy.webp",
+      "img": "modules/brodericks-compendium/assets/images/spelleater-ivy.webp",
       "documentId": "YLITGwvhgtIpuqIL",
       "flags": {
         "better-rolltables": {
@@ -3147,7 +3147,7 @@
       },
       "type": "pack",
       "text": "Spiderwort",
-      "img": "modules/brodericks-compendium/images/spiderwort.webp",
+      "img": "modules/brodericks-compendium/assets/images/spiderwort.webp",
       "weight": 27,
       "range": [
         3280,
@@ -3191,7 +3191,7 @@
       },
       "type": "pack",
       "text": "Spring Adonis",
-      "img": "modules/brodericks-compendium/images/spring-adonis.webp",
+      "img": "modules/brodericks-compendium/assets/images/spring-adonis.webp",
       "weight": 27,
       "range": [
         3334,
@@ -3213,7 +3213,7 @@
       },
       "type": "pack",
       "text": "Strawberry",
-      "img": "modules/brodericks-compendium/images/strawberry.webp",
+      "img": "modules/brodericks-compendium/assets/images/strawberry.webp",
       "weight": 48,
       "range": [
         3361,
@@ -3345,7 +3345,7 @@
       },
       "type": "pack",
       "text": "Tephrosia",
-      "img": "modules/brodericks-compendium/images/tephrosia.webp",
+      "img": "modules/brodericks-compendium/assets/images/tephrosia.webp",
       "weight": 15,
       "range": [
         3507,
@@ -3367,7 +3367,7 @@
       },
       "type": "pack",
       "text": "Thimbleweed",
-      "img": "modules/brodericks-compendium/images/thimbleweed.webp",
+      "img": "modules/brodericks-compendium/assets/images/thimbleweed.webp",
       "weight": 48,
       "range": [
         3522,
@@ -3411,7 +3411,7 @@
       },
       "type": "pack",
       "text": "Troll Poppy",
-      "img": "modules/brodericks-compendium/images/troll-poppy.webp",
+      "img": "modules/brodericks-compendium/assets/images/troll-poppy.webp",
       "weight": 27,
       "range": [
         3585,
@@ -3587,7 +3587,7 @@
       },
       "type": "pack",
       "text": "Weeping Tree",
-      "img": "modules/brodericks-compendium/images/weeping-tree.webp",
+      "img": "modules/brodericks-compendium/assets/images/weeping-tree.webp",
       "weight": 48,
       "range": [
         3695,
@@ -3609,7 +3609,7 @@
       },
       "type": "pack",
       "text": "Weirwood",
-      "img": "modules/brodericks-compendium/images/weirwood.webp",
+      "img": "modules/brodericks-compendium/assets/images/weirwood.webp",
       "weight": 15,
       "range": [
         3743,
@@ -3631,7 +3631,7 @@
       },
       "type": "pack",
       "text": "White Byrony",
-      "img": "modules/brodericks-compendium/images/white-byrony.webp",
+      "img": "modules/brodericks-compendium/assets/images/white-byrony.webp",
       "weight": 27,
       "range": [
         3758,
@@ -3697,7 +3697,7 @@
       },
       "type": "pack",
       "text": "Woodrose",
-      "img": "modules/brodericks-compendium/images/woodrose.webp",
+      "img": "modules/brodericks-compendium/assets/images/woodrose.webp",
       "weight": 7,
       "range": [
         3838,
@@ -3719,7 +3719,7 @@
       },
       "type": "pack",
       "text": "Wood Sorrel",
-      "img": "modules/brodericks-compendium/images/wood-sorrel.webp",
+      "img": "modules/brodericks-compendium/assets/images/wood-sorrel.webp",
       "weight": 27,
       "range": [
         3845,
@@ -3741,7 +3741,7 @@
       },
       "type": "pack",
       "text": "Wormwood",
-      "img": "modules/brodericks-compendium/images/wormwood.webp",
+      "img": "modules/brodericks-compendium/assets/images/wormwood.webp",
       "weight": 7,
       "range": [
         3872,
@@ -3851,7 +3851,7 @@
       "documentCollection": "brodericks-compendium.plants",
       "_id": "Qjdu5OI8tm8gtCQw",
       "text": "Yew Tree",
-      "img": "modules/brodericks-compendium/images/yew-tree.webp",
+      "img": "modules/brodericks-compendium/assets/images/yew-tree.webp",
       "documentId": "wP57GESkpSPd5pis",
       "flags": {
         "better-rolltables": {
@@ -3873,7 +3873,7 @@
       },
       "type": "pack",
       "text": "Young Lad's Love",
-      "img": "modules/brodericks-compendium/images/young-lads-love.webp",
+      "img": "modules/brodericks-compendium/assets/images/young-lads-love.webp",
       "weight": 48,
       "range": [
         3991,

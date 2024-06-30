@@ -133,7 +133,7 @@
       },
       "type": "pack",
       "text": "Calamus",
-      "img": "modules/brodericks-compendium/images/calamus.webp",
+      "img": "modules/brodericks-compendium/assets/images/calamus.webp",
       "weight": 64,
       "range": [
         298,
@@ -155,7 +155,7 @@
       },
       "type": "pack",
       "text": "Cat's Tail",
-      "img": "modules/brodericks-compendium/images/cats-tail.webp",
+      "img": "modules/brodericks-compendium/assets/images/cats-tail.webp",
       "weight": 63,
       "range": [
         362,
@@ -243,7 +243,7 @@
       },
       "type": "pack",
       "text": "Dragonwort",
-      "img": "modules/brodericks-compendium/images/dragonwort.webp",
+      "img": "modules/brodericks-compendium/assets/images/dragonwort.webp",
       "weight": 64,
       "range": [
         561,
@@ -419,7 +419,7 @@
       },
       "type": "pack",
       "text": "Horehound",
-      "img": "modules/brodericks-compendium/images/horehound.webp",
+      "img": "modules/brodericks-compendium/assets/images/horehound.webp",
       "weight": 63,
       "range": [
         921,
@@ -507,7 +507,7 @@
       },
       "type": "pack",
       "text": "Lungwort",
-      "img": "modules/brodericks-compendium/images/lungwort.webp",
+      "img": "modules/brodericks-compendium/assets/images/lungwort.webp",
       "weight": 63,
       "range": [
         1096,
@@ -529,7 +529,7 @@
       },
       "type": "pack",
       "text": "Marshmallow",
-      "img": "modules/brodericks-compendium/images/marshmallow.webp",
+      "img": "modules/brodericks-compendium/assets/images/marshmallow.webp",
       "weight": 63,
       "range": [
         1159,
@@ -595,7 +595,7 @@
       },
       "type": "pack",
       "text": "Nahre Lotus",
-      "img": "modules/brodericks-compendium/images/nahre-lotus.webp",
+      "img": "modules/brodericks-compendium/assets/images/nahre-lotus.webp",
       "weight": 10,
       "range": [
         1238,
@@ -617,7 +617,7 @@
       "documentCollection": "brodericks-compendium.plants",
       "_id": "v6OrGxK1sRPSj5IJ",
       "text": "Nettle",
-      "img": "modules/brodericks-compendium/images/nettle.webp",
+      "img": "modules/brodericks-compendium/assets/images/nettle.webp",
       "documentId": "tGrjPSpAYjf38s09",
       "flags": {
         "better-rolltables": {
@@ -727,7 +727,7 @@
       },
       "type": "pack",
       "text": "Pennyroyal",
-      "img": "modules/brodericks-compendium/images/pennyroyal.webp",
+      "img": "modules/brodericks-compendium/assets/images/pennyroyal.webp",
       "weight": 8,
       "range": [
         1401,
@@ -837,7 +837,7 @@
       },
       "type": "pack",
       "text": "Watercress",
-      "img": "modules/brodericks-compendium/images/watercress.webp",
+      "img": "modules/brodericks-compendium/assets/images/watercress.webp",
       "weight": 63,
       "range": [
         1438,

@@ -23,7 +23,7 @@
       },
       "type": "pack",
       "text": "Aloe",
-      "img": "modules/brodericks-compendium/images/aloe.webp",
+      "img": "modules/brodericks-compendium/assets/images/aloe.webp",
       "weight": 17,
       "range": [
         1,
@@ -67,7 +67,7 @@
       },
       "type": "pack",
       "text": "Archangelica",
-      "img": "modules/brodericks-compendium/images/archangelica.webp",
+      "img": "modules/brodericks-compendium/assets/images/archangelica.webp",
       "weight": 10,
       "range": [
         28,
@@ -111,7 +111,7 @@
       },
       "type": "pack",
       "text": "Calamus",
-      "img": "modules/brodericks-compendium/images/calamus.webp",
+      "img": "modules/brodericks-compendium/assets/images/calamus.webp",
       "weight": 10,
       "range": [
         48,
@@ -133,7 +133,7 @@
       },
       "type": "pack",
       "text": "Cat's Tail",
-      "img": "modules/brodericks-compendium/images/cats-tail.webp",
+      "img": "modules/brodericks-compendium/assets/images/cats-tail.webp",
       "weight": 17,
       "range": [
         58,
@@ -177,7 +177,7 @@
       "documentCollection": "brodericks-compendium.plants",
       "_id": "QzVHc1pn5YnfBRGp",
       "text": "Crisp Chondrus",
-      "img": "modules/brodericks-compendium/images/crisp-chondrus.webp",
+      "img": "modules/brodericks-compendium/assets/images/crisp-chondrus.webp",
       "documentId": "QfHYuKS5Qsij5JvE",
       "flags": {
         "better-rolltables": {
@@ -199,7 +199,7 @@
       },
       "type": "pack",
       "text": "Culkas",
-      "img": "modules/brodericks-compendium/images/culkas.webp",
+      "img": "modules/brodericks-compendium/assets/images/culkas.webp",
       "weight": 17,
       "range": [
         89,
@@ -441,7 +441,7 @@
       },
       "type": "pack",
       "text": "Locust Needle",
-      "img": "modules/brodericks-compendium/images/locust-needle.webp",
+      "img": "modules/brodericks-compendium/assets/images/locust-needle.webp",
       "weight": 17,
       "range": [
         206,
@@ -463,7 +463,7 @@
       },
       "type": "pack",
       "text": "Mountain Garlic",
-      "img": "modules/brodericks-compendium/images/mountain-garlic.webp",
+      "img": "modules/brodericks-compendium/assets/images/mountain-garlic.webp",
       "weight": 10,
       "range": [
         223,

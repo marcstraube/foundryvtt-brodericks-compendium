@@ -67,7 +67,7 @@
       },
       "type": "pack",
       "text": "Blackcorn",
-      "img": "modules/brodericks-compendium/images/blackcorn.webp",
+      "img": "modules/brodericks-compendium/assets/images/blackcorn.webp",
       "weight": 50,
       "range": [
         10,
@@ -133,7 +133,7 @@
       },
       "type": "pack",
       "text": "Bull-Rush",
-      "img": "modules/brodericks-compendium/images/bull-rush.webp",
+      "img": "modules/brodericks-compendium/assets/images/bull-rush.webp",
       "weight": 7,
       "range": [
         76,
@@ -243,7 +243,7 @@
       },
       "type": "pack",
       "text": "Creeping Mangrove",
-      "img": "modules/brodericks-compendium/images/creeping-mangrove.webp",
+      "img": "modules/brodericks-compendium/assets/images/creeping-mangrove.webp",
       "weight": 63,
       "range": [
         111,
@@ -265,7 +265,7 @@
       "documentCollection": "brodericks-compendium.plants",
       "_id": "0Ij8z96GEkWozcsZ",
       "text": "Cubeb",
-      "img": "modules/brodericks-compendium/images/cubeb.webp",
+      "img": "modules/brodericks-compendium/assets/images/cubeb.webp",
       "documentId": "viXrvVcOIutUSslE",
       "flags": {
         "better-rolltables": {
@@ -463,7 +463,7 @@
       "documentCollection": "brodericks-compendium.plants",
       "_id": "wI7htSmexsalJ7ig",
       "text": "Knitbone",
-      "img": "modules/brodericks-compendium/images/knitbone.webp",
+      "img": "modules/brodericks-compendium/assets/images/knitbone.webp",
       "documentId": "Ud8NNx2UUJakJOXA",
       "flags": {
         "better-rolltables": {
@@ -551,7 +551,7 @@
       },
       "type": "pack",
       "text": "Marshmallow",
-      "img": "modules/brodericks-compendium/images/marshmallow.webp",
+      "img": "modules/brodericks-compendium/assets/images/marshmallow.webp",
       "weight": 63,
       "range": [
         506,
@@ -991,7 +991,7 @@
       "documentCollection": "brodericks-compendium.plants",
       "_id": "w5USAnmWlBHbjXxd",
       "text": "Willow-Herb",
-      "img": "modules/brodericks-compendium/images/willow-herb.webp",
+      "img": "modules/brodericks-compendium/assets/images/willow-herb.webp",
       "documentId": "KadB14VOgjuuV2w2",
       "flags": {
         "better-rolltables": {
