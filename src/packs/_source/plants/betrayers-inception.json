@@ -1,0 +1,126 @@
+{
+  "name": "Betrayer's Inception",
+  "type": "consumable",
+  "flags": {
+    "betterRolls5e": {
+      "critRange": {
+        "value": null
+      },
+      "critDamage": {
+        "value": ""
+      },
+      "quickDesc": {
+        "value": true,
+        "altValue": true
+      },
+      "quickProperties": {
+        "value": true,
+        "altValue": true
+      },
+      "quickOther": {
+        "value": true,
+        "altValue": true
+      },
+      "quickFlavor": {
+        "value": true,
+        "altValue": true
+      },
+      "quickCharges": {
+        "value": {
+          "quantity": false
+        },
+        "altValue": {
+          "quantity": false
+        }
+      }
+    }
+  },
+  "img": "modules/brodericks-compendium/assets/icons/poison.svg",
+  "effects": [],
+  "_id": "8Y1I8iNnWsyB5xKc",
+  "system": {
+    "description": {
+      "value": "<p><em>Biome: Other<br><span style=\"color:#f00;\">Exceedingly Rare</span></em></p>\n<p>Smelling slightly of evergreen needles and camphor before its application, this poison is a thin liquid that is prepared via complicated alchemical procedures and unknown plant-based ingredients as the recipe itself was declared illegal and destroyed in most known sources several centuries ago. The poison can be applied to any surface, adhering to it until it comes into contact with organic matter, which it quickly seeps into. It is clear, nearly invisible, and odorless, but can be easily identified by agitating the liquid in any way, which causes it to flash violently with varying hues of light. Due to its use in bringing down many nobles in past generations, it has been banned in nearly every established civilization. Being caught with it on your person is akin to an instant death sentence and one can only learn of its nature by asking the right person. Ask the wrong person, and you may find yourself put to death. A creature subjected to this poison must succeed on a DC 22 Constitution saving throw or be poisoned. The poisoned creature feels no immediate effect and is unaware of their condition. After a week, the creature gains an effect listed on the short-term madness table (DMG pg. 259). When the short-term effect ends, they gain an effect from the long-term madness table (DMG pg. 260). When the original long-term effect ends, they gain a new long-term effect as well as an indefinite effect (DMG pg. 260). After each long-term effect ends, they gain a new long-term and indefinite madness effect until they die or are cured. This effect can only be cured by a greater restoration spell cast at 7th level or higher.</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Broderick's Compendium: Plants and Fungi Across the Realm (version 2.0)",
+    "quantity": 1,
+    "weight": {
+      "value": 0,
+      "units": "lb"
+    },
+    "price": 0,
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "legendary",
+    "identified": true,
+    "activation": {
+      "type": "",
+      "cost": null,
+      "condition": ""
+    },
+    "duration": {
+      "value": null,
+      "units": ""
+    },
+    "cover": null,
+    "crewed": false,
+    "target": {
+      "value": null,
+      "width": null,
+      "units": "",
+      "type": ""
+    },
+    "range": {
+      "value": null,
+      "long": null,
+      "units": ""
+    },
+    "uses": {
+      "value": null,
+      "max": 0,
+      "per": null,
+      "recovery": "",
+      "autoDestroy": false
+    },
+    "consume": {
+      "type": "",
+      "target": null,
+      "amount": null
+    },
+    "ability": null,
+    "actionType": "",
+    "attackBonus": 0,
+    "chatFlavor": "",
+    "critical": null,
+    "damage": {
+      "parts": [],
+      "versatile": ""
+    },
+    "formula": "",
+    "save": {
+      "ability": "",
+      "dc": null,
+      "scaling": "spell"
+    },
+    "consumableType": "potion",
+    "attuned": false
+  },
+  "ownership": {
+    "default": 0
+  },
+  "folder": null,
+  "sort": 0,
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "2.2.1",
+    "coreVersion": "12.328",
+    "createdTime": null,
+    "modifiedTime": 1700858960020,
+    "lastModifiedBy": "packsbuilder0000",
+    "compendiumSource": null,
+    "duplicateSource": null
+  },
+  "_key": "!items!8Y1I8iNnWsyB5xKc"
+}

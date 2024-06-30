@@ -1,0 +1,43 @@
+{
+  "_id": "oHreF1jWBloURpZE",
+  "name": "Broderick's Compendium: City Plants",
+  "type": "loot",
+  "img": "icons/sundries/books/book-worn-brown.webp",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "description": {
+      "value": "<p>@UUID[Compendium.brodericks-compendium.plants.t6KKEpRvztqjR4J9]{Alchemilla (Lady's Mantle)}</p><p>@UUID[Compendium.brodericks-compendium.plants.wphfNK5McqRH1WL1]{Aloe}</p><p>@UUID[Compendium.brodericks-compendium.plants.umcUH1LTrps70uDL]{Basil}</p><p>@UUID[Compendium.brodericks-compendium.plants.V8wANGhTYerUamC4]{Bodhi Tree (Sacred Fig)}</p><p>@UUID[Compendium.brodericks-compendium.plants.jlkux7HRTqw3RV0G]{Crab-Apple}</p><p>@UUID[Compendium.brodericks-compendium.plants.WeKUSrTGHvBREOBG]{Dwarf Hops}</p><p>@UUID[Compendium.brodericks-compendium.plants.x4AK3JNhQRW2fmJP]{Foxglove}</p><p>@UUID[Compendium.brodericks-compendium.plants.y4PXLXCx1tkgv9nD]{Gardenflax}</p><p>@UUID[Compendium.brodericks-compendium.plants.5fUZWqtuLgdL1PFQ]{Ginyak Weed}</p><p>@UUID[Compendium.brodericks-compendium.plants.RToRYWhPYfU46dMd]{Grim Flowers}</p><p>@UUID[Compendium.brodericks-compendium.plants.xzMS6dkCga9j2CIg]{Haella}</p><p>@UUID[Compendium.brodericks-compendium.plants.dLDbQO9G5p371FKN]{Harlequin's Harp}</p><p>@UUID[Compendium.brodericks-compendium.plants.4lRzTdJ62VMtdgNb]{Healwell}</p><p>@UUID[Compendium.brodericks-compendium.plants.TOj7HhsFVoqLoEXl]{Juniper}</p><p>@UUID[Compendium.brodericks-compendium.plants.BEVNc9nbsgc0pBth]{Linden Tree}</p><p>@UUID[Compendium.brodericks-compendium.plants.lDlfzSEbKXpyNYZ5]{Lizard Eaters}</p><p>@UUID[Compendium.brodericks-compendium.plants.NREuOFksc5uEEq3L]{Longinal Leaf}</p><p>@UUID[Compendium.brodericks-compendium.plants.Pd1MPxSZqflyE4Ng]{Lumina Cap}</p><p>@UUID[Compendium.brodericks-compendium.plants.5gLinb3pnVml828J]{Marjoram}</p><p>@UUID[Compendium.brodericks-compendium.plants.YqszVPHStuM1q3tq]{Megillos}</p><p>@UUID[Compendium.brodericks-compendium.plants.40yur9N7bbunnCR2]{Mokodo Bush}</p><p>@UUID[Compendium.brodericks-compendium.plants.PahM83foFSy4pvQB]{Navew}</p><p>@UUID[Compendium.brodericks-compendium.plants.WiwH4uJacPQ3JAxg]{Northlinch}</p><p>@UUID[Compendium.brodericks-compendium.plants.tjUnWGNox3m8txm8]{Peony}</p><p>@UUID[Compendium.brodericks-compendium.plants.Es7WnvleNXzCZPnJ]{Periwinkle}</p><p>@UUID[Compendium.brodericks-compendium.plants.0Z1wChZT06d0EyoG]{Psyllium (Plantain Weed)}</p><p>@UUID[Compendium.brodericks-compendium.plants.001jIixEEGZbCpQk]{Purple Pipeweed}</p><p>@UUID[Compendium.brodericks-compendium.plants.YhxK5br5porZ8lqO]{Redroot}</p><p>@UUID[Compendium.brodericks-compendium.plants.hVOT9h8R71GaqCVw]{Salamander Orchids}</p><p>@UUID[Compendium.brodericks-compendium.plants.VEy1TEuhg2wnktJ0]{Sasami Tree}</p><p>@UUID[Compendium.brodericks-compendium.plants.DcVhssyFDS7eHX57]{Scholar's Dream}</p><p>@UUID[Compendium.brodericks-compendium.plants.UT3B2C1GxXint0Qx]{Strawberry}</p><p>@UUID[Compendium.brodericks-compendium.plants.LXo3358JFgipi07g]{Tansy}</p><p>@UUID[Compendium.brodericks-compendium.plants.Wk7xafQcKyW17bGc]{Thyme}</p><p>@UUID[Compendium.brodericks-compendium.plants.QdMJRW8buBk52ulh]{Verdant Goeleth}</p><p>@UUID[Compendium.brodericks-compendium.plants.Am80B3WCX2KHVih3]{Vodare}</p><p>@UUID[Compendium.brodericks-compendium.plants.NHHp8v1FIZnePs4p]{Werasa}</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Broderick's Compendium: Plants and Fungi Across the Realm (version 2.0)",
+    "quantity": 1,
+    "weight": {
+      "value": 0,
+      "units": "lb"
+    },
+    "price": {
+      "value": 0,
+      "denomination": "gp"
+    },
+    "rarity": "common",
+    "identified": true
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "2.2.1",
+    "coreVersion": "12.328",
+    "createdTime": 1686081350141,
+    "modifiedTime": 1686098520751,
+    "lastModifiedBy": "packsbuilder0000",
+    "compendiumSource": "Compendium.dnd5e.items.RMi9efrW9ouHVLI2",
+    "duplicateSource": null
+  },
+  "_key": "!items!oHreF1jWBloURpZE"
+}

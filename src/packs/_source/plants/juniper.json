@@ -1,0 +1,123 @@
+{
+  "_id": "TOj7HhsFVoqLoEXl",
+  "name": "Juniper",
+  "type": "consumable",
+  "img": "modules/brodericks-compendium/assets/images/juniper.webp",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "betterRolls5e": {
+      "critRange": {
+        "value": null
+      },
+      "critDamage": {
+        "value": ""
+      },
+      "quickDesc": {
+        "value": true,
+        "altValue": true
+      },
+      "quickProperties": {
+        "value": true,
+        "altValue": true
+      },
+      "quickOther": {
+        "value": true,
+        "altValue": true
+      },
+      "quickFlavor": {
+        "value": true,
+        "altValue": true
+      },
+      "quickCharges": {
+        "value": {
+          "quantity": false
+        },
+        "altValue": {
+          "quantity": false
+        }
+      }
+    }
+  },
+  "_stats": {
+    "coreVersion": "12.328",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "system": {
+    "description": {
+      "value": "<p><em>Biome: Cities, Forests, Plains</em></p>\n<p>The Juniper tree can grow up to ten feet in height. It is an evergreen, which has prickly stiff foliage. The berries appear in early summer, but take roughly three years to ripen to the stage where they are useful. Unripe berries are green, ripe ones are bluish-black in colour. Because of this rather long period of ripening, it is wise to never denude a tree of berries. A normal sized tree will have between 100 and 200 ripe berries. 15 of these berries should be crushed and mixed with boiling water. When the liquid has cooled, the infusion should then be drunk in order to relieve status effects temporarily (3d4 hours). This liquid will only keep for a month under normal conditions, but can be mixed with an alcoholic spirit to increase its lifespan indefinitely. According to the traditions of some northern nomads, a sprig of juniper kept in a house would protect the inhabitants from vampire attacks. This may actually work at the DM&rsquo;s discretion.</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Broderick's Compendium: Plants and Fungi Across the Realm (version 2.0)",
+    "quantity": 1,
+    "weight": {
+      "value": 0,
+      "units": "lb"
+    },
+    "price": 0,
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "veryCommon",
+    "identified": true,
+    "activation": {
+      "type": "",
+      "cost": null,
+      "condition": ""
+    },
+    "duration": {
+      "value": null,
+      "units": ""
+    },
+    "target": {
+      "value": null,
+      "width": null,
+      "units": "",
+      "type": ""
+    },
+    "range": {
+      "value": null,
+      "long": null,
+      "units": ""
+    },
+    "uses": {
+      "value": null,
+      "max": 0,
+      "per": null,
+      "autoDestroy": false
+    },
+    "consume": {
+      "type": "",
+      "target": null,
+      "amount": null
+    },
+    "ability": null,
+    "actionType": "",
+    "attackBonus": 0,
+    "chatFlavor": "",
+    "critical": null,
+    "damage": {
+      "parts": [],
+      "versatile": ""
+    },
+    "formula": "",
+    "save": {
+      "ability": "",
+      "dc": null,
+      "scaling": "spell"
+    },
+    "consumableType": "potion",
+    "attuned": false
+  },
+  "_key": "!items!TOj7HhsFVoqLoEXl"
+}

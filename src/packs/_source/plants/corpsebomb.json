@@ -1,0 +1,126 @@
+{
+  "name": "Corpsebomb",
+  "type": "consumable",
+  "flags": {
+    "betterRolls5e": {
+      "critRange": {
+        "value": null
+      },
+      "critDamage": {
+        "value": ""
+      },
+      "quickDesc": {
+        "value": true,
+        "altValue": true
+      },
+      "quickProperties": {
+        "value": true,
+        "altValue": true
+      },
+      "quickOther": {
+        "value": true,
+        "altValue": true
+      },
+      "quickFlavor": {
+        "value": true,
+        "altValue": true
+      },
+      "quickCharges": {
+        "value": {
+          "quantity": false
+        },
+        "altValue": {
+          "quantity": false
+        }
+      }
+    }
+  },
+  "img": "modules/brodericks-compendium/assets/icons/mushroom.svg",
+  "effects": [],
+  "_id": "v1wcOHl0LVCTHRgJ",
+  "system": {
+    "description": {
+      "value": "<p><em>Biome: Swamps, Underdark & Caves</em></p>\n<p>The fungus begins life as a tiny spore that floats along until inhaled by a creature, and lodges itself in the moist tissue of the lungs. The spore then begins to grow, causing irritation, pain, and finally death once the fungus has reached a sizable mass. Once the host creature has perished, the fungus increases growth rapidly until it pushes a hollow tendril forth from the flesh. At the exposed end of the tendril the fungus begins growing a thin membrane, which is inflated by the gasses produced by the rotting body. When the membrane ruptures and disperses the spores, every breathing creature within a 40-foot radius sphere must make a DC 10 Constitution saving throw or inhale spores. If they fail, each hour afterward, the creature must make a Constitution saving throw with a -1 cumulative penalty to the roll. Each hour the creature suffers a cumulative [[/roll 1d6]] piercing damage (2d6 on the second failure, [[/roll 3d6]] on the third, etc.) as the fungus spreads throughout the internal organs. A single success stops the process and renders the fungus inert. If the fungus catches fire the spore sack soon explodes, and everyone within a 20-foot radius sphere suffers [[/roll 3d6]] fire damage on a failed Dexterity saving throw, DC 15, or half as much on a successful save. All spores are incinerated in this process.</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Broderick's Compendium: Plants and Fungi Across the Realm (version 2.0)",
+    "quantity": 1,
+    "weight": {
+      "value": 0,
+      "units": "lb"
+    },
+    "price": 0,
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "uncommon",
+    "identified": true,
+    "activation": {
+      "type": "",
+      "cost": null,
+      "condition": ""
+    },
+    "duration": {
+      "value": null,
+      "units": ""
+    },
+    "cover": null,
+    "crewed": false,
+    "target": {
+      "value": null,
+      "width": null,
+      "units": "",
+      "type": ""
+    },
+    "range": {
+      "value": null,
+      "long": null,
+      "units": ""
+    },
+    "uses": {
+      "value": null,
+      "max": 0,
+      "per": null,
+      "recovery": "",
+      "autoDestroy": false
+    },
+    "consume": {
+      "type": "",
+      "target": null,
+      "amount": null
+    },
+    "ability": null,
+    "actionType": "",
+    "attackBonus": 0,
+    "chatFlavor": "",
+    "critical": null,
+    "damage": {
+      "parts": [],
+      "versatile": ""
+    },
+    "formula": "",
+    "save": {
+      "ability": "",
+      "dc": null,
+      "scaling": "spell"
+    },
+    "consumableType": "potion",
+    "attuned": false
+  },
+  "ownership": {
+    "default": 0
+  },
+  "folder": null,
+  "sort": 0,
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "2.2.1",
+    "coreVersion": "12.328",
+    "createdTime": null,
+    "modifiedTime": 1700859492858,
+    "lastModifiedBy": "packsbuilder0000",
+    "compendiumSource": null,
+    "duplicateSource": null
+  },
+  "_key": "!items!v1wcOHl0LVCTHRgJ"
+}

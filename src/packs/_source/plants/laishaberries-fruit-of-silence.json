@@ -1,0 +1,126 @@
+{
+  "_id": "fne6q3m2v4dMu1Hu",
+  "name": "Laishaberries (Fruit of Silence)",
+  "type": "consumable",
+  "flags": {
+    "betterRolls5e": {
+      "critRange": {
+        "value": null
+      },
+      "critDamage": {
+        "value": ""
+      },
+      "quickDesc": {
+        "value": true,
+        "altValue": true
+      },
+      "quickProperties": {
+        "value": true,
+        "altValue": true
+      },
+      "quickOther": {
+        "value": true,
+        "altValue": true
+      },
+      "quickFlavor": {
+        "value": true,
+        "altValue": true
+      },
+      "quickCharges": {
+        "value": {
+          "quantity": false
+        },
+        "altValue": {
+          "quantity": false
+        }
+      }
+    }
+  },
+  "img": "modules/brodericks-compendium/assets/icons/berries.svg",
+  "effects": [],
+  "system": {
+    "description": {
+      "value": "<p><em>Biome: Forest, Plains</em></p>\n<p>Laishaberries grow on dark green, knee-high bushes. The leaves of the bushes are hard and waxy, and stay on long into autumn, sometimes even into winter. Concealed under the leaves, the red, cherry sized berries grow in spring and early summer, developing from small, fragrant, wax blue flowers that bloom in early spring. The berries taste quite bland themselves, although they can be used to add a special taste to all kinds of jellies. When ripe, the berries can be eaten raw, and will each heal 2 hp of damage, or speed the recovery from most diseases. However, they will also render the eater mute for 20 minutes for each berry eaten. Also, if more than 5 or 6 berries are eaten at a time, a DC 12 Cons. saving throw vs poison is required to avoid severe and somewhat debilitating stomach cramps that will incur a -2 penalty to Dexterity saves and checks for [[/roll 1d3]] hours. A jelly made from the berries themselves loses both the healing and silencing powers (and the danger of cramps) of the fresh berries, but the curative effects for most diseases is doubled; fresh berries reduce the recovery time by one day for each berry eaten, the jelly halves the total time.</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Broderick's Compendium: Plants and Fungi Across the Realm (version 2.0)",
+    "quantity": 1,
+    "weight": {
+      "value": 0,
+      "units": "lb"
+    },
+    "price": 0,
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "common",
+    "identified": true,
+    "activation": {
+      "type": "",
+      "cost": null,
+      "condition": ""
+    },
+    "duration": {
+      "value": null,
+      "units": ""
+    },
+    "cover": null,
+    "crewed": false,
+    "target": {
+      "value": null,
+      "width": null,
+      "units": "",
+      "type": ""
+    },
+    "range": {
+      "value": null,
+      "long": null,
+      "units": ""
+    },
+    "uses": {
+      "value": null,
+      "max": 0,
+      "per": null,
+      "recovery": "",
+      "autoDestroy": false
+    },
+    "consume": {
+      "type": "",
+      "target": null,
+      "amount": null
+    },
+    "ability": null,
+    "actionType": "",
+    "attackBonus": 0,
+    "chatFlavor": "",
+    "critical": null,
+    "damage": {
+      "parts": [],
+      "versatile": ""
+    },
+    "formula": "",
+    "save": {
+      "ability": "",
+      "dc": null,
+      "scaling": "spell"
+    },
+    "consumableType": "potion",
+    "attuned": false
+  },
+  "ownership": {
+    "default": 0
+  },
+  "folder": null,
+  "sort": 0,
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "2.2.1",
+    "coreVersion": "12.328",
+    "createdTime": null,
+    "modifiedTime": 1700861722626,
+    "lastModifiedBy": "packsbuilder0000",
+    "compendiumSource": null,
+    "duplicateSource": null
+  },
+  "_key": "!items!fne6q3m2v4dMu1Hu"
+}

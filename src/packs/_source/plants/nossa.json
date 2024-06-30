@@ -1,0 +1,126 @@
+{
+  "name": "Nossa",
+  "type": "consumable",
+  "flags": {
+    "betterRolls5e": {
+      "critRange": {
+        "value": null
+      },
+      "critDamage": {
+        "value": ""
+      },
+      "quickDesc": {
+        "value": true,
+        "altValue": true
+      },
+      "quickProperties": {
+        "value": true,
+        "altValue": true
+      },
+      "quickOther": {
+        "value": true,
+        "altValue": true
+      },
+      "quickFlavor": {
+        "value": true,
+        "altValue": true
+      },
+      "quickCharges": {
+        "value": {
+          "quantity": false
+        },
+        "altValue": {
+          "quantity": false
+        }
+      }
+    }
+  },
+  "img": "modules/brodericks-compendium/assets/icons/flower.svg",
+  "effects": [],
+  "_id": "KlY1cTtWsA2goEwR",
+  "system": {
+    "description": {
+      "value": "<p><em>Biome: Plains</em></p>\n<p>Nossa is a plain looking wild-flower resembling a perfectly white tiger lily, with various shades of white representing the plants natural pigmentation. While Nossa itself is not uncommon, the process to make it useable for its primary purposes is incredibly long, tedious, and expensive. Requiring preparation by a talented spellcaster, Nossa can be turned into an incredibly expensive poison, called Zealot&rsquo;s Blade, by combining the ground petals of the flower with liquid gold and exposing the resulting mixture to the light from the spell Sunburst once a day for a week. A creature subjected to this poison must make a DC 25 Constitution saving throw, taking [[/roll 15d12]] radiant/poison damage on a failed save, or half as much damage on a successful one. This damage ignores resistances and immunities. To purchase, Zealot&rsquo;s Blade typically goes for upwards of 10,000 gold pieces for a single vial containing only a very small amount of the poison which can then be applied to a weapon only once.</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Broderick's Compendium: Plants and Fungi Across the Realm (version 2.0)",
+    "quantity": 1,
+    "weight": {
+      "value": 0,
+      "units": "lb"
+    },
+    "price": 0,
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "veryCommon",
+    "identified": true,
+    "activation": {
+      "type": "",
+      "cost": null,
+      "condition": ""
+    },
+    "duration": {
+      "value": null,
+      "units": ""
+    },
+    "cover": null,
+    "crewed": false,
+    "target": {
+      "value": null,
+      "width": null,
+      "units": "",
+      "type": ""
+    },
+    "range": {
+      "value": null,
+      "long": null,
+      "units": ""
+    },
+    "uses": {
+      "value": null,
+      "max": 0,
+      "per": null,
+      "recovery": "",
+      "autoDestroy": false
+    },
+    "consume": {
+      "type": "",
+      "target": null,
+      "amount": null
+    },
+    "ability": null,
+    "actionType": "",
+    "attackBonus": 0,
+    "chatFlavor": "",
+    "critical": null,
+    "damage": {
+      "parts": [],
+      "versatile": ""
+    },
+    "formula": "",
+    "save": {
+      "ability": "",
+      "dc": null,
+      "scaling": "spell"
+    },
+    "consumableType": "potion",
+    "attuned": false
+  },
+  "ownership": {
+    "default": 0
+  },
+  "folder": null,
+  "sort": 0,
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "2.2.1",
+    "coreVersion": "12.328",
+    "createdTime": null,
+    "modifiedTime": 1698242393451,
+    "lastModifiedBy": "packsbuilder0000",
+    "compendiumSource": null,
+    "duplicateSource": null
+  },
+  "_key": "!items!KlY1cTtWsA2goEwR"
+}

@@ -1,0 +1,45 @@
+{
+  "_id": "oPxe6iR1iRJ3ZDFD",
+  "name": "Broderick's Compendium: Swamp Plants",
+  "type": "loot",
+  "img": "icons/sundries/books/book-worn-brown.webp",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "_stats": {
+    "coreVersion": "12.328",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "system": {
+    "description": {
+      "value": "<p>@Compendium[brodericks-compendium.plants.KnRPvXSQ5JWoGMNs]{Aadarna}</p>\n<p>@Compendium[brodericks-compendium.plants.otoT82FZpGz6Zvtz]{Athelas (Kingsfoil)}</p>\n<p>@Compendium[brodericks-compendium.plants.A2idzg7iAFHiPERE]{Blackcorn}</p>\n<p>@Compendium[brodericks-compendium.plants.tk30SlU1BubFsl4f]{Bloodpurge}</p>\n<p>@Compendium[brodericks-compendium.plants.4gINXqUnlawsB5l4]{Boomshroom}</p>\n<p>@Compendium[brodericks-compendium.plants.iwALI6BTrJZeuOtZ]{Bull-Rush}</p>\n<p>@Compendium[brodericks-compendium.plants.EFjmwo2rNcJvFjyE]{Choke Mold}</p>\n<p>@Compendium[brodericks-compendium.plants.19Bq1B1etYqFuBGc]{Choking Cinder Fungus}</p>\n<p>@Compendium[brodericks-compendium.plants.4170sOlA0ZplmWBB]{Chromus Slime}</p>\n<p>@Compendium[brodericks-compendium.plants.v1wcOHl0LVCTHRgJ]{Corpsebomb}</p>\n<p>@Compendium[brodericks-compendium.plants.ddRiQTHtBd7Vgsws]{Creeping Mangrove}</p>\n<p>@Compendium[brodericks-compendium.plants.viXrvVcOIutUSslE]{Cubeb}</p>\n<p>@Compendium[brodericks-compendium.plants.Bi725D6675WHlxUZ]{Darkshine}</p>\n<p>@Compendium[brodericks-compendium.plants.9A5hM30GeOdy5JjU]{Devil's Bloodflower}</p>\n<p>@Compendium[brodericks-compendium.plants.Ve1Burm2J2IRtxcM]{Dripping Tree}</p>\n<p>@Compendium[brodericks-compendium.plants.FimD5sXa7M0Dr4qK]{Fjor'da}</p>\n<p>@Compendium[brodericks-compendium.plants.cgZk3rYsiawUCu2D]{Goblin-Trap}</p>\n<p>@Compendium[brodericks-compendium.plants.t3ft4pERta9cJn2j]{Guklulla}</p>\n<p>@Compendium[brodericks-compendium.plants.o3KZltFbA6JCtb2Q]{Hathlil}</p>\n<p>@Compendium[brodericks-compendium.plants.7Ba9XdsgcNAlUvai]{Kinuka Tree}</p>\n<p>@Compendium[brodericks-compendium.plants.Ud8NNx2UUJakJOXA]{Knitbone}</p>\n<p>@Compendium[brodericks-compendium.plants.MR5sUkxfzssfaTgB]{Krakaem Pods}</p>\n<p>@Compendium[brodericks-compendium.plants.4Anm2tMg5w95VHbi]{Lockweed}</p>\n<p>@Compendium[brodericks-compendium.plants.AgbtyICqNX3SUkDx]{Marsh Maw}</p>\n<p>@Compendium[brodericks-compendium.plants.OqWcfSMuXq82Pekp]{Marshmallow}</p>\n<p>@Compendium[brodericks-compendium.plants.XsAbCDMcMkiBRYSv]{Musk Muddle}</p>\n<p>@Compendium[brodericks-compendium.plants.DuNvOK2edxm26tf3]{Ordul}</p>\n<p>@Compendium[brodericks-compendium.plants.CnBDQMWMeBlKYcck]{Pallast}</p>\n<p>@Compendium[brodericks-compendium.plants.YPT0DdzDQC6zqYHM]{Pondstone Tree}</p>\n<p>@Compendium[brodericks-compendium.plants.QKnA95lwCGfa35S3]{Pygmy King Flower}</p>\n<p>@Compendium[brodericks-compendium.plants.vEaHufwC3uf3wHLO]{Rattlestalks}</p>\n<p>@Compendium[brodericks-compendium.plants.SNvn3bs2M7Klo5Ei]{Redflower}</p>\n<p>@Compendium[brodericks-compendium.plants.7EHzdxB0ZAnCD2Jd]{Scarlet Heart Mushrooms}</p>\n<p>@Compendium[brodericks-compendium.plants.wcOit03E1OCAsUIR]{Shaggy Ink Mushrooms}</p>\n<p>@Compendium[brodericks-compendium.plants.Tec61VdW43Wjyccc]{Spirit Moss}</p>\n<p>@Compendium[brodericks-compendium.plants.Bt7C371sgtw3PTbZ]{Stirge Traps}</p>\n<p>@Compendium[brodericks-compendium.plants.PbtHlXpqFZTdf4DX]{Swampwalker}</p>\n<p>@Compendium[brodericks-compendium.plants.0aFd5KlPKPz8lR3D]{Sweet Arcane}</p>\n<p>@Compendium[brodericks-compendium.plants.LJ44eqPzCnFb5pSS]{Tekkil}</p>\n<p>@Compendium[brodericks-compendium.plants.ewlHt0mZ8cGABKic]{Thelmallow Flower}</p>\n<p>@Compendium[brodericks-compendium.plants.uyCNlw7Nitu0HMWP]{Torment Toadstool}</p>\n<p>@Compendium[brodericks-compendium.plants.h2DOryY3xAgzSVTg]{Vaundyr Vine}</p>\n<p>@Compendium[brodericks-compendium.plants.AX1hTDTDnKvmJW6H]{Violet Slime}</p>\n<p>@Compendium[brodericks-compendium.plants.2NoiwmkdcPeVeZbK]{Vipervine}</p>\n<p>@Compendium[brodericks-compendium.plants.KadB14VOgjuuV2w2]{Willow-Herb}</p>\n<p>@Compendium[brodericks-compendium.plants.oCjnElcmzIbS1mwb]{Yuzine}</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Broderick's Compendium: Plants and Fungi Across the Realm (version 2.0)",
+    "quantity": 1,
+    "weight": null,
+    "price": null,
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "uncommon",
+    "identified": true,
+    "damage": {
+      "parts": []
+    },
+    "details": {
+      "description": "<p>A book might contain poetry, historical accounts, information pertaining to a particular field of lore, diagrams and notes on gnomish contraptions, or just about anything else that can be represented using text or pictures. A book of spells is a @Compendium[dnd5e.items.LBajgahniRJbAgDr]{Spellbook}.</p>"
+    }
+  },
+  "_key": "!items!oPxe6iR1iRJ3ZDFD"
+}

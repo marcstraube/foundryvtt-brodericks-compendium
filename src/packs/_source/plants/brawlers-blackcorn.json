@@ -1,0 +1,123 @@
+{
+  "_id": "JMBK5FYuSwU9tsQJ",
+  "name": "Brawler's Blackcorn",
+  "type": "consumable",
+  "img": "modules/brodericks-compendium/assets/images/blackcorn.webp",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "betterRolls5e": {
+      "critRange": {
+        "value": null
+      },
+      "critDamage": {
+        "value": ""
+      },
+      "quickDesc": {
+        "value": true,
+        "altValue": true
+      },
+      "quickProperties": {
+        "value": true,
+        "altValue": true
+      },
+      "quickOther": {
+        "value": true,
+        "altValue": true
+      },
+      "quickFlavor": {
+        "value": true,
+        "altValue": true
+      },
+      "quickCharges": {
+        "value": {
+          "quantity": false
+        },
+        "altValue": {
+          "quantity": false
+        }
+      }
+    }
+  },
+  "_stats": {
+    "coreVersion": "12.328",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "system": {
+    "description": {
+      "value": "<p><em>Biome: Underdark & Caves</em></p>\n<p>Resembling Blackcorn in miniature, Brawler&rsquo;s Blackcorn is a hardy plant that grows without light in dark cave environs. The kernels of this corn can be dried and ground and mixed into hard liquors, typically a bourbon (Brawler&rsquo;s Bourbon). Brawler&rsquo;s Bourbon is typically used by cheating gamblers to give themselves an unfair advantage. Ingesting the bourbon makes the user immune to its secondary properties, and so cheating brawlers may take a swig of the bourbon and spill some on their hands. The poison works as a contact toxin that will then weaken the opponent of a bare-knuckle brawl. The target must make a DC 14 Cons. Save vs poison or be poisoned for 1 minute. If the saving throw is failed by 5 or more, the creature is then also knocked unconscious for the same amount of time. The target can be woken if they take damage or are shaken awake by another person. On a successful save, the target is then immune to the poison&rsquo;s effects for 12 hours.</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Broderick's Compendium: Plants and Fungi Across the Realm (version 2.0)",
+    "quantity": 1,
+    "weight": {
+      "value": 0,
+      "units": "lb"
+    },
+    "price": 0,
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "common",
+    "identified": true,
+    "activation": {
+      "type": "",
+      "cost": null,
+      "condition": ""
+    },
+    "duration": {
+      "value": null,
+      "units": ""
+    },
+    "target": {
+      "value": null,
+      "width": null,
+      "units": "",
+      "type": ""
+    },
+    "range": {
+      "value": null,
+      "long": null,
+      "units": ""
+    },
+    "uses": {
+      "value": null,
+      "max": 0,
+      "per": null,
+      "autoDestroy": false
+    },
+    "consume": {
+      "type": "",
+      "target": null,
+      "amount": null
+    },
+    "ability": null,
+    "actionType": "",
+    "attackBonus": 0,
+    "chatFlavor": "",
+    "critical": null,
+    "damage": {
+      "parts": [],
+      "versatile": ""
+    },
+    "formula": "",
+    "save": {
+      "ability": "",
+      "dc": null,
+      "scaling": "spell"
+    },
+    "consumableType": "potion",
+    "attuned": false
+  },
+  "_key": "!items!JMBK5FYuSwU9tsQJ"
+}

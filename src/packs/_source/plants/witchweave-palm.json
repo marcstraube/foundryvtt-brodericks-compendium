@@ -1,0 +1,126 @@
+{
+  "name": "Witchweave Palm",
+  "type": "consumable",
+  "flags": {
+    "betterRolls5e": {
+      "critRange": {
+        "value": null
+      },
+      "critDamage": {
+        "value": ""
+      },
+      "quickDesc": {
+        "value": true,
+        "altValue": true
+      },
+      "quickProperties": {
+        "value": true,
+        "altValue": true
+      },
+      "quickOther": {
+        "value": true,
+        "altValue": true
+      },
+      "quickFlavor": {
+        "value": true,
+        "altValue": true
+      },
+      "quickCharges": {
+        "value": {
+          "quantity": false
+        },
+        "altValue": {
+          "quantity": false
+        }
+      }
+    }
+  },
+  "img": "modules/brodericks-compendium/assets/icons/tree.svg",
+  "effects": [],
+  "_id": "n7oVURjgZgzywGuZ",
+  "system": {
+    "description": {
+      "value": "<p><em>Biome: Jungles</em></p>\n<p>A single Witchweave Palm Tree is comprised of three to five trunks, 10\" to 12\" in diameter, that grow in tight clusters and can reach 25' to 50' in height. The fronds of a mature Witchweave are approximately 3' long before splitting into 7 to 10 pale green leaves with drooping, fibrous tips that grow for another 2' to 3'. It is the numerous white fibers, resembling hair, appearing in the splits of the leaf tips that give the Witchweave its name. These leaves are prized by the Lizardfolk natives of the Swordfish Islands who harvest, dry and process them into rope and rough cloth. The Witchweave blooms with small yellow flowers that give way to oblong, reddish fruit about the size of a human thumb. If the fruits are dried, wrapped in fresh green Witchweave leaves and burned, a thick, deep blue smoke with a sweet, musky odor is produced. This smoke acts as a potent anesthetic to exposed flesh, and the Lizardfolk are known to fill tents and lodges with it for both medical and spiritual reasons. It is rumored that some of the Lizardfolk's powerful shaman are able to refine the fruit of the Witchweave even further to create potent healing salves and unguents, but if true, these secrets are highly guarded.</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Broderick's Compendium: Plants and Fungi Across the Realm (version 2.0)",
+    "quantity": 1,
+    "weight": {
+      "value": 0,
+      "units": "lb"
+    },
+    "price": 0,
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "uncommon",
+    "identified": true,
+    "activation": {
+      "type": "",
+      "cost": null,
+      "condition": ""
+    },
+    "duration": {
+      "value": null,
+      "units": ""
+    },
+    "cover": null,
+    "crewed": false,
+    "target": {
+      "value": null,
+      "width": null,
+      "units": "",
+      "type": ""
+    },
+    "range": {
+      "value": null,
+      "long": null,
+      "units": ""
+    },
+    "uses": {
+      "value": null,
+      "max": 0,
+      "per": null,
+      "recovery": "",
+      "autoDestroy": false
+    },
+    "consume": {
+      "type": "",
+      "target": null,
+      "amount": null
+    },
+    "ability": null,
+    "actionType": "",
+    "attackBonus": 0,
+    "chatFlavor": "",
+    "critical": null,
+    "damage": {
+      "parts": [],
+      "versatile": ""
+    },
+    "formula": "",
+    "save": {
+      "ability": "",
+      "dc": null,
+      "scaling": "spell"
+    },
+    "consumableType": "potion",
+    "attuned": false
+  },
+  "ownership": {
+    "default": 0
+  },
+  "folder": null,
+  "sort": 0,
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "2.2.1",
+    "coreVersion": "12.328",
+    "createdTime": null,
+    "modifiedTime": 1698241642113,
+    "lastModifiedBy": "packsbuilder0000",
+    "compendiumSource": null,
+    "duplicateSource": null
+  },
+  "_key": "!items!n7oVURjgZgzywGuZ"
+}

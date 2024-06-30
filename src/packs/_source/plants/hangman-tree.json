@@ -1,0 +1,126 @@
+{
+  "name": "Hangman Tree",
+  "type": "consumable",
+  "flags": {
+    "betterRolls5e": {
+      "critRange": {
+        "value": null
+      },
+      "critDamage": {
+        "value": ""
+      },
+      "quickDesc": {
+        "value": true,
+        "altValue": true
+      },
+      "quickProperties": {
+        "value": true,
+        "altValue": true
+      },
+      "quickOther": {
+        "value": true,
+        "altValue": true
+      },
+      "quickFlavor": {
+        "value": true,
+        "altValue": true
+      },
+      "quickCharges": {
+        "value": {
+          "quantity": false
+        },
+        "altValue": {
+          "quantity": false
+        }
+      }
+    }
+  },
+  "img": "modules/brodericks-compendium/assets/icons/tree.svg",
+  "effects": [],
+  "_id": "Q9VlQCzsaYJ2INbJ",
+  "system": {
+    "description": {
+      "value": "<p><em>Biome: Forests, Jungles</em></p>\n<p>A deciduous tree named for the noose-like ropy appendages that hang down from the branches, the trees are known to entrap the unwary. Their shallow roots and sparse leaves require the tree to seek nutrition through being carnivorous. The main body of the trunk has a hollow tube containing a digestive acid. The ropy appendages drag trapped prey upward and drops them inside the opening. The opening is surrounded by a number of downward facing spines which make escape difficult. Due to the shallow roots, the trees may move at a glacial pace, allowing most prey to easily outrun them. However, the trees rely upon a perfume their leaves emit that causes hallucinations to lure potential victims closer. Upon an encounter, PC&rsquo;s must make a DC 14 Wisdom Save or be lured in to the tree&rsquo;s appendages. The character must then make a DC 15 Strength or Dexterity save to avoid taking [[/roll 8d6]] acid damage. Tree can be attacked as well:</p>\n<ul>\n<li>\n<p>AC: 12</p>\n</li>\n<li>\n<p>Hit Points: 172 (15d12+80)</p>\n</li>\n<li>\n<p>Speed: 1 ft.</p>\n</li>\n<li>\n<p>STR: 20 DEX: 6 CON: 20 INT: 3 WIS: 6 CHA: 4</p>\n</li>\n<li>\n<p>Damage Resistance: Bludgeoning, piercing</p>\n</li>\n<li>\n<p>Damage Vulnerabilities: Fire</p>\n</li>\n<li>\n<p>Condition Immunities: Blinded, deafened, frightened, exhaustion</p>\n</li>\n<li>\n<p>Senses: Blindsight 90 ft., passive perception 8</p>\n</li>\n<li>\n<p>CR: 8</p>\n</li>\n<li>\n<p>Actions:</p>\n<ul>\n<li>\n<p>Multiattack: The hangman tree may make three constrict attacks per turn.</p>\n</li>\n<li>\n<p>Constrict: Melee Weapon Attack: +9 to hit, reach 10 ft., one target. Hit: 10 (1d8+5) bludgeoning damage, and a Large or smaller target is grappled (escape DC 16).</p>\n</li>\n</ul>\n</li>\n</ul>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Broderick's Compendium: Plants and Fungi Across the Realm (version 2.0)",
+    "quantity": 1,
+    "weight": {
+      "value": 0,
+      "units": "lb"
+    },
+    "price": 0,
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "rare",
+    "identified": true,
+    "activation": {
+      "type": "",
+      "cost": null,
+      "condition": ""
+    },
+    "duration": {
+      "value": null,
+      "units": ""
+    },
+    "cover": null,
+    "crewed": false,
+    "target": {
+      "value": null,
+      "width": null,
+      "units": "",
+      "type": ""
+    },
+    "range": {
+      "value": null,
+      "long": null,
+      "units": ""
+    },
+    "uses": {
+      "value": null,
+      "max": 0,
+      "per": null,
+      "recovery": "",
+      "autoDestroy": false
+    },
+    "consume": {
+      "type": "",
+      "target": null,
+      "amount": null
+    },
+    "ability": null,
+    "actionType": "",
+    "attackBonus": 0,
+    "chatFlavor": "",
+    "critical": null,
+    "damage": {
+      "parts": [],
+      "versatile": ""
+    },
+    "formula": "",
+    "save": {
+      "ability": "",
+      "dc": null,
+      "scaling": "spell"
+    },
+    "consumableType": "potion",
+    "attuned": false
+  },
+  "ownership": {
+    "default": 0
+  },
+  "folder": null,
+  "sort": 0,
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "2.2.1",
+    "coreVersion": "12.328",
+    "createdTime": null,
+    "modifiedTime": 1698239484909,
+    "lastModifiedBy": "packsbuilder0000",
+    "compendiumSource": null,
+    "duplicateSource": null
+  },
+  "_key": "!items!Q9VlQCzsaYJ2INbJ"
+}

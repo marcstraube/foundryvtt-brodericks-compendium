@@ -1,0 +1,126 @@
+{
+  "name": "Novanor",
+  "type": "consumable",
+  "flags": {
+    "betterRolls5e": {
+      "critRange": {
+        "value": null
+      },
+      "critDamage": {
+        "value": ""
+      },
+      "quickDesc": {
+        "value": true,
+        "altValue": true
+      },
+      "quickProperties": {
+        "value": true,
+        "altValue": true
+      },
+      "quickOther": {
+        "value": true,
+        "altValue": true
+      },
+      "quickFlavor": {
+        "value": true,
+        "altValue": true
+      },
+      "quickCharges": {
+        "value": {
+          "quantity": false
+        },
+        "altValue": {
+          "quantity": false
+        }
+      }
+    }
+  },
+  "img": "modules/brodericks-compendium/assets/icons/cactus.svg",
+  "effects": [],
+  "_id": "yev5pAfTeYFrBZWy",
+  "system": {
+    "description": {
+      "value": "<p><em>Biome: Deserts</em></p>\n<p>Commonly found in many desert areas, Novanor is the fruit of a cactus of the same name, growing in small orange pustules along the cactus&rsquo;s underside. These fruits can be eaten as emergency water reserves in the middle of the desert, but also serve a darker, more dangerous purpose. Harvesting the fruit, drying them in the sun, and then soaking the dried fruit in the blood of a Lamia (those poor, misunderstood creatures) will create a sticky, scarlet paste called Blood Fire. After injury with a weapon coated with Blood Fire, the blood begins to rapidly oxygenate, essentially burning the target from the inside out, and sometimes leaving little more than a charred skeleton behind. The victim must make a DC 12 Cons. Save vs poison. On a failed save, the target will take [[/roll 1d6+1]] fire damage per round for the next 10 minutes or until cured. On a successful save, the target only takes [[/roll 1d6+1]] additional fire damage on the first hit.</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Broderick's Compendium: Plants and Fungi Across the Realm (version 2.0)",
+    "quantity": 1,
+    "weight": {
+      "value": 0,
+      "units": "lb"
+    },
+    "price": 0,
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "uncommon",
+    "identified": true,
+    "activation": {
+      "type": "",
+      "cost": null,
+      "condition": ""
+    },
+    "duration": {
+      "value": null,
+      "units": ""
+    },
+    "cover": null,
+    "crewed": false,
+    "target": {
+      "value": null,
+      "width": null,
+      "units": "",
+      "type": ""
+    },
+    "range": {
+      "value": null,
+      "long": null,
+      "units": ""
+    },
+    "uses": {
+      "value": null,
+      "max": 0,
+      "per": null,
+      "recovery": "",
+      "autoDestroy": false
+    },
+    "consume": {
+      "type": "",
+      "target": null,
+      "amount": null
+    },
+    "ability": null,
+    "actionType": "",
+    "attackBonus": 0,
+    "chatFlavor": "",
+    "critical": null,
+    "damage": {
+      "parts": [],
+      "versatile": ""
+    },
+    "formula": "",
+    "save": {
+      "ability": "",
+      "dc": null,
+      "scaling": "spell"
+    },
+    "consumableType": "potion",
+    "attuned": false
+  },
+  "ownership": {
+    "default": 0
+  },
+  "folder": null,
+  "sort": 0,
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "2.2.1",
+    "coreVersion": "12.328",
+    "createdTime": null,
+    "modifiedTime": 1698242379834,
+    "lastModifiedBy": "packsbuilder0000",
+    "compendiumSource": null,
+    "duplicateSource": null
+  },
+  "_key": "!items!yev5pAfTeYFrBZWy"
+}

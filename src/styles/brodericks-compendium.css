@@ -1,0 +1,12 @@
+.compendium-sidebar .directory-item.compendium[data-entry-id="brodericks-compendium.monsters"] img {
+    content: url("../assets/images/banner-monsters.webp");
+}
+.compendium-sidebar .directory-item.compendium[data-entry-id="brodericks-compendium.books"] img {
+    content: url("../assets/images/banner-books.webp");
+}
+.compendium-sidebar .directory-item.compendium[data-entry-id="brodericks-compendium.plants"] img {
+    content: url("../assets/images/banner-plants.webp");
+}
+.compendium-sidebar .directory-item.compendium[data-entry-id="brodericks-compendium.planttables"] img {
+    content: url("../assets/images/banner-planttables.webp");
+}

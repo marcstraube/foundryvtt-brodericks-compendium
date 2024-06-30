@@ -1,0 +1,126 @@
+{
+  "name": "Waxtree",
+  "type": "consumable",
+  "flags": {
+    "betterRolls5e": {
+      "critRange": {
+        "value": null
+      },
+      "critDamage": {
+        "value": ""
+      },
+      "quickDesc": {
+        "value": true,
+        "altValue": true
+      },
+      "quickProperties": {
+        "value": true,
+        "altValue": true
+      },
+      "quickOther": {
+        "value": true,
+        "altValue": true
+      },
+      "quickFlavor": {
+        "value": true,
+        "altValue": true
+      },
+      "quickCharges": {
+        "value": {
+          "quantity": false
+        },
+        "altValue": {
+          "quantity": false
+        }
+      }
+    }
+  },
+  "img": "modules/brodericks-compendium/assets/icons/tree.svg",
+  "effects": [],
+  "_id": "5K1fPYsG6vdgFxmM",
+  "system": {
+    "description": {
+      "value": "<p><em>Biome: Forests</em></p>\n<p>Waxtrees have large, fuzzy, almost white leaves that grow in bunches at the ends of twisted, dark brown, woody branches that are 1-3 inches thick. While most commonly growing to a height of 2-3 feet, some Wax Trees have been known to grow as large as 8 feet tall. A shallow and spreading root system robs nearby plants of food and moisture causing these trees to be found with few neighbors, even in areas of otherwise dense vegetation. The branches, if broken, ooze a translucent purple, viscous fluid that smells vaguely of citrus. The wax burns cleanly and evenly making it a good alternative to beeswax, and alchemists often seek it out as a foundation for magical glues and thickeners. Exceptionally skilled alchemists are able to use this wax to create a putty that can *permanently* change the shape and structure of facial features. The would-be master of disguise should be cautious however as minor, even accidental, tweaks to this formula will create a putty that causes organic matter (like faces) to dissolve and melt away in a matter of seconds.</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Broderick's Compendium: Plants and Fungi Across the Realm (version 2.0)",
+    "quantity": 1,
+    "weight": {
+      "value": 0,
+      "units": "lb"
+    },
+    "price": 0,
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "veryRare",
+    "identified": true,
+    "activation": {
+      "type": "",
+      "cost": null,
+      "condition": ""
+    },
+    "duration": {
+      "value": null,
+      "units": ""
+    },
+    "cover": null,
+    "crewed": false,
+    "target": {
+      "value": null,
+      "width": null,
+      "units": "",
+      "type": ""
+    },
+    "range": {
+      "value": null,
+      "long": null,
+      "units": ""
+    },
+    "uses": {
+      "value": null,
+      "max": 0,
+      "per": null,
+      "recovery": "",
+      "autoDestroy": false
+    },
+    "consume": {
+      "type": "",
+      "target": null,
+      "amount": null
+    },
+    "ability": null,
+    "actionType": "",
+    "attackBonus": 0,
+    "chatFlavor": "",
+    "critical": null,
+    "damage": {
+      "parts": [],
+      "versatile": ""
+    },
+    "formula": "",
+    "save": {
+      "ability": "",
+      "dc": null,
+      "scaling": "spell"
+    },
+    "consumableType": "potion",
+    "attuned": false
+  },
+  "ownership": {
+    "default": 0
+  },
+  "folder": null,
+  "sort": 0,
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "2.2.1",
+    "coreVersion": "12.328",
+    "createdTime": null,
+    "modifiedTime": 1698239515967,
+    "lastModifiedBy": "packsbuilder0000",
+    "compendiumSource": null,
+    "duplicateSource": null
+  },
+  "_key": "!items!5K1fPYsG6vdgFxmM"
+}

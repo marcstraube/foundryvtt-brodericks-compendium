@@ -62,23 +62,15 @@ has since received a ton of updates:
 
 ## Optional Dependencies
 
-Install [Better Rolltables](https://github.com/ultrakorne/better-rolltables)
-and [Loot Sheet NPC 5E](https://github.com/jopeek/fvtt-loot-sheet-npc-5e) for enhanced functionality.
+Install [Better Rolltables](https://github.com/p4535992/foundryvtt-better-rolltables) for enhanced functionality.
 
 Install [Compendium Themer](https://github.com/p4535992/foundryvtt-compendium-themer) to custom style the compendiums. 
-
-Install [libChangelog](https://github.com/theripper93/libChangelogs) to see a changelog with every module update.
 
 ## Suggested Use
 
 I currently use this in my campaign to allow players to forage. If you use the included roll tables for the region(s)
 they are in, you can select the Generate Loot button on the table, it will create a new instance of the item on the
 Actor "Found Plants" in the Actors tab (it will create that loot actor if you don't have it already).
-
-I also
-have [Forien's Unidentified Items](https://github.com/League-of-Foundry-Developers/foundryvtt-forien-unidentified-items/)
-add-on and right-click the new plant and mystify before letting the players see it/access it. You can save a copy to
-your items for reference if you want.
 
 ## What's to come?
 
@@ -90,3 +82,83 @@ your items for reference if you want.
 * Add more plants, monsters and potions.
 
 If you're interested to help, don't hesitate to create a pull request!
+
+# Build
+
+## Install all packages
+
+```bash
+npm install
+```
+
+### dev
+
+`dev` will let you develop you own code with hot reloading on the browser
+
+```bash
+npm run dev
+```
+
+### build
+
+`build` will build and set up a symlink between `dist` and your `dataPath`.
+
+```bash
+npm run build
+```
+
+### build:watch
+
+`build:watch` will build and watch for changes, rebuilding automatically.
+
+```bash
+npm run build:watch
+```
+
+### prettier-format
+
+`prettier-format` launch the prettier plugin based on the configuration [here](./.prettierrc)
+
+```bash
+npm run-script prettier-format
+```
+
+### lint
+
+`lint` launch the eslint process based on the configuration [here](./.eslintrc.json)
+
+```bash
+npm run-script lint
+```
+
+### lint:fix
+
+`lint:fix` launch the eslint process with the fix argument
+
+```bash
+npm run-script lint:fix
+```
+
+### build:json
+
+`build:json` unpack LevelDB pack on `src/packs` to the json db sources in `src/packs/_source`very useful for backup your items and manually fix some hard issue with some text editor
+
+```bash
+npm run-script build:json
+```
+
+### build:clean
+
+`build:clean` clean packs json sources in `src/packs/_source`. NOTE: usually this command is launched after the command `build:json` and after make some modifications on the json source files with some text editor, but before the `build:db`
+
+```bash
+npm run-script build:clean
+```
+
+### build:db
+
+`build:db` packs the json db sources in `src/packs/_source` to LevelDB pack on `src/packs` with the new jsons. NOTE: usually this command is launched after the command `build:json` and after make some modifications on the json source files with some text editor
+
+```bash
+npm run-script build:db
+```

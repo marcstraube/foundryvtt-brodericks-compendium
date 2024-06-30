@@ -1,0 +1,126 @@
+{
+  "name": "Rose of Forgetfulness",
+  "type": "consumable",
+  "flags": {
+    "betterRolls5e": {
+      "critRange": {
+        "value": null
+      },
+      "critDamage": {
+        "value": ""
+      },
+      "quickDesc": {
+        "value": true,
+        "altValue": true
+      },
+      "quickProperties": {
+        "value": true,
+        "altValue": true
+      },
+      "quickOther": {
+        "value": true,
+        "altValue": true
+      },
+      "quickFlavor": {
+        "value": true,
+        "altValue": true
+      },
+      "quickCharges": {
+        "value": {
+          "quantity": false
+        },
+        "altValue": {
+          "quantity": false
+        }
+      }
+    }
+  },
+  "img": "modules/brodericks-compendium/assets/icons/flower.svg",
+  "effects": [],
+  "_id": "Sw2iGyRQfwU1p12T",
+  "system": {
+    "description": {
+      "value": "<p><em>Biome: Forests, Jungles, Plains</em></p><p>This unusual rose, often identified by the multicolored petals, are only found rarely in the wild, as their scent causes lingering problems. Their tangled vines are covered in sharp red thorns, and the smooth green leaves are tinged in orange. Those that smell the mesmerizing fragrance of the roses must make a DC 15 Wisdom saving throw or forget the past [[/roll 2d4]] minutes. Failing the saving throw by 5 or more causes the victim to forget the past [[/roll 1d6]] hours, and a spellcaster to forget [[/roll 1d6]] spells occupying the highest spell slots first. Those that fail the saving throw by 10 or more forget the past [[/roll 1d6]] days, and spellcasters forget [[/roll 2d6]] spells occupying the highest spell slots first. Rolling a 1 on the saving throw causes the inhaler to suffer from complete amnesia, and can only be cured by a Wish, Greater Restoration, or 8th level Heal spell to restore their forgotten identity.</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Broderick's Compendium: Plants and Fungi Across the Realm (version 2.0)",
+    "quantity": 1,
+    "weight": {
+      "value": 0,
+      "units": "lb"
+    },
+    "price": 0,
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "legendary",
+    "identified": true,
+    "activation": {
+      "type": "",
+      "cost": null,
+      "condition": ""
+    },
+    "duration": {
+      "value": null,
+      "units": ""
+    },
+    "cover": null,
+    "crewed": false,
+    "target": {
+      "value": null,
+      "width": null,
+      "units": "",
+      "type": ""
+    },
+    "range": {
+      "value": null,
+      "long": null,
+      "units": ""
+    },
+    "uses": {
+      "value": null,
+      "max": 0,
+      "per": null,
+      "recovery": "",
+      "autoDestroy": false
+    },
+    "consume": {
+      "type": "",
+      "target": null,
+      "amount": null
+    },
+    "ability": null,
+    "actionType": "",
+    "attackBonus": 0,
+    "chatFlavor": "",
+    "critical": null,
+    "damage": {
+      "parts": [],
+      "versatile": ""
+    },
+    "formula": "",
+    "save": {
+      "ability": "",
+      "dc": null,
+      "scaling": "spell"
+    },
+    "consumableType": "potion",
+    "attuned": false
+  },
+  "ownership": {
+    "default": 0
+  },
+  "folder": null,
+  "sort": 0,
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "2.2.1",
+    "coreVersion": "12.328",
+    "createdTime": null,
+    "modifiedTime": 1698239374035,
+    "lastModifiedBy": "packsbuilder0000",
+    "compendiumSource": null,
+    "duplicateSource": null
+  },
+  "_key": "!items!Sw2iGyRQfwU1p12T"
+}

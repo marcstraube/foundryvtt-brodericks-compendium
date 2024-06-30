@@ -1,0 +1,123 @@
+{
+  "_id": "oOaP7ITfdTTwX60M",
+  "name": "Cow-Wheat",
+  "type": "consumable",
+  "img": "modules/brodericks-compendium/assets/images/cow-wheat.webp",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "betterRolls5e": {
+      "critRange": {
+        "value": null
+      },
+      "critDamage": {
+        "value": ""
+      },
+      "quickDesc": {
+        "value": true,
+        "altValue": true
+      },
+      "quickProperties": {
+        "value": true,
+        "altValue": true
+      },
+      "quickOther": {
+        "value": true,
+        "altValue": true
+      },
+      "quickFlavor": {
+        "value": true,
+        "altValue": true
+      },
+      "quickCharges": {
+        "value": {
+          "quantity": false
+        },
+        "altValue": {
+          "quantity": false
+        }
+      }
+    }
+  },
+  "_stats": {
+    "coreVersion": "12.328",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "system": {
+    "description": {
+      "value": "<p><em>Biome: Forests, Plains</em></p>\n<p>Cow wheat is a small straight stemmed yellow-green plant. Its pale-yellow flowers produce a white powder when crushed, between two hands. If this powder is placed into food or drink it will cause a person to act as if very drunk. Each dose of this herb successfully administered will increase the level of drunkenness by one step.&nbsp;</p>\n<p>Drunkeness:</p>\n<ul>\n<li>\n<p>Step 1: -1 to Intelligence until sober</p>\n</li>\n<li>\n<p>Step 2: -1 to Wisdom until sober</p>\n</li>\n<li>\n<p>Step 3: -1 to Charisma until sober</p>\n</li>\n<li>\n<p>Step 4: -1 to Dexterity until sober</p>\n</li>\n<li>\n<p>Step 5: the player now has disadvantage on all skill checks and attacks</p>\n</li>\n<li>\n<p>Step 6: the player now has disadvantage on all saves.</p>\n</li>\n<li>\n<p>Step 7: the player blacks out for [[/roll 1d4]] hours.</p>\n</li>\n</ul>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Broderick's Compendium: Plants and Fungi Across the Realm (version 2.0)",
+    "quantity": 1,
+    "weight": {
+      "value": 0,
+      "units": "lb"
+    },
+    "price": 0,
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "veryCommon",
+    "identified": true,
+    "activation": {
+      "type": "",
+      "cost": null,
+      "condition": ""
+    },
+    "duration": {
+      "value": null,
+      "units": ""
+    },
+    "target": {
+      "value": null,
+      "width": null,
+      "units": "",
+      "type": ""
+    },
+    "range": {
+      "value": null,
+      "long": null,
+      "units": ""
+    },
+    "uses": {
+      "value": null,
+      "max": 0,
+      "per": null,
+      "autoDestroy": false
+    },
+    "consume": {
+      "type": "",
+      "target": null,
+      "amount": null
+    },
+    "ability": null,
+    "actionType": "",
+    "attackBonus": 0,
+    "chatFlavor": "",
+    "critical": null,
+    "damage": {
+      "parts": [],
+      "versatile": ""
+    },
+    "formula": "",
+    "save": {
+      "ability": "",
+      "dc": null,
+      "scaling": "spell"
+    },
+    "consumableType": "potion",
+    "attuned": false
+  },
+  "_key": "!items!oOaP7ITfdTTwX60M"
+}

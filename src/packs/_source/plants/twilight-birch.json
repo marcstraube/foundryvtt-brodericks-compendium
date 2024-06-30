@@ -1,0 +1,126 @@
+{
+  "name": "Twilight Birch",
+  "type": "consumable",
+  "flags": {
+    "betterRolls5e": {
+      "critRange": {
+        "value": null
+      },
+      "critDamage": {
+        "value": ""
+      },
+      "quickDesc": {
+        "value": true,
+        "altValue": true
+      },
+      "quickProperties": {
+        "value": true,
+        "altValue": true
+      },
+      "quickOther": {
+        "value": true,
+        "altValue": true
+      },
+      "quickFlavor": {
+        "value": true,
+        "altValue": true
+      },
+      "quickCharges": {
+        "value": {
+          "quantity": false
+        },
+        "altValue": {
+          "quantity": false
+        }
+      }
+    }
+  },
+  "img": "modules/brodericks-compendium/assets/icons/tree.svg",
+  "effects": [],
+  "_id": "Zpf99rGuwZTtx52N",
+  "system": {
+    "description": {
+      "value": "<p><em>Biome: Forests</em></p>\n<p>The bark of this tree is a pale white, and quite smooth. The leaves of the tree are small, waxy and dark, and spend the day curled tightly, only to open at night. During colder months the tree sprouts small purple flowers that blossom at night. Legend says that the trees first erupted from the ground during a fight between an avatar of Shar, and an avatar of Selune. During the fight the avatar of Shar was wounded, and where her drops of her blood fell upon several saplings, they were forever changed. It has been noted that the trees were once found more commonly in places where the Shadow Weave was most prominent. The wood is soft and flexible when first cut, but hardens over the course of several days, allowing craftsmen to work easily on freshly cut wood to easily create ornate pieces. Once hardened, the wood retains the shape it was crafted into. The wood is often used to create furniture such as elaborately carved chairs, tables, and desks. Additionally, the wood is used to crat intricately detailed scepters, wands, and staves, and a wooden weapon made of Twilight Birch is said to do extra damage to celestials (+3 force damage to successful against celestials). In addition, when a magical item is crafted using Twilight Birch, and used to cast a Death or Trickery Domain spell (even if used by non-Clerics), it allows the spell to be cast one level higher without using a higher-level spell slot. This ability can be used once per long rest, and only at night.</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Broderick's Compendium: Plants and Fungi Across the Realm (version 2.0)",
+    "quantity": 1,
+    "weight": {
+      "value": 0,
+      "units": "lb"
+    },
+    "price": 0,
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "veryRare",
+    "identified": true,
+    "activation": {
+      "type": "",
+      "cost": null,
+      "condition": ""
+    },
+    "duration": {
+      "value": null,
+      "units": ""
+    },
+    "cover": null,
+    "crewed": false,
+    "target": {
+      "value": null,
+      "width": null,
+      "units": "",
+      "type": ""
+    },
+    "range": {
+      "value": null,
+      "long": null,
+      "units": ""
+    },
+    "uses": {
+      "value": null,
+      "max": 0,
+      "per": null,
+      "recovery": "",
+      "autoDestroy": false
+    },
+    "consume": {
+      "type": "",
+      "target": null,
+      "amount": null
+    },
+    "ability": null,
+    "actionType": "",
+    "attackBonus": 0,
+    "chatFlavor": "",
+    "critical": null,
+    "damage": {
+      "parts": [],
+      "versatile": ""
+    },
+    "formula": "",
+    "save": {
+      "ability": "",
+      "dc": null,
+      "scaling": "spell"
+    },
+    "consumableType": "potion",
+    "attuned": false
+  },
+  "ownership": {
+    "default": 0
+  },
+  "folder": null,
+  "sort": 0,
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "2.2.1",
+    "coreVersion": "12.328",
+    "createdTime": null,
+    "modifiedTime": 1700852288912,
+    "lastModifiedBy": "packsbuilder0000",
+    "compendiumSource": null,
+    "duplicateSource": null
+  },
+  "_key": "!items!Zpf99rGuwZTtx52N"
+}

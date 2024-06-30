@@ -1,0 +1,123 @@
+{
+  "_id": "TPZ4qHwmyVoHBacy",
+  "name": "Spring Adonis",
+  "type": "consumable",
+  "img": "modules/brodericks-compendium/assets/images/spring-adonis.webp",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "betterRolls5e": {
+      "critRange": {
+        "value": null
+      },
+      "critDamage": {
+        "value": ""
+      },
+      "quickDesc": {
+        "value": true,
+        "altValue": true
+      },
+      "quickProperties": {
+        "value": true,
+        "altValue": true
+      },
+      "quickOther": {
+        "value": true,
+        "altValue": true
+      },
+      "quickFlavor": {
+        "value": true,
+        "altValue": true
+      },
+      "quickCharges": {
+        "value": {
+          "quantity": false
+        },
+        "altValue": {
+          "quantity": false
+        }
+      }
+    }
+  },
+  "_stats": {
+    "coreVersion": "12.328",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "system": {
+    "description": {
+      "value": "<p><em>Biome: Forests, Mountains</em></p>\n<p>This plant has small green leaves, and wide round yellow flowers. These flowers may be dried, and then eaten. They will then reduce the chance of a heart attack by half each day they are eaten. They may (at the DM&rsquo;s discretion) also help to strengthen the heart of a person, who through age, injury, or other cause, has a weak heart. Eaten ten or more of these flowers at a time will temporarily raise the Constitution and Strength scores of a person by 1 for [[/roll 2d12]] hours, while reducing their Dexterity by 2 for the same period. In addition to this reduction, the recipient also has a chance of suffering a fatal heart attack [[/roll 3d12]] hours after taking such a massive dose (DC 14 Constitution Save). Certain tribes of barbarians in the mountain regions where this herb is found use the herb in order to help them go berserk in battle. These tribes, due to constant dosing from birth have only a small chance of suffering the heart attack (DC 8 Cons. Save). </p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Broderick's Compendium: Plants and Fungi Across the Realm (version 2.0)",
+    "quantity": 1,
+    "weight": {
+      "value": 0,
+      "units": "lb"
+    },
+    "price": 0,
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "common",
+    "identified": true,
+    "activation": {
+      "type": "",
+      "cost": null,
+      "condition": ""
+    },
+    "duration": {
+      "value": null,
+      "units": ""
+    },
+    "target": {
+      "value": null,
+      "width": null,
+      "units": "",
+      "type": ""
+    },
+    "range": {
+      "value": null,
+      "long": null,
+      "units": ""
+    },
+    "uses": {
+      "value": null,
+      "max": 0,
+      "per": null,
+      "autoDestroy": false
+    },
+    "consume": {
+      "type": "",
+      "target": null,
+      "amount": null
+    },
+    "ability": null,
+    "actionType": "",
+    "attackBonus": 0,
+    "chatFlavor": "",
+    "critical": null,
+    "damage": {
+      "parts": [],
+      "versatile": ""
+    },
+    "formula": "",
+    "save": {
+      "ability": "",
+      "dc": null,
+      "scaling": "spell"
+    },
+    "consumableType": "potion",
+    "attuned": false
+  },
+  "_key": "!items!TPZ4qHwmyVoHBacy"
+}

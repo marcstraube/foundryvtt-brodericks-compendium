@@ -1,0 +1,45 @@
+{
+  "_id": "cpslHU5s2EC5W8W6",
+  "name": "Broderick's Compendium: Arctic Plants",
+  "type": "loot",
+  "img": "icons/sundries/books/book-worn-brown.webp",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "_stats": {
+    "coreVersion": "12.328",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "system": {
+    "description": {
+      "value": "<p>@Compendium[brodericks-compendium.plants.dUFsItiIusNWVU4N]{Allathorne}</p>\n<p>@Compendium[brodericks-compendium.plants.84ipgN15NQeNQVFa]{Arctic Creeper}</p>\n<p>@Compendium[brodericks-compendium.plants.7yiEoLRUtdIFa4kW]{Ardulan}</p>\n<p>@Compendium[brodericks-compendium.plants.dCxazti91vzzHr96]{Avataer}</p>\n<p>@Compendium[brodericks-compendium.plants.6z5cJ6F6MpKLqC4M]{Basilisk Breath}</p>\n<p>@Compendium[brodericks-compendium.plants.OSBBvb8thudY2Agj]{Bee Balm}</p>\n<p>@Compendium[brodericks-compendium.plants.cbIiSEPLxtquUjYr]{Bija Tree}</p>\n<p>@Compendium[brodericks-compendium.plants.NM0GGBvh9Tb60Rhb]{Birthnot}</p>\n<p>@Compendium[brodericks-compendium.plants.br8VSIj3nPqpTeZ3]{Bishop's Weed}</p>\n<p>@Compendium[brodericks-compendium.plants.9NW29xbdbQLqlJYm]{Bittermourn}</p>\n<p>@Compendium[brodericks-compendium.plants.TO995TUv1G9rYydT]{Blueleaf}</p>\n<p>@Compendium[brodericks-compendium.plants.1rQW7g0YsmUlQpTG]{Brelidar}</p>\n<p>@Compendium[brodericks-compendium.plants.ztiNeUJ1B86iAvpn]{Ceran}</p>\n<p>@Compendium[brodericks-compendium.plants.VvL5wMC05BksaMgh]{Coldwood}</p>\n<p>@Compendium[brodericks-compendium.plants.1MQfq7Sf8UrAn0Ib]{Covadish}</p>\n<p>@Compendium[brodericks-compendium.plants.wc1vLdLZQiGLrySk]{Darkwood}</p>\n<p>@Compendium[brodericks-compendium.plants.wwMdZYNEuPkpC7iM]{Dragon's Breath}</p>\n<p>@Compendium[brodericks-compendium.plants.kehLVWvBBulyLUaB]{Eldaas}</p>\n<p>@Compendium[brodericks-compendium.plants.pchHvna6tTLpcKAH]{Fennel Silk}</p>\n<p>@Compendium[brodericks-compendium.plants.Dz7boHKxkq10ApCW]{Footleaf}</p>\n<p>@Compendium[brodericks-compendium.plants.eQWObxg21oi2Ayzt]{Gefnul}</p>\n<p>@Compendium[brodericks-compendium.plants.OkoKc6VwJMllYYbB]{Goldencup}</p>\n<p>@Compendium[brodericks-compendium.plants.v4k8zA8Qtd1zIBo6]{Grendar}</p>\n<p>@Compendium[brodericks-compendium.plants.aP0ghdv7SFKb5qZx]{Halcyon Crocus}</p>\n<p>@Compendium[brodericks-compendium.plants.omBEBoR3hZO4YAaq]{Hare's Ear}</p>\n<p>@Compendium[brodericks-compendium.plants.srB7FDS0BAzWZrDF]{Hoggle Beans}</p>\n<p>@Compendium[brodericks-compendium.plants.r9ptg4UPVbGnG9b0]{Ice Lotus}</p>\n<p>@Compendium[brodericks-compendium.plants.MZDGkPfjruGeQVPJ]{Iceflower}</p>\n<p>@Compendium[brodericks-compendium.plants.xX1u60m1qwzCu1Mn]{Jojopojo}</p>\n<p>@Compendium[brodericks-compendium.plants.fqyHxg0hbk4LEbf7]{Kanishta}</p>\n<p>@Compendium[brodericks-compendium.plants.KRQE8eHYLET9BrA7]{Kathkusa}</p>\n<p>@Compendium[brodericks-compendium.plants.GBtHHM4O5yL3DOMi]{Klagul}</p>\n<p>@Compendium[brodericks-compendium.plants.rwwvrARMjha4KR3r]{Mistletoe}</p>\n<p>@Compendium[brodericks-compendium.plants.xe2g9tF194hkaZmC]{Obaddis Leaf}</p>\n<p>@Compendium[brodericks-compendium.plants.aOQuszjFa5F2v20u]{Quivar}</p>\n<p>@Compendium[brodericks-compendium.plants.92Vt3VptRz3JdVnh]{Rouddan}</p>\n<p>@Compendium[brodericks-compendium.plants.hVOT9h8R71GaqCVw]{Salamander Orchids}</p>\n<p>@Compendium[brodericks-compendium.plants.kq3Yzn7pZUQK5Gfn]{Scented Mayweed}</p>\n<p>@Compendium[brodericks-compendium.plants.LTVAFusk5PhktAG5]{Snowflake Lichen}</p>\n<p>@Compendium[brodericks-compendium.plants.jiT55ftPukAOUWBo]{Snowwood}</p>\n<p>@Compendium[brodericks-compendium.plants.o86WArohS3yuGKiQ]{Stonestream}</p>\n<p>@Compendium[brodericks-compendium.plants.8K5L9MPmfnHThNP4]{Thalsen Weed}</p>\n<p>@Compendium[brodericks-compendium.plants.FRUyMwQxTHLV2IlL]{Thir}</p>\n<p>@Compendium[brodericks-compendium.plants.E9rZj0rAaODMLUbb]{Thistledown}</p>\n<p>@Compendium[brodericks-compendium.plants.imwdz9KphRq8kh2f]{Zulsendra}</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Broderick's Compendium: Plants and Fungi Across the Realm (version 2.0)",
+    "quantity": 1,
+    "weight": null,
+    "price": null,
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "rare",
+    "identified": true,
+    "damage": {
+      "parts": []
+    },
+    "details": {
+      "description": "<p>A book might contain poetry, historical accounts, information pertaining to a particular field of lore, diagrams and notes on gnomish contraptions, or just about anything else that can be represented using text or pictures. A book of spells is a @Compendium[dnd5e.items.LBajgahniRJbAgDr]{Spellbook}.</p>"
+    }
+  },
+  "_key": "!items!cpslHU5s2EC5W8W6"
+}

@@ -1,0 +1,45 @@
+{
+  "_id": "Ni81zICTDr6d0a0J",
+  "name": "Broderick's Compendium: Cave & Underdark Plants",
+  "type": "loot",
+  "img": "icons/sundries/books/book-worn-brown.webp",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "_stats": {
+    "coreVersion": "12.328",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "system": {
+    "description": {
+      "value": "<p>@Compendium[brodericks-compendium.plants.J9R9ygzfci39Z5Kh]{Abyssal Blackgrass}</p>\n<p>@Compendium[brodericks-compendium.plants.kVCoZkHWSuU3QNe2]{Amanita}</p>\n<p>@Compendium[brodericks-compendium.plants.wh8SG0ZV4PsR1GRX]{Barrelstalk}</p>\n<p>@Compendium[brodericks-compendium.plants.jpcNJS4SW7D8PcVD]{Blackroot}</p>\n<p>@Compendium[brodericks-compendium.plants.BymmDtvFzawLowJh]{Blackvein Flower}</p>\n<p>@Compendium[brodericks-compendium.plants.2HTwsGith3vFB4D6]{Bluecap}</p>\n<p>@Compendium[brodericks-compendium.plants.SjV2cRGeyeOtm6g7]{Bone Fungus}</p>\n<p>@Compendium[brodericks-compendium.plants.JMBK5FYuSwU9tsQJ]{Brawler's Blackcorn}</p>\n<p>@Compendium[brodericks-compendium.plants.azBpJEv2JTO5jrsn]{Calcena Mushroom}</p>\n<p>@Compendium[brodericks-compendium.plants.EBgL0qagF7kXgAvD]{Cave Moss}</p>\n<p>@Compendium[brodericks-compendium.plants.rUfhgRTEPTdCkklf]{Cave Star}</p>\n<p>@Compendium[brodericks-compendium.plants.c2sh8npcnSdtDBPw]{Cephalophage}</p>\n<p>@Compendium[brodericks-compendium.plants.EFjmwo2rNcJvFjyE]{Choke Mold}</p>\n<p>@Compendium[brodericks-compendium.plants.4170sOlA0ZplmWBB]{Chromus Slime}</p>\n<p>@Compendium[brodericks-compendium.plants.RrMY5Hi53NsV63vo]{Cornus}</p>\n<p>@Compendium[brodericks-compendium.plants.v1wcOHl0LVCTHRgJ]{Corpsebomb}</p>\n<p>@Compendium[brodericks-compendium.plants.BaU9Qnx0qPQ39gt0]{Cosmos Glond}</p>\n<p>@Compendium[brodericks-compendium.plants.ZFK0csEMrBLn9Vc7]{Darkberry}</p>\n<p>@Compendium[brodericks-compendium.plants.pMaqRBs4z1Q4AHyR]{Darkhorn}</p>\n<p>@Compendium[brodericks-compendium.plants.Bi725D6675WHlxUZ]{Darkshine}</p>\n<p>@Compendium[brodericks-compendium.plants.wc1vLdLZQiGLrySk]{Darkwood}</p>\n<p>@Compendium[brodericks-compendium.plants.ggLMtlXC8Cq88xur]{Death's Collard}</p>\n<p>@Compendium[brodericks-compendium.plants.zNe31VzGgI47oJ94]{Deep Imaskari Waterplant}</p>\n<p>@Compendium[brodericks-compendium.plants.9A5hM30GeOdy5JjU]{Devil's Bloodflower}</p>\n<p>@Compendium[brodericks-compendium.plants.csCDrDwGsPi37UIy]{Dragontongue Mushrooms}</p>\n<p>@Compendium[brodericks-compendium.plants.AIzRRCvq79zeIwJU]{Dungeon Fungus (Dungus)}</p>\n<p>@Compendium[brodericks-compendium.plants.VSqv625UBr68MlFz]{Elandir}</p>\n<p>@Compendium[brodericks-compendium.plants.pJEFFeP00wGt77fe]{Elora}</p>\n<p>@Compendium[brodericks-compendium.plants.pchHvna6tTLpcKAH]{Fennel Silk}</p>\n<p>@Compendium[brodericks-compendium.plants.RDPHplAXwR6kJLJE]{Fire Lichen}</p>\n<p>@Compendium[brodericks-compendium.plants.Zk2IkZ900ZlcvgiJ]{Fleshwort}</p>\n<p>@Compendium[brodericks-compendium.plants.6PzBKkP9NAb5KHFe]{Fordamna}</p>\n<p>@Compendium[brodericks-compendium.plants.bDMaoNmNsB3oVzEv]{Glowvine}</p>\n<p>@Compendium[brodericks-compendium.plants.Fwzb8xHof57XXTFB]{Grammax Creeper}</p>\n<p>@Compendium[brodericks-compendium.plants.KQOPelK41bp84QOc]{Gravefist}</p>\n<p>@Compendium[brodericks-compendium.plants.eEX1oke5pRoJqWBi]{Ironvine}</p>\n<p>@Compendium[brodericks-compendium.plants.9JmDiZVL1095lvsL]{Jelly Moss (Ogre Snot)}</p>\n<p>@Compendium[brodericks-compendium.plants.JQgHsNwbt4Mvbcno]{Korogg}</p>\n<p>@Compendium[brodericks-compendium.plants.EgLNEfFa8IFcL7Q3]{Light of Mystra}</p>\n<p>@Compendium[brodericks-compendium.plants.a8tPjTqwb5ZG3DMi]{Luhix}</p>\n<p>@Compendium[brodericks-compendium.plants.Pd1MPxSZqflyE4Ng]{Lumina Cap}</p>\n<p>@Compendium[brodericks-compendium.plants.qrp6TTQGTFCKuXAI]{Maiden's Hair (Earthsilk)}</p>\n<p>@Compendium[brodericks-compendium.plants.YsUOL0Z8YsNCo2D6]{Moonstern}</p>\n<p>@Compendium[brodericks-compendium.plants.HxpuxUCbh4SrxIPd]{Mothflowers}</p>\n<p>@Compendium[brodericks-compendium.plants.u7U6FfqBBwnwH455]{Nightcall}</p>\n<p>@Compendium[brodericks-compendium.plants.IHZGhfjAtQ4V3EYM]{Nightmare Root}</p>\n<p>@Compendium[brodericks-compendium.plants.F2mT99BndrMbY01E]{Orevine}</p>\n<p>@Compendium[brodericks-compendium.plants.FrDVqeMM7uy6nqOL]{Quicksilver Lichen}</p>\n<p>@Compendium[brodericks-compendium.plants.AYumsaLcuba13m5r]{Rare-Blue}</p>\n<p>@Compendium[brodericks-compendium.plants.d4ZyaOcvy8GYEoW4]{Ripplewood}</p>\n<p>@Compendium[brodericks-compendium.plants.GnKEPAwsGea6O8mg]{Serpent Sweat}</p>\n<p>@Compendium[brodericks-compendium.plants.zjVniN6D4hsENVmX]{Shadowrose}</p>\n<p>@Compendium[brodericks-compendium.plants.wcOit03E1OCAsUIR]{Shaggy Ink Mushrooms}</p>\n<p>@Compendium[brodericks-compendium.plants.bnjKOTsXoeYMQ4EG]{Silver Hibiscus}</p>\n<p>@Compendium[brodericks-compendium.plants.1NiTbxriMZircYXv]{Silver Tassel Toadstool}</p>\n<p>@Compendium[brodericks-compendium.plants.GdY8cH06QkMW3vHJ]{Stoneshroom}</p>\n<p>@Compendium[brodericks-compendium.plants.qPYyrIw9TLN5daUG]{Sunflower of Pelor}</p>\n<p>@Compendium[brodericks-compendium.plants.o8P3kqohkN6IfSoJ]{Sussur (Deeproot)}</p>\n<p>@Compendium[brodericks-compendium.plants.Nlwdc7FLrEkthASh]{Torchstalk}</p>\n<p>@Compendium[brodericks-compendium.plants.uffW5v20FSshw1gT]{Trathua}</p>\n<p>@Compendium[brodericks-compendium.plants.6ykLuz2ecakJ2vfa]{Wispstalks}</p>\n<p>@Compendium[brodericks-compendium.plants.MtpbTVePEJUzzteM]{Wizard Hats}</p>\n<p>@Compendium[brodericks-compendium.plants.SXrJyJqrqwyTYSGD]{Zur}</p>\n<p>@Compendium[brodericks-compendium.plants.tLGAZsHa51ItdiUa]{Zurkhwood}</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Broderick's Compendium: Plants and Fungi Across the Realm (version 2.0)",
+    "quantity": 1,
+    "weight": null,
+    "price": null,
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "common",
+    "identified": true,
+    "damage": {
+      "parts": []
+    },
+    "details": {
+      "description": "<p>A book might contain poetry, historical accounts, information pertaining to a particular field of lore, diagrams and notes on gnomish contraptions, or just about anything else that can be represented using text or pictures. A book of spells is a @Compendium[dnd5e.items.LBajgahniRJbAgDr]{Spellbook}.</p>"
+    }
+  },
+  "_key": "!items!Ni81zICTDr6d0a0J"
+}

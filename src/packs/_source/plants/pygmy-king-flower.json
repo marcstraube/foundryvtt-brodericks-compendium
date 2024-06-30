@@ -1,0 +1,126 @@
+{
+  "name": "Pygmy King Flower",
+  "type": "consumable",
+  "flags": {
+    "betterRolls5e": {
+      "critRange": {
+        "value": null
+      },
+      "critDamage": {
+        "value": ""
+      },
+      "quickDesc": {
+        "value": true,
+        "altValue": true
+      },
+      "quickProperties": {
+        "value": true,
+        "altValue": true
+      },
+      "quickOther": {
+        "value": true,
+        "altValue": true
+      },
+      "quickFlavor": {
+        "value": true,
+        "altValue": true
+      },
+      "quickCharges": {
+        "value": {
+          "quantity": false
+        },
+        "altValue": {
+          "quantity": false
+        }
+      }
+    }
+  },
+  "img": "modules/brodericks-compendium/assets/icons/flower.svg",
+  "effects": [],
+  "_id": "QKnA95lwCGfa35S3",
+  "system": {
+    "description": {
+      "value": "<p><em>Biome: Jungles, Swamps</em></p>\n<p>The Pygmy King Flower produces a conical, flower-like structure from a base of 8-10 fat, fluid filled leaves that resemble a broken rib cage. The flower is usually 1' in diameter, 2' tall, and always brightly colored. While the color can vary greatly, solid orange and blue with yellow spots are the most common colors in tropical locales. Nectar fills at least half of each basin shaped flower and when exposed to sunlight this liquid releases a sweet, sugary fragrance. Small creatures and large insects are attracted to this smell but upon entering the flower they are trapped by its slippery walls and slowly digested. When a Pygmy King Flower finishes digesting a meal, or becomes over filled (such as after a heavy rain) the flower will tilt and dump its contents onto the jungle floor before slowly righting itself once more. The succulent, rib shaped leaves at the base of this plant can be mashed into a salve that is an excellent treatment for major burns and minor lacerations (successful application of this salve can cure up to [[/roll 2d8]] fire damage if applied within 3 rounds of taking that damage).</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Broderick's Compendium: Plants and Fungi Across the Realm (version 2.0)",
+    "quantity": 1,
+    "weight": {
+      "value": 0,
+      "units": "lb"
+    },
+    "price": 0,
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "rare",
+    "identified": true,
+    "activation": {
+      "type": "",
+      "cost": null,
+      "condition": ""
+    },
+    "duration": {
+      "value": null,
+      "units": ""
+    },
+    "cover": null,
+    "crewed": false,
+    "target": {
+      "value": null,
+      "width": null,
+      "units": "",
+      "type": ""
+    },
+    "range": {
+      "value": null,
+      "long": null,
+      "units": ""
+    },
+    "uses": {
+      "value": null,
+      "max": 0,
+      "per": null,
+      "recovery": "",
+      "autoDestroy": false
+    },
+    "consume": {
+      "type": "",
+      "target": null,
+      "amount": null
+    },
+    "ability": null,
+    "actionType": "",
+    "attackBonus": 0,
+    "chatFlavor": "",
+    "critical": null,
+    "damage": {
+      "parts": [],
+      "versatile": ""
+    },
+    "formula": "",
+    "save": {
+      "ability": "",
+      "dc": null,
+      "scaling": "spell"
+    },
+    "consumableType": "potion",
+    "attuned": false
+  },
+  "ownership": {
+    "default": 0
+  },
+  "folder": null,
+  "sort": 0,
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "2.2.1",
+    "coreVersion": "12.328",
+    "createdTime": null,
+    "modifiedTime": 1698242026539,
+    "lastModifiedBy": "packsbuilder0000",
+    "compendiumSource": null,
+    "duplicateSource": null
+  },
+  "_key": "!items!QKnA95lwCGfa35S3"
+}

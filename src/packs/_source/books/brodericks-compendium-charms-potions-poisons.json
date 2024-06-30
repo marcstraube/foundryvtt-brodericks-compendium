@@ -1,0 +1,45 @@
+{
+  "name": "Broderick's Compendium: Charms, Potions & Poisons",
+  "type": "loot",
+  "img": "icons/sundries/books/book-worn-brown.webp",
+  "effects": [],
+  "flags": {},
+  "system": {
+    "description": {
+      "value": "<p>@UUID[Compendium.brodericks-compendium.plants.8Y1I8iNnWsyB5xKc]{Betrayer's Inception}</p><p>@UUID[Compendium.brodericks-compendium.plants.DRHKJ3LIY5JKQd17]{Nine Herbs Charm}</p><p>@UUID[Compendium.brodericks-compendium.plants.iRIvXdqL71moupdT]{Vortax}</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Broderick's Compendium: Plants and Fungi Across the Realm (version 2.0)",
+    "quantity": 1,
+    "weight": {
+      "value": 0,
+      "units": "lb"
+    },
+    "price": {
+      "value": 0,
+      "denomination": "gp"
+    },
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "rare",
+    "identified": true
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "2.2.1",
+    "coreVersion": "12.328",
+    "createdTime": 1686115093427,
+    "modifiedTime": 1686115278953,
+    "lastModifiedBy": "packsbuilder0000",
+    "compendiumSource": "Compendium.dnd5e.items.RMi9efrW9ouHVLI2",
+    "duplicateSource": null
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "i6HHUSbByshHFg6F",
+  "_key": "!items!i6HHUSbByshHFg6F"
+}

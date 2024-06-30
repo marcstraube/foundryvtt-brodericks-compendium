@@ -1,0 +1,126 @@
+{
+  "name": "Tyrant's Mercy",
+  "type": "consumable",
+  "flags": {
+    "betterRolls5e": {
+      "critRange": {
+        "value": null
+      },
+      "critDamage": {
+        "value": ""
+      },
+      "quickDesc": {
+        "value": true,
+        "altValue": true
+      },
+      "quickProperties": {
+        "value": true,
+        "altValue": true
+      },
+      "quickOther": {
+        "value": true,
+        "altValue": true
+      },
+      "quickFlavor": {
+        "value": true,
+        "altValue": true
+      },
+      "quickCharges": {
+        "value": {
+          "quantity": false
+        },
+        "altValue": {
+          "quantity": false
+        }
+      }
+    }
+  },
+  "img": "modules/brodericks-compendium/assets/icons/mushroom.svg",
+  "effects": [],
+  "_id": "moEsImeFBcr8BqNo",
+  "system": {
+    "description": {
+      "value": "<p><em>Biome: Jungles</em></p>\n<p>A small, white fungus consisting of only mycelium with no reproductive bodies, Tyrant&rsquo;s Mercy is a slow-moving fungus that grows mainly on decaying woody matter. When harvested and mashed with a small amount of mercury, the resulting paste is sticky and white with a slightly pearlescent sheen. A contact poison, the paste is often applied to locations that the victim&rsquo;s flesh would commonly be in contact with, such as sword handles, the insides of crowns and hates, or even on the lids of toilets, repeated exposure may cause the target to slowly lose their mind. Upon each contact, the target must make a DC 10 Cons. Save against poison. Upon 3 consecutive failures, the target then rolls on the Short-Term Madness table (DMG pg. 259). After this initial mild insanity, and more contact with the poison, another 3 consecutive failures will cause a Long-Term Madness effect (DMG pg. 260), and another 3 consecutive failures after that will cause an Indefinite Madness (DMG pg. 260).</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Broderick's Compendium: Plants and Fungi Across the Realm (version 2.0)",
+    "quantity": 1,
+    "weight": {
+      "value": 0,
+      "units": "lb"
+    },
+    "price": 0,
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "uncommon",
+    "identified": true,
+    "activation": {
+      "type": "",
+      "cost": null,
+      "condition": ""
+    },
+    "duration": {
+      "value": null,
+      "units": ""
+    },
+    "cover": null,
+    "crewed": false,
+    "target": {
+      "value": null,
+      "width": null,
+      "units": "",
+      "type": ""
+    },
+    "range": {
+      "value": null,
+      "long": null,
+      "units": ""
+    },
+    "uses": {
+      "value": null,
+      "max": 0,
+      "per": null,
+      "recovery": "",
+      "autoDestroy": false
+    },
+    "consume": {
+      "type": "",
+      "target": null,
+      "amount": null
+    },
+    "ability": null,
+    "actionType": "",
+    "attackBonus": 0,
+    "chatFlavor": "",
+    "critical": null,
+    "damage": {
+      "parts": [],
+      "versatile": ""
+    },
+    "formula": "",
+    "save": {
+      "ability": "",
+      "dc": null,
+      "scaling": "spell"
+    },
+    "consumableType": "potion",
+    "attuned": false
+  },
+  "ownership": {
+    "default": 0
+  },
+  "folder": null,
+  "sort": 0,
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "2.2.1",
+    "coreVersion": "12.328",
+    "createdTime": null,
+    "modifiedTime": 1700852270120,
+    "lastModifiedBy": "packsbuilder0000",
+    "compendiumSource": null,
+    "duplicateSource": null
+  },
+  "_key": "!items!moEsImeFBcr8BqNo"
+}

@@ -1,0 +1,126 @@
+{
+  "name": "Poznan's Chain",
+  "type": "consumable",
+  "flags": {
+    "betterRolls5e": {
+      "critRange": {
+        "value": null
+      },
+      "critDamage": {
+        "value": ""
+      },
+      "quickDesc": {
+        "value": true,
+        "altValue": true
+      },
+      "quickProperties": {
+        "value": true,
+        "altValue": true
+      },
+      "quickOther": {
+        "value": true,
+        "altValue": true
+      },
+      "quickFlavor": {
+        "value": true,
+        "altValue": true
+      },
+      "quickCharges": {
+        "value": {
+          "quantity": false
+        },
+        "altValue": {
+          "quantity": false
+        }
+      }
+    }
+  },
+  "img": "modules/brodericks-compendium/assets/icons/vines.svg",
+  "effects": [],
+  "_id": "MnZI9Kno0qgEk9Dm",
+  "system": {
+    "description": {
+      "value": "<p><em>Biome: Jungles, Mountains</em></p>\n<p>Poznan's Chain is a soft-wooded clinging vine armed with white, pearlescent spines, 2\" to 3\" in length that alternate the entire length of the vine with leathery leaves. These vines are typically only found growing on sheer cliff faces or the most opulent ruined buildings. While a single chain will usually run for 20' to 50' and spread to cover an area of about 200 square feet, some vines are purported to reach 100' or more and cover thousands of square feet with their leaves and thorns. The thorns of Poznan's Chain secrete a virulent poison that causes internal organs to violently rupture and hemorrhage (DC 18 Cons. Save. On a failed save take [[/roll 6d8]] poison damage and the poisoned effect for 6 hours, and on a successful save take half as much damage with no secondary effect.), leading to a bloody death in as little as 20 to 30 seconds. Curiously, if this poison is collected and taken more than 5' from the vine it immediately becomes water. Some claim that Poznan's Chain can produce large, silvery, metallic, star-shaped blooms, but these reports have never been verified.</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Broderick's Compendium: Plants and Fungi Across the Realm (version 2.0)",
+    "quantity": 1,
+    "weight": {
+      "value": 0,
+      "units": "lb"
+    },
+    "price": 0,
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "rare",
+    "identified": true,
+    "activation": {
+      "type": "",
+      "cost": null,
+      "condition": ""
+    },
+    "duration": {
+      "value": null,
+      "units": ""
+    },
+    "cover": null,
+    "crewed": false,
+    "target": {
+      "value": null,
+      "width": null,
+      "units": "",
+      "type": ""
+    },
+    "range": {
+      "value": null,
+      "long": null,
+      "units": ""
+    },
+    "uses": {
+      "value": null,
+      "max": 0,
+      "per": null,
+      "recovery": "",
+      "autoDestroy": false
+    },
+    "consume": {
+      "type": "",
+      "target": null,
+      "amount": null
+    },
+    "ability": null,
+    "actionType": "",
+    "attackBonus": 0,
+    "chatFlavor": "",
+    "critical": null,
+    "damage": {
+      "parts": [],
+      "versatile": ""
+    },
+    "formula": "",
+    "save": {
+      "ability": "",
+      "dc": null,
+      "scaling": "spell"
+    },
+    "consumableType": "potion",
+    "attuned": false
+  },
+  "ownership": {
+    "default": 0
+  },
+  "folder": null,
+  "sort": 0,
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "2.2.1",
+    "coreVersion": "12.328",
+    "createdTime": null,
+    "modifiedTime": 1698242221583,
+    "lastModifiedBy": "packsbuilder0000",
+    "compendiumSource": null,
+    "duplicateSource": null
+  },
+  "_key": "!items!MnZI9Kno0qgEk9Dm"
+}

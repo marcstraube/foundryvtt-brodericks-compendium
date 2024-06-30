@@ -1,0 +1,45 @@
+{
+  "_id": "Wtkv9WYQCUPNarHM",
+  "name": "Broderick's Compendium: The Complete Collection",
+  "type": "loot",
+  "img": "icons/sundries/books/book-worn-brown.webp",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "_stats": {
+    "coreVersion": "12.328",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "system": {
+    "description": {
+      "value": "<p>@Compendium[brodericks-compendium.books.cpslHU5s2EC5W8W6]{Arctic Plants}</p>\n<p>@Compendium[brodericks-compendium.books.Ni81zICTDr6d0a0J]{Cave &amp; Underdark Plants}</p>\n<p>@Compendium[brodericks-compendium.books.oHreF1jWBloURpZE]{City Plants}</p>\n<p>@Compendium[brodericks-compendium.books.dlwBKYc0VlfSEqx1]{Coastal Plants}</p>\n<p>@Compendium[brodericks-compendium.books.gAmZqtf8BC77O7Ph]{Desert Plants}</p>\n<p>@Compendium[brodericks-compendium.books.MFO9ABxSwm5HKbCF]{Forest Plants}</p>\n<p>@Compendium[brodericks-compendium.books.4aAEn6lIZjM6g5RY]{Jungle Plants}</p>\n<p>@Compendium[brodericks-compendium.books.lwGObH4Y0acCSLxm]{Mountain Plants}</p>\n<p>@Compendium[brodericks-compendium.books.MjU4JV4mSjwWf3b8]{Ocean Plants}</p>\n<p>@Compendium[brodericks-compendium.books.vSnohZyxf7JhxIlq]{Plains Plants}</p>\n<p>@Compendium[brodericks-compendium.books.xLk8pl8tcrSDi24k]{River Plants}</p>\n<p>@Compendium[brodericks-compendium.books.oPxe6iR1iRJ3ZDFD]{Swamp Plants}</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Broderick's Compendium: Plants and Fungi Across the Realm (version 2.0)",
+    "quantity": 1,
+    "weight": null,
+    "price": null,
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "common",
+    "identified": true,
+    "damage": {
+      "parts": []
+    },
+    "details": {
+      "description": "<p>A book might contain poetry, historical accounts, information pertaining to a particular field of lore, diagrams and notes on gnomish contraptions, or just about anything else that can be represented using text or pictures. A book of spells is a @Compendium[dnd5e.items.LBajgahniRJbAgDr]{Spellbook}.</p>"
+    }
+  },
+  "_key": "!items!Wtkv9WYQCUPNarHM"
+}
