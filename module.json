@@ -1,5 +1,5 @@
 {
-  "name": "brodericks-compendium",
+  "id": "brodericks-compendium",
   "title": "Broderick's Compendium: Plants and Fungi Across the Realm",
   "description": "A module that includes over 600 fantasy plants from Broderick's Compendium: Plants and Fungi Across the Realm (version 2.0) (Source: https://www.reddit.com/r/DnD/comments/83oupp/brodericks_compendium_plants_and_fungi_across_the/ ). This addon includes roll tables for Arctic, City, Coastal, Desert, Forest, Jungle, Mountain, Ocean, Plains, River, Swamp, and Underdark/Cave regions as per the source material.",
   "license": "GPL-3.0-only",
@@ -14,9 +14,8 @@
   ],
   "version": "This is auto replaced",
   "compatibility": {
-    "minimum": "10",
-    "verified": "12",
-    "maximum": "12"
+    "minimum": "13",
+    "verified": "13"
   },
   "packs": [
     {
